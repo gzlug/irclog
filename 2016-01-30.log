@@ -1,5 +1,5 @@
-[00:00:33] LastAvengers@#gzlug: 啊现在应该过 12 点了吧。
-[00:01:49] LastAvengers@#gzlug: wow 第一天没有出错 https://github.com/gzlug/irclog/blob/master/2016-01-29.log
+[00:00:33] LastAvengers: 啊现在应该过 12 点了吧。
+[00:01:49] LastAvengers: wow 第一天没有出错 https://github.com/gzlug/irclog/blob/master/2016-01-29.log
 [00:51:01] -- thinkaboutit JOIN #gzlug
 [01:06:00] -- huawei JOIN #gzlug
 [03:20:01] -- coldcicada JOIN #gzlug
@@ -9,99 +9,99 @@
 [11:14:09] -- LastAvengers JOIN #gzlug
 [11:38:30] -- thinkaboutit JOIN #gzlug
 [12:45:07] -- LastAvengers JOIN #gzlug
-[14:49:01] tg2gzlug@#gzlug: [yun bai] 有谁可以帮忙推荐几个比较好的看国外新闻不用翻墙的网站？
-[14:49:49] tg2gzlug@#gzlug: [Felix Yan] github?
+[14:49:01] tg2gzlug: [yun bai] 有谁可以帮忙推荐几个比较好的看国外新闻不用翻墙的网站？
+[14:49:49] tg2gzlug: [Felix Yan] github?
 [14:49:53] -- jactry JOIN #gzlug
-[14:50:03] tg2gzlug@#gzlug: [yun bai] 看新闻啊？
-[14:50:36] tg2gzlug@#gzlug: [Felix Yan] 比如 https://github.com/greatfire/wiki/wiki/nyt
-[14:51:40] tg2gzlug@#gzlug: [yun bai] 我是说时事新闻啊，不是程序的
-[14:51:50] tg2gzlug@#gzlug: [Felix Yan] ……你点开看就知道了
-[14:52:28] tg2gzlug@#gzlug: [yun bai] Sticker: https://img.vim-cn.com/d0/8592d93a636d546aab6a1b31971bf6ae2cc0a1.webp
-[14:52:37] tg2gzlug@#gzlug: [yun bai] 真的是时事啊
-[14:52:54] jactry@#gzlug: FT 的手机端也是免墙的
-[14:53:08] tg2gzlug@#gzlug: [yun bai] 有英文的么？
-[14:57:51] tg2gzlug@#gzlug: [Felix Yan] 不知道……
-[14:58:10] tg2gzlug@#gzlug: [yun bai] 好吧
-[14:58:27] tg2gzlug@#gzlug: [Liang Zunway] 不介意英语的bbc
-[14:58:45] tg2gzlug@#gzlug: [yun bai] 你们有在Linux上用为知笔记的么？
-[14:58:52] tg2gzlug@#gzlug: [Liang Zunway] yun bai: 没有
-[14:59:45] tg2gzlug@#gzlug: [yun bai] 今天突然用不了了，不过推荐大家去试用一下，我觉得还不错，linux版做的不错
-[15:00:00] tg2gzlug@#gzlug: [Liang Zunway] yun bai: 我是用着弃用了
-[15:01:25] tg2gzlug@#gzlug: [yun bai] 今天就更新了一下Mono突然就Segmentation fault
-[15:01:39] tg2gzlug@#gzlug: [Liang Zunway] yun bai: gdb走起
-[15:01:47] tg2gzlug@#gzlug: [yun bai] ?
-[15:01:57] tg2gzlug@#gzlug: [yun bai] Liang Zunway: 啥是gdb?
-[15:02:15] tg2gzlug@#gzlug: [Liang Zunway] yun bai: gdb就是调试那个gdb啊
-[15:02:40] tg2gzlug@#gzlug: [yun bai] 没用过，要安装么？
-[15:02:43] tg2gzlug@#gzlug: [yun bai] 还是？
-[15:03:45] tg2gzlug@#gzlug: [yun bai] 改了chrome的安全设置之后才发现，中国大部分门户网站安全性弱爆了
-[15:04:01] tg2gzlug@#gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/c6/727ea4ad1a758b8be86b1e0cfce116c75fd4e0.webp
-[15:04:47] tg2gzlug@#gzlug: [yun bai] 你是说这个错误用gdb调试就好了么？
-[15:04:50] tg2gzlug@#gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/60/dade0e86de3b740e42731437651766d4848836.webp
-[15:05:39] tg2gzlug@#gzlug: [Liang Zunway] yun bai: 找引起吐核的原因，然后自己脑补🌚
-[15:06:11] tg2gzlug@#gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/65/cb32735c74c2b356ccdb3572d0e864e33679ef.webp
-[15:08:28] tg2gzlug@#gzlug: [yun bai] ...擦，吐核不是软件本身的问题么？
-[15:09:18] tg2gzlug@#gzlug: [Liang Zunway] yun bai: 你没见过so引起的吐核吗🌚
-[15:09:37] tg2gzlug@#gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/8c/df1be9402fa07de95d6e7a353e2e5fdffc7ae5.webp
-[17:15:09] tg2gzlug@#gzlug: [谷 月轩] Fwd 谷 月轩: Linux 里类似 MS Spy 的软件有哪些呢？
-[17:15:28] tg2gzlug@#gzlug: [Liang Zunway] 谷 月轩: 什么来的
-[17:17:27] LastAvengers@#gzlug: 就是查看窗体的控件信息的，类似的好像有 xprop，不过不大会用。
-[17:22:26] jactry@#gzlug: xtrace？
-[17:24:27] LastAvengers@#gzlug: jactry: thx, 不过看起来好像不是（
-[17:24:53] jactry@#gzlug: xtrace可以获得的信息很多，不过不知道你需要什么
-[17:26:36] LastAvengers@#gzlug: 我想要窗口上的控件信息，比如这是个 Label 还是 Button 之类的。
-[17:28:05] LastAvengers@#gzlug: 对了 jactry 写过 gtk 么？
-[17:29:01] jactry@#gzlug: 好久之前写过 gtk 的小程序
-[17:30:08] LastAvengers@#gzlug: 最近正在学 gtk，看来不会的时候可以问你了（
-[17:30:40] tg2gzlug@#gzlug: [River Shang] LastAvengers: 👍👏感谢
-[17:31:25] jactry@#gzlug: 为什么不用 Qt ;)
-[17:32:18] jactry@#gzlug: LastAvengers: http://sourceforge.net/projects/g-inspector/ gtk 程序好像可以用这个
-[17:32:42] LastAvengers@#gzlug: jactry: 不会 C++（
-[17:33:13] jactry@#gzlug: PyQt 也行吧，虽然看文档还是要看 C++ 的文档
-[17:33:50] tg2gzlug@#gzlug: [谷 月轩] jactry: 看起来好像不错。
-[17:34:28] LastAvengers@#gzlug: 不知道是不是我的错觉，我见过的 pyqt 程序的效率都很慢…… UI 响应速度不太能接受。
-[17:34:47] tg2gzlug@#gzlug: [Liang Zunway] LastAvengers: python的锅
-[17:35:33] LastAvengers@#gzlug: 所以还是写原生的吧，不过 C 写界面实在是有点吃亏。
-[17:36:04] tg2gzlug@#gzlug: User "谷 月轩" changed nick to "LastAvengers"
-[17:36:11] tg2gzlug@#gzlug: [LastAvengers] LastAvengers: #mark
-[17:38:21] jactry@#gzlug: 还好了，不让你发现是 python 写的你就不会这么觉得了 xD
-[17:38:47] LastAvengers@#gzlug: :/ maybe
-[17:39:08] tg2gzlug@#gzlug: [Liang Zunway] jactry: jaba🌚
-[17:41:06] tg2gzlug@#gzlug: [River Shang] Felix Yan: 惊现Felix, Arch界的Felix😱
-[17:41:33] jactry@#gzlug: LastAvengers: 这个是真实的故事，不过我不想举例，不然以后你也觉得它慢了 xD
-[17:41:57] tg2gzlug@#gzlug: [Liang Zunway] jactry: ubuntu软件中心
-[17:42:45] jactry@#gzlug: 那个是真的慢 lol
-[17:44:54] LastAvengers@#gzlug: ACTION 吃饭（
-[17:45:28] LastAvengers@#gzlug: 我觉得慢的是这个软件： https://github.com/cosven/FeelUOwn
-[17:53:18] tg2gzlug@#gzlug: [Felix Yan] River Shang: 喵 QwQ
-[17:53:42] tg2gzlug@#gzlug: [Felix Yan] http://i.imgur.com/Agj6JF8.png
-[17:56:27] tg2gzlug@#gzlug: [Icenowy] gtk3有GtkInspector
-[17:56:35] tg2gzlug@#gzlug: [Icenowy] Ctrl-Shift-I
-[18:58:27] tg2gzlug@#gzlug: [Bash Horatio] Felix Yan: 有意思，看来以后看新闻也要有讲究了
-[19:29:24] tg2gzlug@#gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/d0/5252746dfb8214da193d0b96b13ac2189e858c.bin
-[19:29:37] tg2gzlug@#gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/82/da02d1270595fa76f7bd4ab9105eaa2f2c7327.bin
-[19:30:05] tg2gzlug@#gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/c3/ee8f27c2da9b6efeb19226e0a4583092fcdbf4.bin
-[19:31:04] tg2gzlug@#gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/bd/4b018c1c1cf728e517c7aa4a8064a1312111be.bin
-[19:34:25] tg2gzlug@#gzlug: [LastAvengers] Icenowy: thx
-[19:45:54] tg2gzlug@#gzlug: [知了2.0] Liang Zunway: 真的在发电报啊！
-[19:46:07] tg2gzlug@#gzlug: [知了2.0] 可惜我不懂摩斯码
-[19:56:46] tg2gzlug@#gzlug: [Liang Zunway] 知了2.0: 在电报上发电报不是很正常吗🌚
-[19:57:56] tg2gzlug@#gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/4b/9244ef148aeaf0396172216cf97591b4e0fbfd.bin
-[19:59:05] tg2gzlug@#gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/43/13f1bc6206b8c0723fd566084e0c65925741b3.bin
-[20:14:13] tg2gzlug@#gzlug: [知了2.0] Liang Zunway: 可惜听不懂。。
-[20:14:50] tg2gzlug@#gzlug: [yun bai] 是在联络外星人么？😏
-[20:15:14] tg2gzlug@#gzlug: [Liang Zunway] yun bai: 联络ETO😂
-[20:16:24] tg2gzlug@#gzlug: [yun bai] 跟他们说降落的时候要带防雾霾口罩
-[20:16:55] tg2gzlug@#gzlug: [yun bai] Sticker: https://img.vim-cn.com/b5/7e08c9bc5dd5ce2f1082bc5d47d07e3d675a0b.webp
-[20:17:12] tg2gzlug@#gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/eb/ea8da2853ebf0a4c0707da9cd74b1698ce450a.webp
-[20:18:10] tg2gzlug@#gzlug: [yun bai] 如果是敌对外星人的话，你把北京的地址告诉它们好了
-[20:18:41] tg2gzlug@#gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/f7/90005720f1e9bb4b651f30f22f9aea3619f427.webp
-[20:18:52] tg2gzlug@#gzlug: [yun bai] Sticker: https://img.vim-cn.com/22/1a5c5f9a49dc8ae47dcc0186dfb3f8abcd54cc.webp
-[20:20:49] tg2gzlug@#gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/52/8c167f122cdf45144f71c50898f6692231b9c1.webp
-[21:29:11] tg2gzlug@#gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/d2/3ae862a648c863f94b4e827af945253351fe1f.bin
+[14:50:03] tg2gzlug: [yun bai] 看新闻啊？
+[14:50:36] tg2gzlug: [Felix Yan] 比如 https://github.com/greatfire/wiki/wiki/nyt
+[14:51:40] tg2gzlug: [yun bai] 我是说时事新闻啊，不是程序的
+[14:51:50] tg2gzlug: [Felix Yan] ……你点开看就知道了
+[14:52:28] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/d0/8592d93a636d546aab6a1b31971bf6ae2cc0a1.webp
+[14:52:37] tg2gzlug: [yun bai] 真的是时事啊
+[14:52:54] jactry: FT 的手机端也是免墙的
+[14:53:08] tg2gzlug: [yun bai] 有英文的么？
+[14:57:51] tg2gzlug: [Felix Yan] 不知道……
+[14:58:10] tg2gzlug: [yun bai] 好吧
+[14:58:27] tg2gzlug: [Liang Zunway] 不介意英语的bbc
+[14:58:45] tg2gzlug: [yun bai] 你们有在Linux上用为知笔记的么？
+[14:58:52] tg2gzlug: [Liang Zunway] yun bai: 没有
+[14:59:45] tg2gzlug: [yun bai] 今天突然用不了了，不过推荐大家去试用一下，我觉得还不错，linux版做的不错
+[15:00:00] tg2gzlug: [Liang Zunway] yun bai: 我是用着弃用了
+[15:01:25] tg2gzlug: [yun bai] 今天就更新了一下Mono突然就Segmentation fault
+[15:01:39] tg2gzlug: [Liang Zunway] yun bai: gdb走起
+[15:01:47] tg2gzlug: [yun bai] ?
+[15:01:57] tg2gzlug: [yun bai] Liang Zunway: 啥是gdb?
+[15:02:15] tg2gzlug: [Liang Zunway] yun bai: gdb就是调试那个gdb啊
+[15:02:40] tg2gzlug: [yun bai] 没用过，要安装么？
+[15:02:43] tg2gzlug: [yun bai] 还是？
+[15:03:45] tg2gzlug: [yun bai] 改了chrome的安全设置之后才发现，中国大部分门户网站安全性弱爆了
+[15:04:01] tg2gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/c6/727ea4ad1a758b8be86b1e0cfce116c75fd4e0.webp
+[15:04:47] tg2gzlug: [yun bai] 你是说这个错误用gdb调试就好了么？
+[15:04:50] tg2gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/60/dade0e86de3b740e42731437651766d4848836.webp
+[15:05:39] tg2gzlug: [Liang Zunway] yun bai: 找引起吐核的原因，然后自己脑补🌚
+[15:06:11] tg2gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/65/cb32735c74c2b356ccdb3572d0e864e33679ef.webp
+[15:08:28] tg2gzlug: [yun bai] ...擦，吐核不是软件本身的问题么？
+[15:09:18] tg2gzlug: [Liang Zunway] yun bai: 你没见过so引起的吐核吗🌚
+[15:09:37] tg2gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/8c/df1be9402fa07de95d6e7a353e2e5fdffc7ae5.webp
+[17:15:09] tg2gzlug: [谷 月轩] Fwd 谷 月轩: Linux 里类似 MS Spy 的软件有哪些呢？
+[17:15:28] tg2gzlug: [Liang Zunway] 谷 月轩: 什么来的
+[17:17:27] LastAvengers: 就是查看窗体的控件信息的，类似的好像有 xprop，不过不大会用。
+[17:22:26] jactry: xtrace？
+[17:24:27] LastAvengers: jactry: thx, 不过看起来好像不是（
+[17:24:53] jactry: xtrace可以获得的信息很多，不过不知道你需要什么
+[17:26:36] LastAvengers: 我想要窗口上的控件信息，比如这是个 Label 还是 Button 之类的。
+[17:28:05] LastAvengers: 对了 jactry 写过 gtk 么？
+[17:29:01] jactry: 好久之前写过 gtk 的小程序
+[17:30:08] LastAvengers: 最近正在学 gtk，看来不会的时候可以问你了（
+[17:30:40] tg2gzlug: [River Shang] LastAvengers: 👍👏感谢
+[17:31:25] jactry: 为什么不用 Qt ;)
+[17:32:18] jactry: LastAvengers: http://sourceforge.net/projects/g-inspector/ gtk 程序好像可以用这个
+[17:32:42] LastAvengers: jactry: 不会 C++（
+[17:33:13] jactry: PyQt 也行吧，虽然看文档还是要看 C++ 的文档
+[17:33:50] tg2gzlug: [谷 月轩] jactry: 看起来好像不错。
+[17:34:28] LastAvengers: 不知道是不是我的错觉，我见过的 pyqt 程序的效率都很慢…… UI 响应速度不太能接受。
+[17:34:47] tg2gzlug: [Liang Zunway] LastAvengers: python的锅
+[17:35:33] LastAvengers: 所以还是写原生的吧，不过 C 写界面实在是有点吃亏。
+[17:36:04] tg2gzlug: User "谷 月轩" changed nick to "LastAvengers"
+[17:36:11] tg2gzlug: [LastAvengers] LastAvengers: #mark
+[17:38:21] jactry: 还好了，不让你发现是 python 写的你就不会这么觉得了 xD
+[17:38:47] LastAvengers: :/ maybe
+[17:39:08] tg2gzlug: [Liang Zunway] jactry: jaba🌚
+[17:41:06] tg2gzlug: [River Shang] Felix Yan: 惊现Felix, Arch界的Felix😱
+[17:41:33] jactry: LastAvengers: 这个是真实的故事，不过我不想举例，不然以后你也觉得它慢了 xD
+[17:41:57] tg2gzlug: [Liang Zunway] jactry: ubuntu软件中心
+[17:42:45] jactry: 那个是真的慢 lol
+[17:44:54] LastAvengers: ACTION 吃饭（
+[17:45:28] LastAvengers: 我觉得慢的是这个软件： https://github.com/cosven/FeelUOwn
+[17:53:18] tg2gzlug: [Felix Yan] River Shang: 喵 QwQ
+[17:53:42] tg2gzlug: [Felix Yan] http://i.imgur.com/Agj6JF8.png
+[17:56:27] tg2gzlug: [Icenowy] gtk3有GtkInspector
+[17:56:35] tg2gzlug: [Icenowy] Ctrl-Shift-I
+[18:58:27] tg2gzlug: [Bash Horatio] Felix Yan: 有意思，看来以后看新闻也要有讲究了
+[19:29:24] tg2gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/d0/5252746dfb8214da193d0b96b13ac2189e858c.bin
+[19:29:37] tg2gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/82/da02d1270595fa76f7bd4ab9105eaa2f2c7327.bin
+[19:30:05] tg2gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/c3/ee8f27c2da9b6efeb19226e0a4583092fcdbf4.bin
+[19:31:04] tg2gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/bd/4b018c1c1cf728e517c7aa4a8064a1312111be.bin
+[19:34:25] tg2gzlug: [LastAvengers] Icenowy: thx
+[19:45:54] tg2gzlug: [知了2.0] Liang Zunway: 真的在发电报啊！
+[19:46:07] tg2gzlug: [知了2.0] 可惜我不懂摩斯码
+[19:56:46] tg2gzlug: [Liang Zunway] 知了2.0: 在电报上发电报不是很正常吗🌚
+[19:57:56] tg2gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/4b/9244ef148aeaf0396172216cf97591b4e0fbfd.bin
+[19:59:05] tg2gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/43/13f1bc6206b8c0723fd566084e0c65925741b3.bin
+[20:14:13] tg2gzlug: [知了2.0] Liang Zunway: 可惜听不懂。。
+[20:14:50] tg2gzlug: [yun bai] 是在联络外星人么？😏
+[20:15:14] tg2gzlug: [Liang Zunway] yun bai: 联络ETO😂
+[20:16:24] tg2gzlug: [yun bai] 跟他们说降落的时候要带防雾霾口罩
+[20:16:55] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/b5/7e08c9bc5dd5ce2f1082bc5d47d07e3d675a0b.webp
+[20:17:12] tg2gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/eb/ea8da2853ebf0a4c0707da9cd74b1698ce450a.webp
+[20:18:10] tg2gzlug: [yun bai] 如果是敌对外星人的话，你把北京的地址告诉它们好了
+[20:18:41] tg2gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/f7/90005720f1e9bb4b651f30f22f9aea3619f427.webp
+[20:18:52] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/22/1a5c5f9a49dc8ae47dcc0186dfb3f8abcd54cc.webp
+[20:20:49] tg2gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/52/8c167f122cdf45144f71c50898f6692231b9c1.webp
+[21:29:11] tg2gzlug: [Liang Zunway] Voice: https://img.vim-cn.com/d2/3ae862a648c863f94b4e827af945253351fe1f.bin
 [22:19:01] -- LastAvengers JOIN #gzlug
 [22:21:28] -- jactry JOIN #gzlug
 [22:30:16] -- citypw JOIN #gzlug
 [23:15:22] -- citypw JOIN #gzlug
 [23:22:10] -- citypw JOIN #gzlug
-[23:48:15] tg2gzlug@#gzlug: [LastAvengers] = =
+[23:48:15] tg2gzlug: [LastAvengers] = =
