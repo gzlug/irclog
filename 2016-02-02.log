@@ -1,0 +1,143 @@
+[00:17:36] -- LastAvengers PART #gzlug
+[00:34:44] -- jactry_ JOIN #gzlug
+[08:46:15] tg2gzlug: [Liang Suilong] Arch Linux 包管理工具 pacman 5.0 添加了 {pre,post}-transaction hooks 格式简单可在 pacman.conf 中启用 / 读取和同步 .files 数据库 /  makepkg 将被拆分成库 /改进了信号处理和锁文件移除。
+[08:46:16] tg2gzlug: [Liang Suilong] https://twitter.com/terrywang/status/694316223782236160
+[12:09:03] tg2gzlug: [LastAvengers] Liang Suilong: 小火龙领袖好棒!
+[12:14:57] -- LastAvengers JOIN #gzlug
+[12:51:38] -- rivershang JOIN #gzlug
+[13:16:02] rivershang: LastAvengers: Hi, LastAvengers, 个人觉得频道的主题是否可以加上irclog及其链接的描述呢;-)
+[13:17:05] LastAvengers: rivershang: ok 啊。
+[13:17:30] tg2gzlug: [XIan RT] 不明觉厉
+[13:18:51] -- farseerfc JOIN #gzlug
+[13:20:05] LastAvengers: rivershang: done.
+[13:20:29] rivershang: LastAvengers: I see, thanks :-D
+[13:22:30] tg2gzlug: [还魂僵尸] 现在好冷清，都回家过年去了？
+[13:23:41] LastAvengers: 做家务 + 打代码（
+[13:24:05] tg2gzlug: [XIan RT] 家乡都没有网络233
+[13:24:24] tg2gzlug: [everyx] 现在在家，网络巨卡
+[13:24:30] rivershang: 还在坚守岗位 :'(
+[13:24:37] tg2gzlug: [XIan RT] 所以说嘛2333
+[13:25:37] tg2gzlug: [XIan RT] 表示我电报要翻墙才能上
+[13:25:46] rivershang: 回家后不知4G上网卡好不好用 :-/
+[13:26:13] tg2gzlug: [XIan RT] Sticker: https://img.vim-cn.com/41/f5ff5f19ff758ed3cb52e865d2ee02dd8fe863.webp
+[13:26:30] LastAvengers: Xian RT: IRC 就不用那个翻墙啦。
+[13:26:57] tg2gzlug: [XIan RT] IRC不太会用233
+[13:27:33] tg2gzlug: [XIan RT] 之前还尝试在vps搭建IRC服务
+[13:28:59] LastAvengers: 用 ChatZilla 的话不怎么需要敲指令的。
+[13:29:19] tg2gzlug: [XIan RT] 准备买路由器弄ss啦，上电报就不用翻墙了
+[13:29:32] tg2gzlug: [XIan RT] 我去试试看233
+[13:29:49] tg2gzlug: [farseerfc] pidgin 也不怎麼需要
+[13:30:15] LastAvengers: fc: pidgin 好看么？
+[13:31:32] tg2gzlug: [XIan RT] pidgin之前在ubuntu上用过
+[13:32:11] tg2gzlug: [farseerfc] LastAvengers: 還成吧， gtk2 的程序裏面我覺得算是實用那一類的
+[13:32:22] tg2gzlug: [farseerfc] 其實我用 finch 不用 pidgin ……
+[13:32:28] tg2gzlug: [XIan RT] 2333
+[13:33:03] tg2gzlug: [farseerfc] finch 看起來這樣
+[13:33:06] tg2gzlug: [farseerfc] Img: https://img.vim-cn.com/73/772ed44eb0e163f2917dc9ebe9bd461bd18964.jpg
+[13:34:13] tg2gzlug: [LastAvengers] wow
+[13:34:31] tg2gzlug: [XIan RT] wowow~
+[13:35:30] tg2gzlug: [farseerfc] 支持鼠標點啊拖啊之類的，和gui程序用起來差不多……
+[13:35:43] tg2gzlug: [XIan RT] 不明觉厉呢
+[13:35:50] -- jactry JOIN #gzlug
+[13:37:54] rivershang: wow~ 猴赛雷
+[13:37:59] tg2gzlug: [farseerfc] 他們費了老大力氣把 gtk2 port 到 ncurses 搞了個 gnt 結果我只看到 finch 在用這個庫……
+[13:38:09] rivershang: Pidgin看起来是这样：http://img.vim-cn.com/9b/e4fdfbe5afba42119067009954c95682e112df.png
+[13:39:18] LastAvengers: gtk2 port 到 ncures……
+[13:40:07] LastAvengers: pidgin 看起来还好……
+[13:40:59] tg2gzlug: [farseerfc] 最近 ncurses 更新了之後 finch 的 nick 就沒顏色了，也不知道爲什麼……
+[13:41:34] rivershang: 嗯，GTK风格还不错
+[13:43:37] tg2gzlug: [XIan RT] wow~原来这个群跟IRC联通的耶
+[13:43:42] tg2gzlug: [XIan RT] 6666
+[14:31:54] tg2gzlug: [Liang Zunway] Fwd LaTeX Pu: 【linux】转：一位同志为快速删除arch，rm -rf /砖了 http://tieba.baidu.com/p/4334319580
+[14:53:14] tg2gzlug: [LastAvengers] 可怕……
+[15:43:00] -- jactry JOIN #gzlug
+[15:56:02] tg2gzlug: [还魂僵尸] 没太想明白
+[16:05:21] tg2gzlug: [Icenowy] 还魂僵尸: linux现在在uefi系统上默认挂在efivars
+[16:05:32] tg2gzlug: [Icenowy] icenowy [ Downloads ] $ mount | grep efi
+[16:05:32] tg2gzlug: [Icenowy] efivarfs on /sys/firmware/efi/efivars type efivarfs (rw,nosuid,nodev,noexec,relatime)
+[16:05:33] tg2gzlug: [Icenowy] 注意是rw
+[16:05:42] tg2gzlug: [Icenowy] 而且这个fs直接存在于主板nvram上
+[16:07:01] tg2gzlug: [还魂僵尸] 我去，还是乖乖legacy BIOS安全😅
+[16:07:57] tg2gzlug: [farseerfc] 不作死就不會死系列
+[17:41:12] -- rivershang PART #gzlug
+[17:53:50] -- jactry JOIN #gzlug
+[18:53:26] tg2gzlug: [Ammonite] 把固件写映射到文件系统的确是抽了
+[18:54:34] tg2gzlug: [Ammonite] T450s到手折腾了一周，最后还是弃用UEFI
+[18:55:59] tg2gzlug: [Ammonite] 深刻同意Linus的话，“Intel的又一次脑子进水，上一次是ACPI"
+[18:56:17] tg2gzlug: [Ammonite] UEFI
+[18:56:31] LastAvengers: T450s 用 uefi 有问题？
+[18:58:51] tg2gzlug: [Ammonite] Multiboot还是要靠MBR
+[19:00:00] LastAvengers: 我的破本子旧到没有 UEFI……
+[19:00:43] tg2gzlug: [Ammonite] 然后发现无论Ubuntu还是Debian都无法删掉挂了的uefi入口
+[19:01:44] tg2gzlug: [Ammonite] 因为挂不上uefivars，没时间折腾，扔一边了
+[19:02:31] tg2gzlug: [Icenowy] @samuelhuang 要修改efivars得用efi启动
+[19:03:10] tg2gzlug: [Ammonite] Uefi live启动的
+[19:04:10] tg2gzlug: [farseerfc] mbp 和 vaio 都在用 systemd-boot
+[20:09:08] -- farseerfc PART #gzlug
+[20:30:30] tg2gzlug: [Bash Horatio] Ammonite: 炸了个天，好恐怖的样子，幸好只是在优盘上装过uefi方式启动的系统。为什么删不掉？
+[20:40:56] -- jactry JOIN #gzlug
+[20:42:49] tg2gzlug: [yun bai] 大家都回家了么？
+[20:45:27] LastAvengers: 已经回家好久了。
+[20:45:46] tg2gzlug: [yun bai] 为什么你们那么早就放假了？
+[20:45:53] tg2gzlug: [yun bai] 你们公司福利都这么好啊
+[20:46:07] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/3a/d245e1480970d6264e637d8a157262b84ed7c8.webp
+[20:48:05] LastAvengers: ACTION 放寒假
+[20:48:58] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/64/896d795a167f8b2b7671e5289e770111d7bac4.webp
+[20:49:02] tg2gzlug: [yun bai] 原来是小朋友啊
+[20:49:15] tg2gzlug: [yun bai] 压岁钱还没拿吧
+[20:50:26] tg2gzlug: [LastAvengers] 😐
+[20:51:10] tg2gzlug: [LastAvengers] 还没过年哪来的压岁钱。
+[20:52:12] tg2gzlug: [yun bai] 貌似我以前的压岁钱怎么花的我都记不清了
+[20:52:46] LastAvengers: 今年要换新电脑（然而还是只能买便宜的
+[20:53:10] tg2gzlug: [yun bai] 笔记本么？
+[20:54:22] LastAvengers: 对啊。
+[20:54:42] tg2gzlug: [yun bai] 打算上船么？
+[20:54:55] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/22/1a5c5f9a49dc8ae47dcc0186dfb3f8abcd54cc.webp
+[20:54:56] LastAvengers: 不知道……
+[20:55:34] tg2gzlug: [yun bai] 最新出的轻薄本感觉不错的样子
+[20:56:22] LastAvengers: 我对笔记本没什么研究 + 穷 + 选择困难症，所以暂时没去想买什么。
+[20:56:56] LastAvengers: ACTION 洗澡去。
+[21:00:13] tg2gzlug: [yun bai] 听说电信年后全面封堵vpn了
+[21:21:48] huawei: 每次都是虚的
+[21:23:27] tg2gzlug: [知了2.0] 用win平板的路过。装Linux应该也没难度。
+[21:24:14] tg2gzlug: [yun bai] 好吧，我决定过年买个win平板，就这么愉快的决定了
+[21:24:30] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/b5/7e08c9bc5dd5ce2f1082bc5d47d07e3d675a0b.webp
+[21:38:13] tg2gzlug: [知了2.0] surface pro 4?
+[21:38:17] tg2gzlug: [知了2.0] 😂
+[21:38:46] tg2gzlug: [yun bai] 不知道啊，我看了你消息才发现自己没用过平板😂
+[21:41:40] tg2gzlug: [知了2.0] Dell戴尔 Venue 11 Pro i5 128G 256G win8平板电脑美国代购 官翻-淘宝网
+[21:41:41] tg2gzlug: [知了2.0] https://item.taobao.com/item.htm?id=45349233311&spm=a2141.7631730.0.i1&spm=a2141.7631730.0.i1
+[21:41:48] tg2gzlug: [知了2.0] 我买的这款。
+[21:42:34] tg2gzlug: [yun bai] 要从美国运过来啊😂，你花了多久？
+[21:42:44] tg2gzlug: [知了2.0] 20多天
+[21:43:12] tg2gzlug: [yun bai] 万一有质量问题怎么办啊😳
+[21:44:09] tg2gzlug: [yun bai] 比实体店便宜很多么？
+[21:44:27] tg2gzlug: [知了2.0] 官翻版的。肯定便宜很多
+[21:45:03] tg2gzlug: [知了2.0] 买国行，要7000+
+[21:45:19] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/d0/8592d93a636d546aab6a1b31971bf6ae2cc0a1.webp
+[21:46:41] -- jactry JOIN #gzlug
+[21:46:49] tg2gzlug: [yun bai] 我还是买个ipad mini好了
+[21:48:27] tg2gzlug: [知了2.0] ipad mini不能码代码
+[21:48:38] tg2gzlug: [知了2.0] 不能运行IDE
+[21:48:45] tg2gzlug: [知了2.0] 😂
+[21:48:57] tg2gzlug: [yun bai] 用Pad也能码代码？手感很差吧
+[21:49:13] tg2gzlug: [知了2.0] 我接了个机械键盘。
+[21:49:17] tg2gzlug: [yun bai] Sticker: https://img.vim-cn.com/97/ca7f53997cfdb646027bd0be59926ddc2c883d.webp
+[21:49:31] tg2gzlug: [知了2.0] 和扩展底座
+[21:49:36] tg2gzlug: [yun bai] 我还是比较喜欢在键盘跳跃的感觉
+[21:49:56] tg2gzlug: [yun bai] 这也是我愿意写原因代码的重要
+[21:50:14] tg2gzlug: [知了2.0] 现在我的板板都被我当台式机用了。
+[21:50:44] tg2gzlug: [yun bai] 我恐怕不行，我工作对显卡有要求的
+[21:51:05] tg2gzlug: [yun bai] 不是随便个能运行IDE的电脑就能写的
+[21:51:15] tg2gzlug: [知了2.0] 那只能买高配本本或者台式机了。
+[21:52:19] tg2gzlug: [yun bai] 所以pad还是拿来娱乐吧，不要什么电子设备都和工作挂钩比较好
+[21:52:48] tg2gzlug: [知了2.0] 嗯，ipad用来看番，看漫画还是不错的。
+[21:53:18] tg2gzlug: [yun bai] 或者kinda，如果看书的话，好像也不错
+[22:10:51] tg2gzlug: [Icenowy] 知了2.0: 真不一定
+[22:10:54] tg2gzlug: [Icenowy] Atom的神坑
+[22:11:23] tg2gzlug: [知了2.0] 我的i5的
+[22:19:59] tg2gzlug: [FPs] 刚刚到家。。。南方真特么冷。。
+[22:20:10] tg2gzlug: [知了2.0] 😂
+[22:27:41] LastAvengers: 这几天还算好的了……
+[22:28:05] LastAvengers: 前几天又湿又冷，家里的温度比外面还低。
+[23:07:39] -- coldcicada1 JOIN #gzlug
