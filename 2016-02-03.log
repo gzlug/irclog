@@ -1,0 +1,119 @@
+[00:43:34] -- LastAvengers PART #gzlug
+[00:58:18] -- huawei JOIN #gzlug
+[06:50:34] tg2gzlug: [Bash Horatio] yun bai: 师兄是高级切图仔么？边修图边撸码😂
+[09:31:05] -- jactry JOIN #gzlug
+[09:37:30] -- LastAvengers JOIN #gzlug
+[14:27:45] -- jactry JOIN #gzlug
+[15:53:44] tg2gzlug: [Liang Zunway] Img: https://img.vim-cn.com/ad/a41c574b27cc9d4861a3ba41112b123a78f3b7.jpg
+[15:55:18] tg2gzlug: [Liang Zunway] boom
+[16:15:24] -- huawei JOIN #gzlug
+[16:34:10] tg2gzlug: [Liang Zunway] Img: https://img.vim-cn.com/ad/a41c574b27cc9d4861a3ba41112b123a78f3b7.jpg
+[16:34:31] tg2gzlug: [Liang Zunway] bot没反应的？
+[16:35:18] huawei: test
+[16:39:18] tg2gzlug: [farseerfc] 需要一個 titlebot
+[16:41:46] huawei: 话说这么吓人的负载是怎么来的
+[16:43:02] tg2gzlug: [farseerfc] 有個僵死進程？
+[18:12:30] -- jactry JOIN #gzlug
+[20:40:00] -- huawei JOIN #gzlug
+[20:47:05] tg2gzlug: [还魂僵尸] 这……貌似有bug可以做到？
+[20:57:11] huawei: 当时我就吓坏了
+[20:57:21] huawei: top有几个没有名字的进程
+[21:00:10] huawei: ssh，apache已经hang住了，znc还能进去（znc也是吊）
+[21:00:26] tg2gzlug: [farseerfc] 我也遇到過 負載到 200 了系統一點事情都沒的情況
+[21:02:47] tg2gzlug: [farseerfc] 後來重啟了
+[21:03:34] -- jactry JOIN #gzlug
+[21:04:15] tg2gzlug: [还魂僵尸] 200了，应该ssh什么都很卡了吧？
+[21:07:53] tg2gzlug: [farseerfc] 一切正常…有100多個僵死進程收割不掉，但是沒怎麼佔資源
+[21:11:44] -- i2p2gzlug JOIN #gzlug
+[21:14:10] -- i2p2gzlug JOIN #gzlug
+[21:14:21] i2p2gzlug: [i2p] <zunway> test
+[21:15:04] huawei: farseerfc, 僵尸进程怎么收割
+[21:15:17] i2p2gzlug: [i2p] <zunway> i2p分部开通
+[21:15:52] tg2gzlug: [farseerfc] huawei: 不懂……想了各種辦法都收不掉，似乎卡在某個內核線程上了……然後就重啓了
+[21:18:19] huawei: farseerfc, 很神奇的是我用ttl线进去发现cpu使用率很低
+[21:19:00] tg2gzlug: [farseerfc] huawei: 我當時整個系統完全可用，IO 和 CPU 都沒在幹活……
+[21:19:14] -- i2p2gzlug JOIN #gzlug
+[21:19:42] huawei: farseerfc, 我也是这种情况，不知道负载出在哪里了
+[21:21:23] tg2gzlug: [yun bai] 今天终于用笔记本独立n卡玩了把DOTA2，各种顿卡，intel集成显卡虽然帧数低，但是很流畅，无语
+[21:22:22] huawei: gt610?
+[21:22:35] tg2gzlug: [yun bai] 634
+[21:22:41] tg2gzlug: [yun bai] 635
+[21:23:01] huawei: 6代u吗
+[21:23:32] tg2gzlug: [yun bai] hd4000吧，应该是
+[21:23:56] tg2gzlug: [yun bai] 现在我电脑世界三大系统都全了
+[21:25:06] huawei: hd4000可以和635打了
+[21:25:49] -- i2p2gzlug JOIN #gzlug
+[21:26:09] tg2gzlug: [yun bai] 我说你们用独立n卡打dota2效果如何啊？
+[21:26:37] huawei: 我们通常没有n卡的
+[21:26:56] i2p2gzlug: [i2p] <huawei> testing
+[21:27:06] i2p2gzlug: [i2p] - huawei is now known as zunway
+[21:28:21] i2p2gzlug: [i2p] <zunway> i2p test
+[21:29:12] i2p2gzlug: [i2p] <zunway> testing
+[21:30:05] huawei: test
+[21:36:51] i2p2gzlug: [i2p] <zunway> testing
+[21:46:57] i2p2gzlug: [i2p] <zunway> ping
+[21:47:11] i2p2gzlug: [i2p] - zunway has quit (Client exited)
+[21:47:34] i2p2gzlug: [i2p] - zunway (zunway@rpyciipewbzxoku27w4k3ibowcwop34eih45coijrxbkzgtx6ofa.b32.i2p) has joined #gzlug
+[21:48:48] i2p2gzlug: [i2p] <zunway> ping
+[21:59:46] -- LastAvengers JOIN #gzlug
+[22:02:42] tg2gzlug: [LastAvengers] 喔树莓派到了么。
+[22:03:53] i2p2gzlug: [i2p] <zunway> 到了
+[22:04:21] tg2gzlug: [LastAvengers] 能想办法压缩成只有一层昵称么（
+[22:05:03] i2p2gzlug: [i2p] <zunway> 这个bot是hardcode了两层的。。。
+[22:05:42] tg2gzlug: [LastAvengers] 😐
+[22:07:00] huawei: 代码是ruby的，我不会改
+[22:07:15] i2p2gzlug: [i2p] <zunway> 代码是ruby的，我不会改
+[22:08:05] i2p2gzlug: [i2p] <zunway> delay....
+[22:24:42] i2p2gzlug: [i2p] <zunway> ping
+[22:25:44] i2p2gzlug: [i2p] <zunway> https://github.com/somasonic/ruby-relay
+[22:29:43] tg2gzlug: [LastAvengers] https://github.com/somasonic/ruby-relay/blob/master/lib/relay.rb#L163 这里把 network 去掉？
+[22:31:38] huawei: LastAvengers: 两个都去掉吗？
+[22:32:25] LastAvengers: 是吧，看起来是普通消息和 /me 两种情况。
+[22:33:39] LastAvengers: 另外要把 < > 换成 [ ] 阿卡林才比较容易识别吧。
+[22:34:37] tg2gzlug: [十六夜 咲夜] i2p 可以加入名單
+[22:35:30] LastAvengers: ACTION 需要原生支持 relaybot 的客户端。
+[22:35:49] huawei: 原生支持？
+[22:37:33] -- i2p2gzlug JOIN #gzlug
+[22:37:49] i2p2gzlug: [zunway] ping
+[22:37:56] huawei: 可以了
+[22:38:02] LastAvengers: 类似这样？ https://img.vim-cn.com/bb/f3f11def2a6ea969559af33e2e05a0f0cffe22.png
+[22:38:40] LastAvengers: i2p2gzlug: 好棒。
+[22:38:48] huawei: LastAvengers: 还是不太懂
+[22:43:34] i2p2gzlug: [zunway] ping
+[22:44:10] huawei: i2p频道在#gzlug 默认服务器
+[22:44:26] i2p2gzlug: [i2p] * zunway test
+[22:46:02] LastAvengers: 怎么又有 [i2p] 了？
+[22:46:22] tg2gzlug: [十六夜 咲夜] 因爲 action 麼
+[22:46:26] huawei:  /me那里没改
+[22:50:41] i2p2gzlug: [zunway] i2p这边的nickserv挂了
+[22:51:44] i2p2gzlug: [zunway] ChanServ (ChanServ@services.irc.postman.i2p) has left this server (irc.dg.i2p irc.postman.i2p)
+[22:52:32] LastAvengers: :| 好厉害。
+[22:53:29] i2p2gzlug: [zunway] 醉了，想注册个nick都duang
+[22:55:05] i2p2gzlug: [zunway] i2p毛子的节点好像很多
+[22:56:53] i2p2gzlug: [zunway] 我居然刮到3个中国节点
+[22:58:10] LastAvengers: 有人的么？
+[22:59:17] i2p2gzlug: [zunway] 这边没人。。
+[23:02:07] i2p2gzlug: [i2p] - zunway is now known as great-firewall-2
+[23:02:43] i2p2gzlug: [i2p] - great-firewall-2 is now known as huawei
+[23:04:00] huawei: 这些消息要不要关掉
+[23:04:07] i2p2gzlug: [i2p] - huawei is now known as great-firewall-2
+[23:04:26] LastAvengers: 关吧，阿卡林也是忽略这些的。
+[23:11:22] -- i2p2gzlug JOIN #gzlug
+[23:12:38] i2p2gzlug: [zunway] ping
+[23:15:55] tg2gzlug: [知了2.1 kolibri] ping 8.8.8.8
+[23:16:30] tg2gzlug: [LastAvengers] 知了2.1 kolibri: 64 bytes from 8.8.8.8: icmp_seq=5 ttl=46 time=159 ms
+[23:16:59] i2p2gzlug: [zunway] boom
+[23:21:00] tg2gzlug: [还魂僵尸] ping 8.8.8.8
+[23:21:01] tg2gzlug: [还魂僵尸] PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+[23:21:03] tg2gzlug: [还魂僵尸] 64 bytes from 8.8.8.8: icmp_seq=2 ttl=45 time=296 ms
+[23:21:03] tg2gzlug: [还魂僵尸] 64 bytes from 8.8.8.8: icmp_seq=6 ttl=45 time=101 ms
+[23:21:05] tg2gzlug: [还魂僵尸] ^C
+[23:21:06] tg2gzlug: [还魂僵尸] --- 8.8.8.8 ping statistics ---
+[23:21:06] tg2gzlug: [还魂僵尸] 7 packets transmitted, 2 received, 71% packet loss, time 6002ms
+[23:21:08] tg2gzlug: [还魂僵尸] rtt min/avg/max/mdev = 101.778/198.979/296.180/97.201 ms
+[23:21:14] tg2gzlug: [还魂僵尸] 丢包率略高啊
+[23:21:29] i2p2gzlug: [zunway] 你系得葛
+[23:21:33] LastAvengers: 刷得一手好屏（
+[23:24:23] tg2gzlug: [Liang Zunway] zunway: test
+[23:25:55] tg2gzlug: User "Liang Zunway" changed nick to "十条地 织姬"
+[23:26:04] tg2gzlug: [十条地 织姬] hi
