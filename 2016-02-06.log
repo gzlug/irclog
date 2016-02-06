@@ -1,0 +1,41 @@
+[01:34:34] -- LastAvengers PART #gzlug
+[10:53:43] -- LastAvengers JOIN #gzlug
+[11:13:31] -- LastAvengers JOIN #gzlug
+[13:46:27] -- LastAvengers JOIN #gzlug
+[14:34:37] -- citypw JOIN #gzlug
+[15:21:59] -- LastAvengers JOIN #gzlug
+[17:34:57] -- citypw JOIN #gzlug
+[18:13:55] tg2gzlug: [还魂僵尸] irc的命令也会被机器人转发？
+[18:17:12] tg2gzlug: [LastAvengers] 会啊。
+[19:22:24] -- LastAvengers JOIN #gzlug
+[19:29:16] -- citypw JOIN #gzlug
+[21:16:06] -- LastAvengers JOIN #gzlug
+[22:52:59] -- tpu01yzx JOIN #gzlug
+[22:53:17] tpu01yzx: 大家新年好
+[22:55:25] LastAvengers: （明天再说比较好？
+[22:55:43] tpu01yzx: 呃，不是今天吗？
+[22:56:00] LastAvengers: 明天才是除夕啊。
+[22:56:03] tpu01yzx: 明天要忙着去微信群抢红包
+[22:56:37] LastAvengers: 哈哈哈哈，羡慕抢红包。
+[23:10:00] -- citypw JOIN #gzlug
+[23:13:40] -- citypw JOIN #gzlug
+[23:13:50] huawei: 大家有用过什么比较便宜又支持ssl的cdn吗
+[23:14:14] tg2gzlug: [farseerfc] cloudflare 免費
+[23:17:53] tg2gzlug: [知了2.1 kolibri] 微信没绑定银行卡的路过
+[23:18:35] tg2gzlug: [everyx] cloudflare 部分被强
+[23:19:00] tg2gzlug: [everyx] 不要问我怎么知道的 😂
+[23:20:11] tg2gzlug: [farseerfc] 真可惜 😂
+[23:36:20] huawei: 我有paypal，今天被maxcdn坑了一锅
+[23:36:43] tg2gzlug: [everyx] 分享一下
+[23:36:47] tg2gzlug: [everyx] 😂
+[23:39:38] huawei: 我一个cancel request 他们全部退款了，还帮我弄回了30 days free trial
+[23:41:02] huawei: 一开始我申请free trial，然后不知道为什么我被收了9刀的费用
+[23:41:30] huawei: 我怕被再扣钱就pause了帐号
+[23:41:48] huawei: 然后就收了我maintenance fee
+[23:41:53] huawei: 9.99刀
+[23:44:14] huawei: 然后我发ticket说free trial没有了，然后因为被吓到了就pause。request退款，他们就只退了9刀的月费，说maintenance fee退不了，那是我自己按的
+[23:45:41] huawei: 之后没有给我加回free trial，bandwidth清零，maxcdn就自动给我加了1TB的流量，82刀，好在我卡里没这么多钱，扣不了
+[23:46:56] huawei: 这过山车好High，于是我就请求cancel account，刚刚发email说全部退款了，希望我留下来
+[23:50:22] huawei: 。。。。。。
+[23:56:43] tg2gzlug: [LastAvengers] free trial 是什么？
+[23:58:58] huawei: 免费试用
