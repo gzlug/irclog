@@ -1,0 +1,52 @@
+[00:58:03] -- Shirasaka-Hazumi JOIN #gzlug
+[09:31:07] -- samson JOIN #gzlug
+[10:28:08] tg2gzlug: [还魂僵尸] 因为跑题，走了一个？😝
+[10:32:01] -- huntxu JOIN #gzlug
+[10:52:50] tg2gzlug: [知了2.1 kolibri] 如果是这样，那是我的错。。
+[10:53:32] tg2gzlug: [知了2.1 kolibri] 有我在，就容易跑题。。
+[10:54:47] huntxu: :/
+[10:55:11] tg2gzlug: [还魂僵尸] 跑题才好玩啊 😁
+[10:58:38] tg2gzlug: [知了2.1 kolibri] 😂
+[14:00:50] tg2gzlug: [LastAvengers] 不跑题就没什么好聊的了（逃
+[15:13:38] tg2gzlug: [Ammonite] obfs3和ss最多1分钟就被识别，看来要找新办法了
+[15:14:06] tg2gzlug: [Icenowy 奋斗在成为班花的路上] Ammonite: ss服务端是不是最新
+[15:14:11] tg2gzlug: [Icenowy 奋斗在成为班花的路上] 是什么语言版本
+[15:14:21] tg2gzlug: [Ammonite] Python
+[15:14:48] tg2gzlug: [Ammonite] Pip 来的
+[15:15:00] tg2gzlug: [Ammonite] 应该最新了
+[15:15:09] tg2gzlug: [Icenowy 奋斗在成为班花的路上] Ammonite: go use libev
+[15:17:47] tg2gzlug: [Ammonite] 协议都一样啊
+[15:18:15] tg2gzlug: [Icenowy 奋斗在成为班花的路上] Ammonite: 实现不一样
+[15:18:58] huntxu: 肉翻即可
+[15:19:05] tg2gzlug: [Ammonite] 协议一样墙都能识别
+[15:19:15] tg2gzlug: [Icenowy 奋斗在成为班花的路上] Ammonite: 不
+[15:19:30] tg2gzlug: [Icenowy 奋斗在成为班花的路上] 它们的未定义部分不一样
+[15:19:46] tg2gzlug: [Icenowy 奋斗在成为班花的路上] 比如重放攻击之类
+[15:20:01] tg2gzlug: [Ammonite] 混淆模式不一样？
+[15:20:12] tg2gzlug: [Icenowy 奋斗在成为班花的路上] 混淆模式一样
+[15:20:25] tg2gzlug: [Icenowy 奋斗在成为班花的路上] 但是某些应对攻击的行为不一样
+[15:20:30] tg2gzlug: [Ammonite] 回头试试
+[15:20:34] tg2gzlug: [Icenowy 奋斗在成为班花的路上] ss-python是可以被重放攻击的
+[15:20:53] tg2gzlug: [Ammonite] Copy
+[15:20:54] tg2gzlug: [Icenowy 奋斗在成为班花的路上] 而ss-libev在2.5+已经可以抵抗重放攻击
+[15:22:04] tg2gzlug: [Ammonite] 回头上ec2上试试看
+[15:22:36] tg2gzlug: [Ammonite] 谢过班花
+[15:36:12] -- jactry JOIN #gzlug
+[15:54:49] tg2gzlug: [Xiaoxing Ye] 亲测用 python 版2min 被 ban，libev 的一直用着
+[16:09:55] tg2gzlug: [Icenowy 奋斗在成为班花的路上] clowwindy饮茶之后python版就废了
+[16:11:15] -- SteamedFish JOIN #gzlug
+[16:17:20] -- jactry JOIN #gzlug
+[16:19:59] -- jactry JOIN #gzlug
+[16:24:39] tg2gzlug: [艾 雨寒] huntxu: 目测是未来的唯一出路😂
+[16:34:22] -- LastAvengers JOIN #gzlug
+[16:53:30] -- citypw JOIN #gzlug
+[17:02:15] tg2gzlug: [还魂僵尸] 惟有叹息
+[17:30:16] -- huntxu JOIN #gzlug
+[17:48:12] -- citypw JOIN #gzlug
+[18:04:40] -- LastAvengers JOIN #gzlug
+[18:26:22] -- LastAvengers JOIN #gzlug
+[18:34:46] -- citypw JOIN #gzlug
+[19:25:05] tg2gzlug: [知了2.1 kolibri] Img: https://img.vim-cn.com/c1/01e48482b5fdf8c94defc2f3e89184d3ebc7b9.jpg Saying: 1080p画质，看得很爽呢
+[19:41:26] -- LastAvengers JOIN #gzlug
+[21:24:01] -- samson JOIN #gzlug
+[23:01:06] -- samson JOIN #gzlug
