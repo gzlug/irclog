@@ -1,0 +1,29 @@
+[00:05:20] -- jactry JOIN #gzlug
+[01:19:06] -- jactry JOIN #gzlug
+[01:52:33] -- jactry JOIN #gzlug
+[09:09:35] -- lastavengers_ JOIN #gzlug
+[09:28:37] -- samson JOIN #gzlug
+[09:46:57] -- SteamedFish JOIN #gzlug
+[10:05:13] -- huntxu JOIN #gzlug
+[10:12:40] -- samson JOIN #gzlug
+[10:15:52] -- jactry JOIN #gzlug
+[13:34:41] -- jactry JOIN #gzlug
+[13:37:51] -- jactry JOIN #gzlug
+[13:48:10] -- citypw JOIN #gzlug
+[13:49:29] -- citypw JOIN #gzlug
+[15:08:06] -- lastavengers_ JOIN #gzlug
+[17:23:12] -- samson JOIN #gzlug
+[17:26:04] tg2gzlug: [Robin Lee] 有什么办法增大 lvm pv 的上限？我在 32bit 上创建最大只能 8T，即使块设备有 9T。或者说怎样能增大 pv 的 PE Size？
+[18:33:19] huawei: 用了gpt了啊？
+[18:36:30] tg2gzlug: [farseerfc] 想問為什麼在 32bit
+[18:39:31] tg2gzlug: [Robin Lee] 用 gpt 了
+[18:41:16] tg2gzlug: [Robin Lee] 设备刚好装了 32bit 系统，也想试试 64bit，只是我没法去重装
+[18:54:07] tg2gzlug: ACTION [farseerfc]  默認上 64bit 的系統好多年了…… linux 又沒有 win 的兼容問題
+[19:21:11] SteamedFish: 已经好多年没用过 32bit 的系统了
+[19:22:13] tg2gzlug: [Ammonite] 世道变了瑞彬童鞋，现在轮到32bit到处穿小鞋了😂
+[19:35:18] tg2gzlug: [知了2.1 kolibri] linux还是64位好用
+[19:38:05] tg2gzlug: [还魂僵尸] 现在不管Linux还是Windows都是64位好用吧？
+[19:38:50] tg2gzlug: [还魂僵尸] Robin Lee: 看起来像是一个限制？貌似LV在32位上是16T限制，PV不明
+[22:49:42] -- jactry JOIN #gzlug
+[23:06:56] -- jactry JOIN #gzlug
+[23:11:46] -- Shirasaka-Hazumi JOIN #gzlug
