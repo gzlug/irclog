@@ -1,0 +1,27 @@
+[10:28:20] tg2gzlug: [Icenowy 奋斗在成为班花的路上] Fwd Mingye Wang: https://www.phoronix.com/scan.php?page=news_item&px=ReactOS-Btrfs-Support
+[10:28:22] tg2gzlug: [Icenowy 奋斗在成为班花的路上] [Icenowy 奋斗在成为班花的路上] Fwd Mingye Wang: WTFWTFWTF
+[10:28:22] tg2gzlug: [Icenowy 奋斗在成为班花的路上] Fwd Mingye Wang: ReactOS Gains Btrfs File-System Support
+[10:28:23] tg2gzlug: [Icenowy 奋斗在成为班花的路上] Fwd Mingye Wang: NTSTATUS
+[10:28:24] tg2gzlug: [Icenowy 奋斗在成为班花的路上] [Icenowy 奋斗在成为班花的路上] Fwd Mingye Wang: NTAPI
+[10:28:25] tg2gzlug: [Icenowy 奋斗在成为班花的路上] [Icenowy 奋斗在成为班花的路上] Fwd Mingye Wang: FsRecBtrfsFsControl(IN PDEVICE_OBJECT DeviceObject,
+[10:28:26] tg2gzlug: [Icenowy 奋斗在成为班花的路上] [Icenowy 奋斗在成为班花的路上] Fwd Mingye Wang: IN PIRP Irp)
+[10:28:27] tg2gzlug: [Icenowy 奋斗在成为班花的路上] Fwd Mingye Wang: 好喜感……
+[11:58:30] -- lastavengers_ JOIN #gzlug
+[11:59:12] lastavengers_: 为什么 ReactOS 会支持 Btrfs ……
+[12:39:30] tg2gzlug: [Jactry Zeng] 因为 windows 不支持 xD
+[12:40:17] lastavengers_: Jactry 怎么到 tg 那边去了（
+[12:57:15] tg2gzlug: [Jactry Zeng] 不在电脑旁～
+[13:03:32] huawei: 话说墙破了一个洞吗
+[13:04:26] tg2gzlug: [Jactry Zeng] 怎么回事
+[13:05:31] huawei: 你们的google.com能不能直连
+[13:07:59] tg2gzlug: [Jactry Zeng] 不能～
+[13:08:47] huawei: 216.58.199.110 这个ip呢
+[13:10:57] tg2gzlug: [知了2.1 kolibri] 这个IP不能直连。。
+[13:11:32] tg2gzlug: [知了2.1 kolibri] 广州联通3G
+[13:12:15] huawei: 难道移动自己的墙破了？
+[13:52:58] -- citypw JOIN #gzlug
+[15:34:27] -- SteamedFish JOIN #gzlug
+[17:10:55] tg2gzlug: [Bash Horatio] huawei: 估计是移动的福利😂
+[17:12:46] tg2gzlug: [Bash Horatio] 上海联通4g在不行，电信宽带不信。其实有一批ip，谷歌香港的是没被墙的，但是这个似乎不是
+[23:06:48] -- Shirasaka-Hazumi JOIN #gzlug
+[23:37:05] -- citypw JOIN #gzlug
