@@ -1,0 +1,102 @@
+[02:45:19] tg2gzlug: [zoom quiet] Sticker: https://img.vim-cn.com/19/e123fbe7654bd944428a60136652ce053e45b2.webp
+[09:40:12] -- SteamedFish JOIN #gzlug
+[10:06:18] -- SteamedFish JOIN #gzlug
+[10:14:28] -- rivershang JOIN #gzlug
+[10:17:07] -- huntxu JOIN #gzlug
+[10:28:33] -- jactry JOIN #gzlug
+[10:29:51] -- huntxu JOIN #gzlug
+[11:47:56] rivershang: 大家pip search pip显示的结果LATEST是8.1.0吗，我这儿显示的是8.0.2>:o然后发现pypi网站搜出来的也确实最新的是8.0.2，难道是因为这个没更新的原因
+[11:48:53] rivershang: 8.0.2版本的点进去后又会提示Latest Version: 8.1.0
+[12:08:54] tg2gzlug: [👮 imlonghao] Img: https://img.vim-cn.com/7e/d6ebe2ed078144a16cd933b891e6e5312cd021.jpg
+[12:43:19] -- jactry JOIN #gzlug
+[12:51:26] -- jactry JOIN #gzlug
+[13:06:01] -- jenenliu JOIN #gzlug
+[13:39:53] tg2gzlug: [四夕 皓月] A4腰
+[13:40:27] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 👮 imlonghao: Kcrash
+[14:01:54] -- jenenliu JOIN #gzlug
+[14:25:52] -- huntxu JOIN #gzlug
+[14:59:48] tg2gzlug: [Liang Zunway] hhjs: 电信3G才要回落，4G不用
+[15:01:27] tg2gzlug: [Liang Zunway] hhjs: 电信的CDMA通话需要回落到2G进行
+[15:04:25] tg2gzlug: [Liang Zunway] 👮 imlonghao: Krash DE
+[15:05:22] tg2gzlug: [Liang Zunway] SteamedFish: Skype（笑
+[15:05:45] SteamedFish: Skype 巨卡
+[15:07:01] -- hhjs JOIN #gzlug
+[15:08:30] tg2gzlug: [还魂僵尸] Liang Zunway: CDMA2000 需要回落到1x通话？？4G只有双待机的才不用回落吧。
+[15:08:32] tg2gzlug: [Liang Zunway] List of SIP software - Wikipedia, the free encyclopedia
+[15:08:33] tg2gzlug: [Liang Zunway] https://en.m.wikipedia.org/wiki/List_of_SIP_software
+[15:08:58] tg2gzlug: [Liang Zunway] SteamedFish: 上面没有满足的吗
+[15:09:30] tg2gzlug: [Liang Zunway] 还魂僵尸: 对啊，一般都是双待机的啊
+[15:09:34] SteamedFish: 我试过七八个，最后发现 X-Lite 是最好的
+[15:11:19] tg2gzlug: [Liang Zunway] 还魂僵尸: CDMA2000电信的版本需要回落通话的，evdv就不用
+[15:11:22] tg2gzlug: [还魂僵尸] Liang Zunway: 原来是我手机非主流的原因……
+[15:12:04] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 奠信4g都是雙待
+[15:12:15] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 因為lte不支持回落到cdma
+[15:12:19] tg2gzlug: [还魂僵尸] Liang Zunway: 但是我手机就是，通话的时候数据会断开……，平时显示4G,2G两个信号，荣耀4X
+[15:12:30] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 所以只能同時待lte和cdma
+[15:12:47] SteamedFish: 现在移动不是开了 VOLTE 了么，打开就不会回落了
+[15:12:53] tg2gzlug: [Liang Zunway] 还魂僵尸: 确定是电信？
+[15:13:05] SteamedFish: 电信不知道有没有 VOLTE
+[15:13:17] tg2gzlug: [Liang Zunway] SteamedFish: 然而电信还在beta
+[15:13:18] tg2gzlug: [还魂僵尸] Liang Zunway: 当然，189的号……
+[15:13:39] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 还魂僵尸: 通话的时候显示什么信号
+[15:13:53] tg2gzlug: [还魂僵尸] 2G，应该是1x了
+[15:14:29] tg2gzlug: [Liang Zunway] 还魂僵尸: 我刚刚特地打开4G来试没有断
+[15:15:11] tg2gzlug: [Liang Zunway] 3G会断
+[15:15:27] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 而且我记得奠信机信号显示
+[15:15:32] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 是同时显示3g和2g的`1
+[15:15:41] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] （没用过奠信4g
+[15:15:56] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 所以你把3记成4了也不一定
+[15:15:58] tg2gzlug: [Liang Zunway] Icenowy 是自己的自己和不是自己的自己: 上下两层，通话回落时只显示2G
+[15:16:18] SteamedFish: 幸亏我一直坚定地使用联通
+[15:16:26] tg2gzlug: [Liang Zunway] Icenowy 是自己的自己和不是自己的自己: 4G不回落
+[15:16:34] tg2gzlug: [还魂僵尸] Liang Zunway: 是的，上下两层，但是通话数据一定会断开的
+[15:16:56] tg2gzlug: [Liang Zunway] 还魂僵尸: 骚扰客服
+[15:17:08] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 我现在是移动联通双卡
+[15:17:18] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 手机支持lte,wcdma,gprs]
+[15:17:28] tg2gzlug: [还魂僵尸] Liang Zunway: 电信的？华为的？
+[15:17:34] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] lte是所有中国频段
+[15:17:46] tg2gzlug: [Liang Zunway] 还魂僵尸: 都骚扰下
+[15:17:54] tg2gzlug: [Liang Zunway] 还魂僵尸: 反正不用钱
+[15:17:57] tg2gzlug: [Icenowy 是自己的自己和不是自己的自己] 所以能用移动4g
+[15:18:56] tg2gzlug: [还魂僵尸] Liang Zunway: 这到底算啥子问题？还是没搞清楚啊
+[15:19:37] tg2gzlug: [Liang Zunway] 还魂僵尸: 应该是手机问题，你拿过去营业厅问问也可以，如果你有空的
+[15:20:07] tg2gzlug: [Liang Suilong] 用华为的都是单卡双待啊。。
+[15:20:22] tg2gzlug: [Liang Suilong] 打电话不会断网的。。
+[15:20:57] tg2gzlug: [还魂僵尸] http://club.huawei.com/thread-3753204-1-1.html
+[15:21:15] tg2gzlug: [还魂僵尸] 搜了下，不像是个别问题，好像荣耀4x就这样的……
+[15:21:33] tg2gzlug: [Liang Zunway] 还魂僵尸: 30包邮
+[15:22:24] -- LastAvengers JOIN #gzlug
+[15:22:45] tg2gzlug: [还魂僵尸] Sticker: https://img.vim-cn.com/b6/eb53b559cf50038fb87dd7b3b916c78c33ba73.webp
+[15:23:17] tg2gzlug: [还魂僵尸] 您好，4x是双卡双待单通手机，手机语音回落方案不是svlte的，4g和2g待机是分时寻网的，暂时不支持通话的时候同时能上网的，希望以上内容能够对你有所帮助。
+[15:23:23] tg2gzlug: [还魂僵尸]  Google大法好……
+[15:23:42] tg2gzlug: [还魂僵尸] 果然低端机无人权
+[15:24:30] tg2gzlug: [还魂僵尸] Img: https://img.vim-cn.com/cb/8511a8f6d1b0405946a4cc4799ce4169b4b90f.jpg
+[15:26:04] tg2gzlug: [还魂僵尸] 看起来电信有两个信号而已……
+[15:26:20] tg2gzlug: [Liang Zunway] 还魂僵尸: 欢迎使用华为p8
+[15:27:31] tg2gzlug: [Liang Zunway] 退高通保平安
+[15:27:54] tg2gzlug: [还魂僵尸] Liang Zunway: 你是一个优秀的手机销售，可惜我现在没钱😅
+[15:28:17] tg2gzlug: [Liang Zunway] 还魂僵尸: 海思大法好
+[15:33:05] -- jenenliu JOIN #gzlug
+[15:59:41] -- jenenliu JOIN #gzlug
+[16:15:53] tg2gzlug: [Liang Suilong] 还魂僵尸: 荣耀6plus表示没有这问题。。。
+[16:16:45] tg2gzlug: [Liang Suilong] 不过有一点超级煞笔，当网络不好掉到2G的时候，不会自动升回3G或4G。。。。
+[16:17:06] tg2gzlug: [Liang Suilong] 电信版
+[16:18:06] -- jenenliu JOIN #gzlug
+[16:42:10] -- tg2gzlug PART #gzlug
+[16:45:46] -- tg2gzlug JOIN #gzlug
+[16:46:09] tg2gzlug: [farseerfc] Snow Shi: 為什麼要 hold ?
+[16:50:45] tg2gzlug: [LastAvengers] Snow Shi: 🌚 指令不要随便试。
+[16:56:45] tg2gzlug: [farseerfc] 試了也請恢復回來呀
+[17:28:05] tg2gzlug: [Jactry Zeng] 那是什么
+[17:31:04] tg2gzlug: [Jactry Zeng] 不能设置权限吗 最近 telegram spam 好像有点多
+[17:36:59] -- rivershang PART #gzlug
+[17:50:04] tg2gzlug: [farseerfc] 給bot命令加權限？多麻煩…
+[17:54:53] tg2gzlug: [Jactry Zeng] 那些指令重要吗 是干什么用的？
+[17:56:09] tg2gzlug: [farseerfc] hold 是停止轉發tg和IRC，unhold 是重新開始，我寫了命令說明了啊
+[17:56:31] tg2gzlug: [Jactry Zeng] 我去 这么严重
+[18:24:41] -- jactry JOIN #gzlug
+[20:30:56] tg2gzlug: [还魂僵尸] 没权限，全凭自觉？
+[20:40:10] -- jactry JOIN #gzlug
+[21:46:11] tg2gzlug: [Bash Horatio] 我们都是好孩子，一般不会手贱去玩这些指令的吧
+[21:47:12] tg2gzlug: [Bash Horatio] farseerfc: 其实snow也恢复了，只是stop的有些意外
+[23:02:57] -- LastAvengers JOIN #gzlug
