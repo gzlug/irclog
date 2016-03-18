@@ -1,0 +1,60 @@
+[00:01:51] jactry: 多谢
+[00:02:40] jactry: 我之前搜索过，知道有 discard 和 cron+fstrim 两种，但是不知道实际使用哪种好
+[00:02:49] jactry: 所以想问下大家都用了什么
+[00:13:21] tg2gzlug: [dant ɟuɯ] discard 就没有日志了
+[00:14:31] jactry: fstrim 就还有对吧？
+[00:14:39] tg2gzlug: [dant ɟuɯ] 嗯
+[00:14:58] tg2gzlug: [dant ɟuɯ] 毕竟 ext4 也没有专门为 SSD 优化
+[00:14:59] jactry: 好的，多谢
+[00:16:14] jactry: fedora 开 fstrim 好像蛮方便的 systemctl status fstrim.timer
+[08:29:22] -- LastAvengers JOIN #gzlug
+[08:53:07] tg2gzlug: [Liang Suilong] discard貌似会影响读写速度。。
+[08:53:32] tg2gzlug: [Liang Suilong] 每次读写就trim一次也没这个必要吧。
+[08:59:34] tg2gzlug: [farseerfc] btrfs也有SSD優化
+[09:00:09] tg2gzlug: [farseerfc] Liang Suilong: 是刪掉一整塊數據會用trim吧…
+[09:00:21] tg2gzlug: [Bash Horatio] farseerfc: 暂时别用这文件系统，各种问题
+[09:00:59] tg2gzlug: [Bash Horatio] 根本上，普通用户也不需要这种级别的文件系统
+[09:01:36] tg2gzlug: [还魂僵尸] OpenSuse好像这个已经是默认的文件系统了吧
+[09:02:04] tg2gzlug: [farseerfc] 用了btrfs兩年了，現在所有機器都是btrfs（
+[09:03:04] tg2gzlug: [farseerfc] 知道坑在哪兒然後避開就好了（
+[09:03:34] tg2gzlug: [还魂僵尸] 我前年一块盘上的btrfs坏了无法修复，丢了一些照片后，现在还绕着btrfs走😂
+[09:03:58] tg2gzlug: [farseerfc] Bash Horatio: 普通用戶也不需要Linux嘛…Linux用戶都不普通
+[09:04:48] tg2gzlug: [还魂僵尸] farseerfc: 这不一定……我老爸这样上网的，改给他用Linux后我，远程维护也方便了，全家桶也没了，挺好……
+[09:04:56] tg2gzlug: [知了2.2 nopea] 还魂僵尸: openSUSE 42.1 btrfs已经是默认了。。在虚拟机玩过，btrfs的copy to write特性，很快把我的虚拟机磁盘空间吃完了。。
+[09:05:13] tg2gzlug: [farseerfc] 數據備份總是需要的，btrfs raid1救了我3次硬件故障了，還有無數次手滑
+[09:05:46] tg2gzlug: [Bash Horatio] farseerfc: 这里没有所谓的“普通win用户”，普通用户就是普通linux用户，包括一般的开发者
+[09:05:48] tg2gzlug: [还魂僵尸] farseerfc: btrfs现在fsck有问题么？
+[09:05:52] tg2gzlug: [farseerfc] 啊手滑是snapshot救我
+[09:06:03] tg2gzlug: [Bash Horatio] 知了2.2 nopea: 这就是一个问题
+[09:06:58] tg2gzlug: [farseerfc] 还魂僵尸: 用 btrfs scrub 找問題，fsck.btrfs 什麼都不做（當然默認掛載就有基本的一致性檢查所以不需要fsck
+[09:07:39] tg2gzlug: [Bash Horatio] 还魂僵尸: 和一般的fsck语义理解上不一样，平时用check，灾难时才repair可能会data loss
+[09:08:08] tg2gzlug: [还魂僵尸] farseerfc: 哦，对，我都忘记了，反正我原来是因为这个坏过数据，现在还是怕怕
+[09:09:54] tg2gzlug: [还魂僵尸] 现在自用LInux还是XFS/ext4为主
+[09:10:11] tg2gzlug: [还魂僵尸] NAS直接用FB的zfs了😜
+[09:10:14] tg2gzlug: [Bash Horatio] 还魂僵尸: 赞同
+[09:18:03] tg2gzlug: [farseerfc] 还魂僵尸: 壞數據不是因為check丟數據，數據早就丟了，btrfs只是設計的更早發現並且更嚴格
+[09:20:00] tg2gzlug: [还魂僵尸] farseerfc: 细节记不清了，好像是当初btrfs相关工具还不完善吧，所以，怕了。
+[09:22:58] tg2gzlug: [Bash Horatio] 还魂僵尸: 至今没搞懂它的设计哲学
+[09:47:46] tg2gzlug: [Liang Suilong] farseerfc: 那个ssd挂载项，不会做trim的
+[10:13:09] tg2gzlug: [farseerfc] Liang Suilong: 會啊
+[10:13:34] tg2gzlug: [farseerfc] Liang Suilong: 哪裡有說不會麼
+[10:23:36] tg2gzlug: [Liang Suilong] ssd
+[10:23:37] tg2gzlug: [Liang Suilong] Turn on some of the SSD optimized behaviour within btrfs. This is enabled automatically by checking /sys/block/sdX/queue/rotational to be zero. This does not enable discard/TRIM!
+[10:23:48] tg2gzlug: [Liang Suilong] https://btrfs.wiki.kernel.org/index.php/Mount_options
+[10:25:00] -- SteamedFish JOIN #gzlug
+[10:26:04] tg2gzlug: [farseerfc] Liang Suilong: 開 discard 呀
+[10:26:32] tg2gzlug: [Liang Suilong] 开discard会变慢啊。
+[10:27:48] tg2gzlug: [farseerfc] 為什麼？
+[10:28:43] tg2gzlug: [farseerfc] 老設備上才慢而且慢不了多少吧
+[10:36:00] -- huntxu JOIN #gzlug
+[11:41:24] -- huntxu JOIN #gzlug
+[11:51:24] -- huntxu JOIN #gzlug
+[12:01:38] -- huntxu JOIN #gzlug
+[13:31:35] -- jactry JOIN #gzlug
+[16:00:32] -- LastAvengers JOIN #gzlug
+[17:51:09] -- SteamedFish JOIN #gzlug
+[21:09:46] tg2gzlug: [Bash Horatio] https://www.youtube.com/watch?v=GKd3CElsq-w
+[21:10:12] tg2gzlug: [Bash Horatio] BQ M10的ubuntu tablet，有点爽
+[21:10:43] tg2gzlug: [Bash Horatio] 可以外接键盘和鼠标，统一体验
+[22:04:19] -- LastAvengers JOIN #gzlug
+[23:08:41] -- jactry JOIN #gzlug
