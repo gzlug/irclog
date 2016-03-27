@@ -1,0 +1,58 @@
+[09:53:24] -- hportsnap_els9 JOIN #gzlug
+[12:25:25] -- Shirasaka-Hazumi JOIN #gzlug
+[12:52:19] -- citypw JOIN #gzlug
+[13:16:14] -- citypw JOIN #gzlug
+[16:31:48] -- hportsnap_els9 JOIN #gzlug
+[19:22:47] -- LastAvengers_ JOIN #gzlug
+[20:37:42] tg2gzlug: [知了2.2 nopea] Img: https://img.vim-cn.com/dd/e99354237639e8e33ff1c336cb8fd0993d681f.jpg
+[20:38:25] tg2gzlug: [知了2.2 nopea] 类似ubuntu的功能。
+[20:40:04] tg2gzlug: [知了2.2 nopea] ubuntu wubi
+[20:48:16] tg2gzlug: [知了2.2 nopea] Img: https://img.vim-cn.com/7b/f8d137b698c0c5aaa566eb3ddd6c7e80148c82.jpg
+[21:25:11] tg2gzlug: [还魂僵尸] 已经装在平板上了？
+[22:11:54] tg2gzlug: [知了2.2 nopea] 像Ubuntu wubi模式那样的体验装。
+[22:12:16] tg2gzlug: [知了2.2 nopea] 目前，屏幕触摸不能用。。
+[22:12:39] tg2gzlug: [Icenowy 在远处听见有声音呼唤著
+[22:12:40] tg2gzlug: 轻轻叫醒睡梦中的我] 知了2.2 nopea: 什么板
+[22:13:50] tg2gzlug: [知了2.2 nopea] Dell Venue 10 Pro
+[22:26:40] tg2gzlug: [知了2.2 nopea] Img: https://img.vim-cn.com/1c/9c9ac705ccd248a738cce30bace4b66c25bda1.jpg
+[22:27:31] tg2gzlug: [知了2.2 nopea] Img: https://img.vim-cn.com/02/784f4f2344551590f861829ff4ff0d803262d7.jpg
+[22:32:19] tg2gzlug: [知了2.2 nopea] 折腾了半天，终于折腾好了
+[22:43:27] Shirasaka-Hazumi: 你们的墙炸了吗？
+[22:43:39] tg2gzlug: [知了2.2 nopea] ???
+[22:43:50] tg2gzlug: [还魂僵尸] Shirasaka-Hazumi: 什么意思？
+[22:43:53] Shirasaka-Hazumi: 墙裂了
+[22:44:00] Shirasaka-Hazumi: 能上google了
+[22:44:05] tg2gzlug: [还魂僵尸] 哦？
+[22:44:28] tg2gzlug: [知了2.2 nopea] 我反正不行。。
+[22:44:41] tg2gzlug: [知了2.2 nopea] chrome现在都没法挂代理。
+[22:44:46] tg2gzlug: [知了2.2 nopea] 没法登陆账户。
+[22:45:23] tg2gzlug: [还魂僵尸] 实测广州电信不行
+[22:45:38] Shirasaka-Hazumi: 216.58.197.110
+[22:45:41] Shirasaka-Hazumi: 这个呢
+[22:45:51] tg2gzlug: [还魂僵尸] 测试了co.uk, com.hk, .ca等 ……
+[22:46:07] Shirasaka-Hazumi: https://dn-fishroom.qbox.me/img/c4a.jpeg
+[22:47:11] tg2gzlug: [还魂僵尸] 不行
+[22:47:41] tg2gzlug: [Liang Zunway] Sticker: https://img.vim-cn.com/64/896d795a167f8b2b7671e5289e770111d7bac4.webp
+[22:49:08] tg2gzlug: [知了2.2 nopea] Img: https://img.vim-cn.com/3f/69991b06951b4eae6e67cdb397350571c002d6.jpg
+[22:49:44] tg2gzlug: [知了2.2 nopea] chrome没法设置代理。。
+[22:57:23] Shirasaka-Hazumi: terminal加参数启动，下载代理扩展然后就正常了
+[23:13:28] tg2gzlug: [还魂僵尸] 对
+[23:24:23] tg2gzlug: [Bash Horatio] 用扩展就够吧
+[23:24:54] tg2gzlug: [还魂僵尸] 第一次启动的时候，安装扩展是个问题😂
+[23:25:08] tg2gzlug: [还魂僵尸] 应该是--proxy-server=xxx.xxx.xxx:xxx？
+[23:34:20] tg2gzlug: [知了2.2 nopea] Examples:
+[23:34:21] tg2gzlug: [知了2.2 nopea] —proxy-server="foopy:99"
+[23:34:22] tg2gzlug: [知了2.2 nopea] Use the HTTP proxy "foopy:99" to load all URLs.
+[23:34:23] tg2gzlug: [知了2.2 nopea] —proxy-server="socks://foobar:1080"
+[23:34:24] tg2gzlug: [知了2.2 nopea] Use  the  SOCKS v5 proxy "foobar:1080" to load all
+[23:34:25] tg2gzlug: [知了2.2 nopea] URLs.
+[23:34:26] tg2gzlug: [知了2.2 nopea] —proxy-server="socks4://foobar:1080"
+[23:34:27] tg2gzlug: [知了2.2 nopea] Use the SOCKS v4 proxy "foobar:1080" to  load  all
+[23:34:28] tg2gzlug: [知了2.2 nopea] URLs.
+[23:34:29] tg2gzlug: [知了2.2 nopea] —proxy-server="socks5://foobar:66"
+[23:34:30] tg2gzlug: [知了2.2 nopea] Use  the  SOCKS  v5  proxy "foobar:66" to load all
+[23:34:31] tg2gzlug: [知了2.2 nopea] URLs.
+[23:34:32] tg2gzlug: [知了2.2 nopea] It is also possible to specify a separate  proxy  server
+[23:34:33] tg2gzlug: [知了2.2 nopea] for  different  URL types, by prefixing the proxy server
+[23:34:34] tg2gzlug: [知了2.2 nopea] specifier with a URL specifier:
+[23:36:46] tg2gzlug: [知了2.2 nopea] 还是得看man文档啊
