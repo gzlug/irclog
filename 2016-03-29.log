@@ -1,0 +1,102 @@
+[08:21:03] -- hportsnap_els9 JOIN #gzlug
+[08:37:22] -- LastAvengers JOIN #gzlug
+[09:31:26] -- hportsnap_els9 JOIN #gzlug
+[09:35:09] -- SteamedFish JOIN #gzlug
+[10:13:18] -- huntxu JOIN #gzlug
+[10:36:56] tg2gzlug: [Liang Suilong] 呃，昨晚终于把debian的4.4内核跑起来了。。十分诡异的bug。
+[10:39:40] tg2gzlug: [Ammonite] 什么样的bug，家里Goflex home 上Linux-4.4 armel用着一直挺正常
+[10:39:59] tg2gzlug: [Ammonite] Jessie
+[10:40:06] tg2gzlug: [Liang Suilong] 我用sid。。
+[10:40:39] tg2gzlug: [还魂僵尸] testing就是4.4了吧？sid内核应该更高了吧？
+[10:40:45] tg2gzlug: [还魂僵尸] unstable?
+[10:40:48] tg2gzlug: [Liang Suilong] grub引导initramfs的时候，直接卡死。。
+[10:40:57] tg2gzlug: [Liang Suilong] 恩，sid == unstable
+[10:41:14] tg2gzlug: [Ammonite] X64上的故事吧
+[10:42:23] tg2gzlug: [还魂僵尸] 我的意思是4.4不是在testing分支么？sid紧跟上游，应该4.5以上才对啊😁
+[10:51:55] tg2gzlug: [Liang Suilong] 4.5现在还在experimental。。
+[10:52:24] tg2gzlug: [Ivan] 2 online
+[10:55:11] tg2gzlug: [知了2.2 nopea] Sticker: https://img.vim-cn.com/7f/6b9a539e74da4a3322789069f986b515517fed.webp
+[11:27:50] -- jactry JOIN #gzlug
+[11:45:47] -- hportsnap_els9 JOIN #gzlug
+[11:51:23] hportsnap_els9: 我孩在用debian stable版本。
+[11:52:35] tg2gzlug: [知了2.2 nopea] 孩？还？
+[11:55:48] hportsnap_els9: 我还在用 孩字打错了。
+[11:57:50] tg2gzlug: [知了2.2 nopea] 哈哈~不要让人误会你有小孩了。😂😂
+[12:01:13] hportsnap_els9: debian+openbox  xarchiver解压带有乱码的文件名不能解压。  debian gnome3下能解压。  求解？
+[12:02:49] hportsnap_els9: 压缩包内有乱码的文件名不能解压。
+[12:03:23] hportsnap_els9: 整个压缩包都不能解压。
+[12:04:59] -- hahaschool JOIN #gzlug
+[12:13:17] tg2gzlug: [Bash Horatio] 遇到过
+[12:14:49] erhandsome: wine 一个7zip （
+[12:17:11] hportsnap_els9: 对windows的软件很感冒。不能接受。
+[12:19:18] hportsnap_els9: 连安卓里的QQ,微信我都不想用。
+[12:21:31] hportsnap_els9: 连手机都是用老人型的手机。
+[12:21:43] tg2gzlug: [farseerfc] 用 unzip-iconv
+[12:22:33] -- Shirasaka-Hazumi JOIN #gzlug
+[12:26:01] hportsnap_els9: unzip-iconv源里没有。
+[12:26:58] tg2gzlug: [farseerfc] 好吧arch在aur裡，不知道debian在哪兒
+[12:28:03] tg2gzlug: [farseerfc] 7z有開源的p7zip吧
+[12:29:15] hportsnap_els9: 除了xarchiver还有别的软件吗？轻量级的。
+[12:30:13] tg2gzlug: [farseerfc] 習慣命令行
+[12:31:03] hportsnap_els9: 不用GUI？不用X11？
+[12:32:49] tg2gzlug: [farseerfc] 解壓和文件處理用命令行
+[12:33:27] hportsnap_els9: 老爷机跑GNOME3太吃力了。8G内存条都显得吃力。
+[12:34:00] tg2gzlug: [farseerfc] 命令行永遠不會吃力
+[12:34:05] tg2gzlug: [知了2.2 nopea] i3wm
+[12:34:13] tg2gzlug: [知了2.2 nopea] 或者awesome
+[12:34:34] tg2gzlug: [知了2.2 nopea] 保证省资源
+[12:35:07] tg2gzlug: [farseerfc] openbox／xfce也還好
+[12:35:12] hportsnap_els9: CLI中文怎么解决？
+[12:36:00] hportsnap_els9: 用openbox 卡在xarchiver
+[12:36:01] tg2gzlug: [知了2.2 nopea] 装输入法啊
+[12:36:03] tg2gzlug: [知了2.2 nopea] fcitx
+[12:36:34] tg2gzlug: [farseerfc] 沒說不用gui啊，只是文件管理和解壓壓縮這種用cli也不麻煩
+[12:36:44] hportsnap_els9: CLI 装fcitx?
+[12:36:55] tg2gzlug: [知了2.2 nopea] 终端模拟器。。。
+[12:38:09] hportsnap_els9: CLI 用那个终端模拟器？
+[12:38:18] tg2gzlug: [知了2.2 nopea] 。。。。
+[12:38:27] tg2gzlug: [知了2.2 nopea] 没说不装wm/de
+[12:38:44] hportsnap_els9: 晕。。。。
+[12:38:50] tg2gzlug: [知了2.2 nopea] fc
+[12:39:02] tg2gzlug: [farseerfc] ˊ_>ˋ
+[12:39:10] tg2gzlug: [知了2.2 nopea] fc只是说不用GUI的解压工具而已。。
+[12:40:56] tg2gzlug: [知了2.2 nopea] 日常使用，还是装X.org吧
+[12:41:04] tg2gzlug: [知了2.2 nopea] 虽然不装也能活。
+[12:44:16] hportsnap_els9: 日常使用 不装xorg那就太好了，估计活不了。
+[12:51:45] tg2gzlug: [Bash Horatio] 用p7zip和unrar-nonfree
+[12:52:05] tg2gzlug: [Bash Horatio] 就解得开，但是一对乱码
+[12:52:49] hportsnap_els9: 都装了p7zip-full   解不开。
+[12:53:28] hportsnap_els9: unrar-nonfree都装了
+[12:53:38] tg2gzlug: [farseerfc] unzip -O gbk 有這個選項麼
+[12:54:02] hportsnap_els9: 那我试试unzip -o
+[12:59:02] hportsnap_els9: 用unzip -o *.zip 能解开    -o gbk 是错的。
+[12:59:41] hportsnap_els9: man unzip 没有 -o gbk
+[13:00:04] tg2gzlug: [Icenowy 好想快快长大] hportsnap_els9: U need unzip-iconv
+[13:00:57] hportsnap_els9: debian NO unzip-iconv
+[13:02:18] hportsnap_els9: 估计我中debian的毒太深了。只用debian stable
+[13:03:15] tg2gzlug: [Icenowy 好想快快长大] 是够深的
+[13:03:26] tg2gzlug: [Icenowy 好想快快长大] 赶紧装个 Arch 解毒吧
+[13:03:58] hportsnap_els9: 不了。
+[13:04:38] hportsnap_els9: 今晚就换装debian+openbox
+[13:05:57] hportsnap_els9: 因为用的是Atom凌动CPU整合主板的电脑。
+[13:07:45] hportsnap_els9: 只有debian stable 稳定性能满足我的要求。
+[13:38:37] tg2gzlug: [Bash Horatio] 我记得xarchive没问题
+[13:38:50] tg2gzlug: [Bash Horatio] 不知道你的压缩包有多厉害
+[13:41:13] tg2gzlug: [Bash Horatio] 无非就是安装p7zip-full， unzip， unrar，unrar-nonfree，没其他搞头了。说白了还是微软的毒，压缩格式除了zip + utf8能好好用。
+[13:48:18] tg2gzlug: [Icenowy 好想快快长大] Bash Horatio: 说来说去都怪微软的“兼容性”
+[13:48:28] tg2gzlug: [Icenowy 好想快快长大] 非得去兼容 ASCII 的老程序
+[13:48:39] tg2gzlug: [Icenowy 好想快快长大] UTF-8 多好 （棒读
+[13:52:59] hportsnap_els9: p7zip-full unzip unrar ,unrar-nonfree 都装了，在openbox 用xarchive 就是解不开，说是不支持此格式，非得用unzip -o
+[13:53:44] hportsnap_els9: 估计是编码的问题。
+[13:55:33] tg2gzlug: [还魂僵尸] http://www.solidot.org/story?sid=47643
+[13:56:32] tg2gzlug: [还魂僵尸] 卧槽
+[13:59:30] -- hportsnap_els9 JOIN #gzlug
+[15:25:52] -- jactry JOIN #gzlug
+[17:07:51] -- LastAvengers JOIN #gzlug
+[17:11:17] -- huntxu JOIN #gzlug
+[17:49:34] -- FisherDuan JOIN #gzlug
+[19:01:09] -- LastAvengers JOIN #gzlug
+[19:47:10] -- farseerfc JOIN #gzlug
+[20:54:14] -- hahaschool JOIN #gzlug
+[21:01:36] -- SteamedFish JOIN #gzlug
+[22:49:33] -- citypw JOIN #gzlug
