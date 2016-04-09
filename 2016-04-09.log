@@ -1,0 +1,28 @@
+[00:16:56] -- SteamedFish JOIN #gzlug
+[08:19:33] -- hportsnap_els9 JOIN #gzlug
+[09:21:55] teleboto: [yomyo] WhatsApp之前屏蔽过telegram的链接，启用端到端之后还能够屏蔽吗？
+[10:17:51] -- SteamedFish JOIN #gzlug
+[10:35:19] -- f00x JOIN #gzlug
+[12:41:47] -- f00x PART #gzlug
+[13:17:49] -- srainbot JOIN #gzlug
+[13:37:24] -- LastAvengers PART #gzlug
+[14:35:50] -- LastAvengers JOIN #gzlug
+[17:52:28] teleboto: [SBZKang] 广图里我旁边坐了一个看起来三十多岁的女性，开着 OpenSUSE 用数位板画图
+[18:06:38] teleboto: [aldzunway] 「Re SBZKang: 广图里我旁边坐了...」求照片
+[18:07:00] teleboto: [SBZKang] 「Re aldzunway: 求照片」不敢拍啊23333
+[18:15:10] teleboto: [farseerfc] 「Re yomyo: WhatsApp...」客戶端發之前屏蔽的吧
+[18:18:53] teleboto: [yomyo] 「Re farseerfc: 客戶端發之前屏蔽...」具体不知道是怎么屏蔽的，我看有人用WhatsApp发 telegram的链接是分成一段一段发的
+[18:20:14] teleboto: [yomyo] 不过 WhatsApp不开源具体我也不是很清楚
+[18:36:27] teleboto: [farseerfc] 「Re yomyo: 具体不知道是怎么...」有人貼了反彙編的 whatsapp 的安卓客戶端的代碼，是在客戶端替換的
+[18:38:29] teleboto: [yomyo] 「Re farseerfc: 有人貼了反彙編的...」那网页版纳？
+[18:42:19] teleboto: [farseerfc] 「Re yomyo: 那网页版纳？」那就不清楚了…網頁版怎麼做端到端加密的？js寫加密算法麼
+[18:44:18] teleboto: [yomyo] 「Re farseerfc: 那就不清楚了…網...」我觉得如果 WhatsApp的客户端替换了 telegram的链接，说明 WhatsApp在消息加密前读取了消息，即使用了端到端加密 WhatsApp仍然可以读取到消息，那么采用了端对端也没有什么用了
+[18:47:55] teleboto: [farseerfc] 「Re yomyo: 我觉得如果 Wh...」我覺得Web版沒法在瀏覽器裡面加密（
+[18:48:08] teleboto: [farseerfc] 或者說不好做（
+[18:51:43] teleboto: [yomyo] 「Re farseerfc: 我覺得Web版沒...」Telegram一般对话用的的Mtproto，telegram网页版应该就是用的Mtproto
+[18:52:51] teleboto: [dantmnf] 网页版是另外的服务器
+[18:53:18] teleboto: [farseerfc] 「Re yomyo: Telegram...」mtproto的加密有分是否端對端吧，只有私密聊天才有端對端
+[18:54:53] teleboto: [yomyo] 「Re farseerfc: mtproto的...」恩，只有secret chat用的端到端，普通的用的是他们自己的协议
+[21:13:46] -- LastAvengers JOIN #gzlug
+[21:30:44] -- hahaschool JOIN #gzlug
+[22:22:48] -- farseerfc JOIN #gzlug
