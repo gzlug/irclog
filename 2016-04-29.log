@@ -1,0 +1,44 @@
+[00:11:42] teleboto: [liangsuilong] Slides | Vault 2016 | Linux Conferences and Linux Events | The Linux Foundation
+[00:11:45] teleboto: [liangsuilong] http://events.linuxfoundation.org/events/vault/program/slides
+[08:28:31] -- LastAvengers JOIN #gzlug
+[08:34:35] -- huntxu JOIN #gzlug
+[10:03:37] -- teleboto JOIN #gzlug
+[10:56:35] -- rivershang JOIN #gzlug
+[11:20:48] -- LastAvengers JOIN #gzlug
+[11:26:06] -- SteamedFish JOIN #gzlug
+[13:46:52] -- rivershang JOIN #gzlug
+[13:56:42] -- jactry JOIN #gzlug
+[14:55:50] -- SteamedFish JOIN #gzlug
+[15:49:16] -- teleboto JOIN #gzlug
+[16:22:24] -- SteamedFish JOIN #gzlug
+[16:54:41] -- Shirasaka-Hazumi JOIN #gzlug
+[16:58:58] -- SteamedFish JOIN #gzlug
+[17:32:58] -- citypw JOIN #gzlug
+[17:34:21] -- rivershang PART #gzlug
+[17:37:57] -- citypw_ JOIN #gzlug
+[18:03:04] -- LastAvengers JOIN #gzlug
+[20:40:20] -- Shirasaka-Hazumi JOIN #gzlug
+[20:54:01] -- LastAvengers JOIN #gzlug
+[22:26:05] teleboto: [aldzunway] https://dn-fishroom.qbox.me/img/1ac2.jpeg (photo)
+[22:26:22] teleboto: [aldzunway] 作死之使用gcc4.9编译3.4kernel @Icenowy 🌚
+[22:49:53] teleboto: [dantmnf] 🌚有什么问题吗
+[23:02:27] teleboto: [aldzunway] 「Re dantmnf: 🌚有什么问题吗」之前记得有警告说不要用4.7以上编译3.4内核的
+[23:02:43] teleboto: [aldzunway] 「Re dantmnf: 🌚有什么问题吗」你什么时候进来的🌚
+[23:03:08] teleboto: [dantmnf] 🌚有一段时间了吧
+[23:25:36] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 作死之使用gcc...」armv7?
+[23:25:40] teleboto: [冰雪聪明琳之风] 祝你好运
+[23:26:01] teleboto: [冰雪聪明琳之风] 反正我的 gcc 4.9 编译出来的东西 alsa 是坏的
+[23:26:09] teleboto: [冰雪聪明琳之风] 一放音就 panic
+[23:26:44] teleboto: [amankwah] no zuo no die why you try😝
+[23:27:29] teleboto: [aldzunway] 「Re amankwah: no zuo n...」反正好像能正常工作🌚你看我都开机63天了
+[23:28:01] teleboto: [冰雪聪明琳之风] 要不你试试播放个东西？
+[23:33:50] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 要不你试试播放个...」没问题，不过播出来的效果相当的。。。。
+[23:34:50] teleboto: [aldzunway] 好像经过处理一样
+[23:35:26] teleboto: [aldzunway] 消除人声处理一样，不知道是哪里出问题了
+[23:38:08] teleboto: [aldzunway] 菊花捅太深了。。。
+[23:41:13] teleboto: [aldzunway] 用的耳机，捅太深自带人声消除效果
+[23:41:33] teleboto: [aldzunway] 显示和视频播放还没测试
+[23:46:41] teleboto: [amankwah] 这是插头和插口加工精度问题？
+[23:47:54] teleboto: [冰雪聪明琳之风] 不是
+[23:48:20] teleboto: [冰雪聪明琳之风] 是欧标TRRS耳机插入 TRS 接口/美标TRRS接口的结果
+[23:58:50] teleboto: [dantmnf] 🌚mic 的滤波把人声滤掉了？
