@@ -1,0 +1,30 @@
+[00:12:52] teleboto: [cicada] http://www.solidot.org/story?sid=48191
+[06:14:36] teleboto: [samuelhuang] 不提交主线的都是耍流氓
+[07:41:51] teleboto: [BashHoratio] 提交 了merge不进去
+[07:42:45] teleboto: [amankwah] 这更像是代码质量问题，不是故意的后门？
+[08:57:00] -- LastAvengers JOIN #gzlug
+[09:05:54] -- rivershang JOIN #gzlug
+[09:27:06] -- SteamedFish JOIN #gzlug
+[09:41:35] teleboto: [冰雪聪明琳之风] 「Re BashHoratio: 提交 了merg...」现在社区力量已经在重写全志的驱动然后提交主线了
+[09:41:55] teleboto: [冰雪聪明琳之风] 我前几天在 robin 那个平板上运行的就是主线内核
+[10:13:16] -- huntxu JOIN #gzlug
+[10:40:29] -- teleboto JOIN #gzlug
+[13:06:04] -- SteamedFish JOIN #gzlug
+[13:20:55] -- citypw JOIN #gzlug
+[13:31:50] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 我前几天在 ro...」video engine和nand驱动wip没有？
+[13:48:15] teleboto: [冰雪聪明琳之风] 「Re aldzunway: video en...」ve 已经提交了部分代码到 4.7 了
+[13:48:20] teleboto: [冰雪聪明琳之风] nand 当然 wip
+[13:48:26] teleboto: [冰雪聪明琳之风] C.H.I.P 就是nand
+[13:52:45] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: C.H.I.P ...」据说C.H.I.P的团队要让C.H.I.P用上主线内核？
+[14:42:43] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 据说C.H.I....」本来就是用的主线+一大堆WIP补丁
+[15:02:03] -- LastAvengers JOIN #gzlug
+[15:05:17] -- jac_pr JOIN #gzlug
+[15:14:47] -- jac_pr PART #gzlug
+[15:19:34] -- LastAvengers JOIN #gzlug
+[15:44:11] -- LastAvengers JOIN #gzlug
+[17:30:45] -- rivershang PART #gzlug
+[18:21:27] -- citypw JOIN #gzlug
+[18:55:51] -- citypw JOIN #gzlug
+[19:11:17] -- LastAvengers JOIN #gzlug
+[20:05:13] -- Shirasaka-Hazumi JOIN #gzlug
+[21:33:13] -- citypw JOIN #gzlug
