@@ -1,0 +1,115 @@
+[01:57:50] -- farseerfc JOIN #gzlug
+[07:40:31] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/img/2458.jpeg (photo)
+[07:41:08] teleboto: [BashHoratio] Usb cd启动，还可以选择live live-fail safe
+[07:41:30] teleboto: [BashHoratio] 然而半天就不去installer
+[07:41:40] teleboto: [BashHoratio] 真让人怀疑人生
+[07:46:17] teleboto: [BashHoratio] (unsupported message type)
+[07:46:27] teleboto: [BashHoratio] 我大tp用不了deepin
+[07:47:37] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/img/2459.jpeg (photo)
+[07:47:44] teleboto: [BashHoratio] 最后祈祷一下
+[07:51:00] teleboto: [BashHoratio] 没戏了
+[07:51:08] teleboto: [BashHoratio] (unsupported message type)
+[08:36:48] -- jactry JOIN #gzlug
+[08:46:58] -- rivershang JOIN #gzlug
+[08:55:48] -- LastAvengers JOIN #gzlug
+[09:30:33] -- SteamedFish JOIN #gzlug
+[09:47:34] -- huntxu JOIN #gzlug
+[10:25:23] -- citypw JOIN #gzlug
+[10:32:46] -- jactry JOIN #gzlug
+[12:09:23] teleboto: [BashHoratio] 昨天下午有人拍照不
+[13:34:57] -- citypw_ JOIN #gzlug
+[14:37:02] teleboto: [SBZKang] https://shop.pine64.com/collections/board/products/pine-a64-board-1gb
+[14:37:10] teleboto: [SBZKang] 有人有兴趣一起买吗
+[14:37:26] teleboto: [SBZKang] （主要是为了均摊邮费（逃
+[15:15:35] -- citypw JOIN #gzlug
+[15:32:22] LastAvengers: SBZKang: 已经有一个吃灰的 Pi 1 了。
+[15:32:44] LastAvengers: BashHoratio: 我拍了几张但是很模糊…… 手机镜头不行。
+[15:39:47] teleboto: [冰雪聪明琳之风] 「Re SBZKang: （主要是为了均摊...」什么时候发货
+[15:40:04] teleboto: [SBZKang] 「Re 冰雪聪明琳之风: 什么时候发货」六七月
+[16:42:42] teleboto: [BashHoratio] 「Re LastAvengers: @SBZKang...」+1
+[16:43:16] teleboto: [BashHoratio] 「Re LastAvengers: @BashHor...」那就算了，谢谢
+[16:43:50] LastAvengers: BashHoratio: 微信群问问看吧。
+[17:24:35] teleboto: [BashHoratio] 「Re SBZKang: https://...」我也要一块
+[17:25:30] teleboto: [SBZKang] 「Re BashHoratio: 我也要一块」目前看起来只有咱俩了 2333
+[17:25:58] teleboto: [冰雪聪明琳之风] 我曾经想要 pine64
+[17:26:07] teleboto: [冰雪聪明琳之风] 但是看到 linux-sunxi 发回的报道
+[17:26:11] teleboto: [冰雪聪明琳之风] 决定不要了
+[17:27:29] teleboto: [BashHoratio] 「Re SBZKang: 目前看起来只有咱...」其实我没有什么兴趣啦，群里一个逗比师兄不敢出来喊话
+[17:28:28] teleboto: [BashHoratio] 从树梅派，龙芯本，到开发机，我有5、6台，玩大数据又是高性能集群，实在不想买什么了。
+[17:29:36] teleboto: [冰雪聪明琳之风] 「Re BashHoratio: 从树梅派，龙芯本...」壕
+[17:29:43] teleboto: [SBZKang] 我再看看有人想买么，过两天结单
+[17:29:53] teleboto: [BashHoratio] 可以
+[17:30:01] teleboto: [SBZKang] https://dn-fishroom.qbox.me/sticker/157c.png (sticker)
+[17:30:54] teleboto: [BashHoratio] 「Re 冰雪聪明琳之风: 壕」我是大山来的穷孩子，买了这些穷的吃不起饭，每天化个缘什么的……
+[17:31:40] teleboto: [BashHoratio] 「Re SBZKang: 我再看看有人想买...」虽说是通信出身，但是我已经很少玩硬件了
+[17:35:44] teleboto: [SBZKang] 仰慕枝繁叶茂的技能树
+[17:36:06] teleboto: [yomyo] Linux系统分区分成多大比较好🤔
+[17:36:47] teleboto: [farseerfc] 因人而異（
+[17:38:19] teleboto: [yomyo] 我先准备用gparted转换成GPT，然后分四个50G的分区，其他的先放着
+[17:38:54] teleboto: [farseerfc] 直接全盤btrfs（逃
+[17:38:55] teleboto: [amankwah] 直接btrfs，不用考虑这问题了
+[17:39:07] teleboto: [amankwah] 「Re farseerfc: 直接全盤btrf...」我也这么想的，握手，哈哈
+[17:39:58] teleboto: [farseerfc] 「Re amankwah: 我也这么想的，握...」哈哈握手
+[17:41:31] teleboto: [yomyo] 可是我想搞个多系统(´◦ω◦‘)
+[17:42:22] teleboto: [farseerfc] btrfs一個系統對應一個subvol就可以了
+[17:42:36] teleboto: [farseerfc] *一個或多個subvol
+[17:43:17] teleboto: [amankwah] 可以试试不同系统放在不同子卷上？
+[17:44:50] teleboto: [yomyo] 先让我查查(´◦ω◦‘)
+[17:45:36] teleboto: [amankwah] 多系统要上非Linux的估计就不行了
+[17:46:18] teleboto: [farseerfc] 內核太老的Linux比如CentOS5估計也不成（
+[17:46:59] teleboto: [yomyo] 一个Linux 一个win10
+[17:48:16] teleboto: [cicada] 「Re 冰雪聪明琳之风: 但是看到 lin...」有什么问题吗？
+[17:48:22] teleboto: [amankwah] Windows10跑kvm上……
+[17:55:49] teleboto: [冰雪聪明琳之风] 「Re cicada: 有什么问题吗？」sdk 近乎扯淡
+[18:42:40] -- jactry JOIN #gzlug
+[18:43:41] teleboto: [BashHoratio] 「Re amankwah: Windows1...」这效果不应该卡成龟？？？
+[18:45:52] teleboto: [farseerfc] 「Re BashHoratio: 这效果不应该卡成...」win10優化挺棒的，我放在vbox裡一點都不卡
+[18:46:17] teleboto: [BashHoratio] 真的？？？？
+[18:46:44] teleboto: [amankwah] Vbox确实一点都不卡
+[18:46:55] teleboto: [BashHoratio] 前辈的是高端工作站吧
+[18:46:59] teleboto: [amankwah] kvm差点，但是我现在正在用kvm的
+[18:48:13] teleboto: [farseerfc] 09年的工作站，放到現在除了內存大點沒任何優勢了
+[18:48:26] teleboto: [BashHoratio] 这优化，巨硬的良心被狗吐出来，再装上了😂😂😂
+[18:50:30] teleboto: [farseerfc] 當然win10偶爾 任務管理器 失去響應啦，開始菜單失去響應啥的，這個物理機上也這樣，不是虛擬機的問題（
+[19:23:22] teleboto: Fan Yang ‮‮‮‮‮‮ylwols joined chat
+[19:23:37] teleboto: [ddmbr] 擦刚知道gzlug有tg😂
+[19:24:00] teleboto: [cicada] https://dn-fishroom.qbox.me/sticker/24d2.png (sticker)
+[19:24:19] teleboto: [BashHoratio] 「Re ddmbr: 擦刚知道gzlu...」前辈之前不就在里面？？？？
+[19:24:28] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/sticker/346.png (sticker)
+[19:24:35] teleboto: [ddmbr] 没有啊哈哈
+[19:25:36] teleboto: [BashHoratio] 「Re farseerfc: 當然win10偶...」Win10是特定版本才有u的子系统？
+[19:27:34] teleboto: [farseerfc] 「Re BashHoratio: Win10是特定...」說不定，不是微軟和canonical有合作麼（
+[19:28:11] teleboto: [BashHoratio] 还没公开？？？
+[19:34:38] teleboto: [cicada] 要等到Red Stone年度更新吧。
+[19:36:57] teleboto: [farseerfc] 「Re BashHoratio: Win10是特定...」啊好像我斷句出問題了（逃
+[19:37:58] teleboto: [BashHoratio] 「Re farseerfc: 啊好像我斷句出問...」？？？我的需求是，队友是win但是我想如果有u子系统，装环境之类的就统一而且简单了
+[19:38:54] teleboto: [farseerfc] 我剛纔那句看成了「Win10是U的特定版本的子系統」對U的內部故障的調侃
+[19:39:16] teleboto: [cicada] https://dn-fishroom.qbox.me/sticker/3f.png (sticker)
+[19:43:14] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/sticker/122e.png (sticker)
+[19:44:02] teleboto: [yomyo] https://dn-fishroom.qbox.me/img/24da.jpeg (photo)
+[19:44:03] teleboto: [yomyo] 这里的前端和后端是什么意思🤔
+[19:44:49] teleboto: [farseerfc] 就是在前面或者在後面空多少吧
+[19:48:32] teleboto: [yomyo] 「Re farseerfc: 就是在前面或者在...」Ext4和btrfs选哪个更合适呢(´・ω・‘)
+[19:53:03] teleboto: [farseerfc] 「Re yomyo: Ext4和btr...」話說你用 opensuse 的安裝器分的話，btrfs還有很多額外加成的工具來着……
+[19:53:46] teleboto: [yomyo] 「Re farseerfc: 話說你用 ope...」我先分了三个btrfs一个NTFS
+[19:53:59] teleboto: [farseerfc] 爲啥要三個btrfs……
+[19:54:05] teleboto: [amankwah] btrfs为什么要那么多……？
+[19:54:23] teleboto: [farseerfc] btrfs有子卷功能的啊
+[19:54:31] teleboto: [yomyo] 装其他发行版？
+[19:54:41] teleboto: [farseerfc] 別的發行版也可以在子卷裏
+[19:55:29] teleboto: [yomyo] 那应该分多大才好🤔
+[19:57:06] teleboto: [farseerfc] 這就看你自己的需要了……
+[19:58:01] teleboto: [amankwah] btrfs的好处之一就是你的linux不用纠结分区方案了
+[19:58:19] teleboto: [amankwah] 只要把linux和非Linux考虑好就行了
+[19:58:25] teleboto: [yomyo] 我第一次用桌面版，很多都不懂🙈
+[20:02:09] teleboto: [yomyo] 我分一个btrfs和一个ext4好了
+[20:02:19] teleboto: [yomyo] 一个50G
+[20:04:12] teleboto: [farseerfc] 爲啥要兩個 Linux 分區 😂
+[20:04:49] teleboto: [yomyo] 因为btrfs和ext4我都没用过
+[20:04:58] teleboto: [farseerfc] ( 3個 ext4 + 一個 Ntfs )或者 (1個 btrfs 1 +個 ntrfs)
+[20:05:46] teleboto: [farseerfc] ext4 沒什麼值得折騰的，沒時間就 Ext4，有時間就折騰 btrfs
+[20:48:55] -- jac_pr JOIN #gzlug
+[20:55:45] -- jac_pr PART #gzlug
+[20:56:52] -- SteamedFish JOIN #gzlug
+[21:33:16] -- LastAvengers JOIN #gzlug
+[21:33:32] -- LastAvengers JOIN #gzlug
