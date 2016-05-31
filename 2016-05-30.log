@@ -1,0 +1,79 @@
+[00:06:04] -- Shirasaka-Hazumi JOIN #gzlug
+[01:02:10] -- citypw JOIN #gzlug
+[01:06:18] -- citypw JOIN #gzlug
+[01:21:49] -- citypw JOIN #gzlug
+[01:49:36] -- citypw JOIN #gzlug
+[08:14:51] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/img/287b.jpeg (photo)
+[08:14:56] teleboto: [BashHoratio] 感觉不错
+[08:19:53] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/img/287c.jpeg (photo)
+[08:20:10] teleboto: [BashHoratio] 系统错乱设置的显示有问题……不时
+[08:20:23] teleboto: [BashHoratio] Bash Horatio:
+[08:20:24] teleboto: [BashHoratio] 系统设置的显示有问题……不时错乱
+[08:43:40] -- rivershang JOIN #gzlug
+[09:32:55] -- SteamedFish JOIN #gzlug
+[09:42:11] teleboto: [jactry] 6.0 的吗？我记得 5.1 不会呀
+[09:43:30] teleboto: [liangsuilong] 「Re BashHoratio: 」android-x86？
+[09:47:16] teleboto: [BashHoratio] 「Re jactry: 6.0 的吗？我...」5.1，android-x86， 在thinkpad t410上。remixos挺正常的
+[09:48:02] teleboto: [冰雪聪明琳之风] 有空我应该再试试 remixos 了
+[09:48:17] teleboto: [冰雪聪明琳之风] 上次 GZLUG 聚会我的bcm毒瘤无线网卡挂了嘛
+[09:48:25] teleboto: [冰雪聪明琳之风] 然后现在我已经换成 intel 卡了
+[09:48:37] teleboto: [冰雪聪明琳之风] 04:00.0 Network controller: Intel Corporation Centrino Wireless-N 2230 (rev c4)
+[09:50:21] teleboto: [BashHoratio] 「Re liangsuilong: android-...」是的，先完了这个。再用另外一个优盘装remixos，持久化启动，真心慢到怀疑人生，就没上图了。国产的东西果然喜欢强迫用户接受，预装电视软件就算了，来个豌豆荚真心呵呵呵。
+[09:50:54] teleboto: [冰雪聪明琳之风] 对了 @jactry 话说 wine 无法wine病毒感染过的可执行文件 可不可以报 bug
+[09:50:55] teleboto: [冰雪聪明琳之风] （逃
+[09:50:59] teleboto: [BashHoratio] 「Re 冰雪聪明琳之风: 有空我应该再试试...」静待你的反馈
+[09:51:49] teleboto: [jactry] 当然可以
+[09:51:55] teleboto: [冰雪聪明琳之风] （现在正在 wine 专杀
+[09:52:19] teleboto: [jactry] 大多数 windows 可以运行 wine 不可以的情况都可以考虑是 bug
+[09:52:54] teleboto: [冰雪聪明琳之风] 「Re jactry: 大多数 wind...」呃
+[09:53:09] teleboto: [jactry] 「Re 冰雪聪明琳之风: 对了 @jact...」有二进制吗
+[09:53:21] teleboto: [冰雪聪明琳之风] 「Re jactry: 有二进制吗」有
+[09:53:34] teleboto: [jactry] 挺有意思的 有可能还是 loader 的 bug
+[09:53:36] teleboto: [冰雪聪明琳之风] 为了避免被杀 赶紧 xz 了一个
+[09:53:51] teleboto: [冰雪聪明琳之风] wine 之后
+[09:53:54] teleboto: [冰雪聪明琳之风] 第一句话就是 wine: Unhandled page fault on read access to 0x00000001 at address 0x40d090 (thread 004f), starting debugger...
+[09:54:06] teleboto: [冰雪聪明琳之风] （后台正在 wine 专杀
+[09:54:12] teleboto: [jactry] 哦
+[09:54:32] teleboto: [BashHoratio] 「Re 冰雪聪明琳之风: 对了 @jact...」是指被感染的exe无法启动？
+[09:54:34] teleboto: [冰雪聪明琳之风] 但是专杀扫描磁盘的时候应该不检查内存
+[09:54:36] teleboto: [冰雪聪明琳之风] 「Re BashHoratio: 是指被感染的ex...」嗯
+[09:54:40] teleboto: [jactry] 没有被病毒破坏之前可以？
+[09:54:45] teleboto: [冰雪聪明琳之风] 嗯
+[09:55:04] teleboto: [冰雪聪明琳之风] 同一个程序 被感染的版本不能运行 从网上重新下载 就可以运行
+[09:55:17] teleboto: [amankwah] 这是病毒的bug还是wine的bug,😜😝
+[09:55:28] teleboto: [冰雪聪明琳之风] 「Re amankwah: 这是病毒的bug...」参考基本法（逃
+[09:55:46] teleboto: [BashHoratio] 感觉很有意思，不过不是很懂wine的东西。围观……😂
+[09:55:48] teleboto: [冰雪聪明琳之风] 要不我去装个虚拟机 win8 然后跑下试试
+[09:55:52] teleboto: [jactry] 可能病毒调用了 windows 没有公开的 feature，wine 没实现吧
+[09:56:11] teleboto: [冰雪聪明琳之风] 怎么直接碰到 SEH 了。。。
+[09:56:21] teleboto: [冰雪聪明琳之风] （另外我似乎找不到这个可执行文件的无毒版本了
+[09:57:41] teleboto: [jactry] 你给我一份 WINEDEBUG=relay,tid,seh    的 log 看看？
+[09:58:18] teleboto: [冰雪聪明琳之风] 需要先停止后台 wine 吗
+[09:58:30] teleboto: [jactry] 先 winecfg 在后面运行 然后在用这个环境变量运行病毒程序
+[09:59:20] teleboto: [冰雪聪明琳之风] http://pastebin.com/LTERhCRA
+[09:59:28] teleboto: [冰雪聪明琳之风] 「Re jactry: 先 winecf...」哦 避免 wine bootup 的 log？
+[10:00:06] teleboto: [jactry] 「Re 冰雪聪明琳之风: 哦 避免 win...」对
+[10:00:20] teleboto: [jactry] 我先去坐车 待会看看 多谢
+[10:04:29] -- huntxu JOIN #gzlug
+[10:22:21] -- citypw JOIN #gzlug
+[10:44:51] -- rivershang JOIN #gzlug
+[12:43:13] teleboto: [冰雪聪明琳之风] @jactry 已确定是病毒导致无法运行
+[12:43:20] teleboto: [冰雪聪明琳之风] 因为杀毒之后的文件可以正常wine
+[12:58:46] teleboto: [joey_ubuntu] 应该是典型的函数入口点被改
+[12:59:04] teleboto: [joey_ubuntu] 先定位到病毒自己的dll
+[12:59:17] teleboto: [joey_ubuntu] 然后才开始主程序
+[13:01:20] teleboto: [joey_ubuntu] 如果win也有ldd的工具的话应该能看到可疑的dll
+[13:02:52] teleboto: [冰雪聪明琳之风] 「Re joey_ubuntu: 如果win也有l...」应该没有多 dll
+[13:03:31] teleboto: [joey_ubuntu] 病毒的技术太多，我只知道这种而已
+[13:03:53] teleboto: [冰雪聪明琳之风] 病毒怎么可能多 dll
+[13:04:01] teleboto: [冰雪聪明琳之风] 需要多个文件的病毒哪有传播空间
+[13:04:05] teleboto: [冰雪聪明琳之风] （逃‘
+[13:04:20] teleboto: [joey_ubuntu] 病毒会自己下载的
+[13:11:37] teleboto: [felixonmars] 🌚
+[15:46:28] -- teleboto JOIN #gzlug
+[15:54:42] -- teleboto JOIN #gzlug
+[17:31:09] -- rivershang PART #gzlug
+[20:43:38] -- jactry JOIN #gzlug
+[20:45:26] -- jactry JOIN #gzlug
+[21:03:24] -- jactry JOIN #gzlug
+[21:42:28] -- citypw JOIN #gzlug
