@@ -1,0 +1,16 @@
+[08:13:36] -- jactry JOIN #gzlug
+[08:22:10] -- jactry JOIN #gzlug
+[08:30:03] -- rivershang JOIN #gzlug
+[09:33:58] -- SteamedFish JOIN #gzlug
+[10:02:22] -- huntxu JOIN #gzlug
+[10:26:10] -- citypw JOIN #gzlug
+[15:13:46] -- rivershang JOIN #gzlug
+[15:35:33] -- citypw JOIN #gzlug
+[17:06:42] teleboto: [冰雪聪明琳之风] 话说你们谁的 x3x 以上的 Thinkpad 正在运行 Linux 且有 APS
+[17:06:48] teleboto: [冰雪聪明琳之风] （没有 APS 也好
+[17:07:06] teleboto: [冰雪聪明琳之风] 能不能装一下 i2c-tools 包并运行一下 i2cdetect 0 到 i2cdetect 7
+[17:07:14] teleboto: [冰雪聪明琳之风] 看看有没有找到什么设备
+[17:07:29] teleboto: [冰雪聪明琳之风] 我在我 E531 的 i2c-2 上找到了 0x50 上有个东西
+[22:51:05] teleboto: [amankwah] 好奇，那个不是一般detect会说是什么设备么？
+[22:57:51] teleboto: [冰雪聪明琳之风] 「Re amankwah: 好奇，那个不是一...」不会
+[22:58:01] teleboto: [冰雪聪明琳之风] i2cdetect 只会提供总线和地址
