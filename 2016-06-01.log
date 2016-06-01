@@ -1,0 +1,18 @@
+[00:01:06] -- Shirasaka-Hazumi JOIN #gzlug
+[08:22:27] teleboto: [amankwah] 我记得有发现应该加载哪个驱动并修改配置文件的能力？？难道记错了？不过要是不认识的硬件，那就应该没什么提示了吧？
+[08:30:16] -- jactry JOIN #gzlug
+[08:41:03] -- rivershang JOIN #gzlug
+[08:47:37] teleboto: [冰雪聪明琳之风] 「Re amankwah: 我记得有发现应该...」i2c 总线没有 autoprobe
+[08:47:49] teleboto: [冰雪聪明琳之风] 加载驱动只能靠 dt/dsdt
+[09:32:13] -- SteamedFish JOIN #gzlug
+[10:18:02] teleboto: [amankwah] 是我记错了……，好像是原来用lm-sensors的sensors-detect会报告是什么设备……
+[10:22:23] teleboto: [冰雪聪明琳之风] i2c-2 似乎是 i915 gmbus panel
+[10:22:54] teleboto: [冰雪聪明琳之风] 那应该不是 APS 了
+[10:26:16] -- huntxu JOIN #gzlug
+[11:02:07] -- SteamedFish JOIN #gzlug
+[11:43:25] -- citypw JOIN #gzlug
+[14:23:44] -- citypw JOIN #gzlug
+[16:34:35] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 话说你们谁的 x...」x250算吗？
+[17:25:45] -- rivershang PART #gzlug
+[21:57:56] -- FisherDuan JOIN #gzlug
+[23:31:37] -- LastAvengers JOIN #gzlug
