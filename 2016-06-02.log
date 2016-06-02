@@ -1,0 +1,107 @@
+[00:17:42] -- LastAvengers JOIN #gzlug
+[01:29:45] teleboto: [cicada] 成功在平板上安装了Linux
+[01:30:04] teleboto: [cicada] 再也不是“叛徒”了。
+[01:30:54] teleboto: [冰雪聪明琳之风] 「Re cicada: 成功在平板上安装...」什么平板
+[01:31:34] teleboto: [cicada] 戴尔的win平板
+[01:34:16] -- SteamedFish JOIN #gzlug
+[02:15:23] -- SteamedFish JOIN #gzlug
+[09:00:17] -- jactry JOIN #gzlug
+[10:14:11] -- huntxu JOIN #gzlug
+[10:35:04] -- rivershang JOIN #gzlug
+[10:54:36] -- citypw JOIN #gzlug
+[10:59:59] -- huntxu JOIN #gzlug
+[11:21:34] -- jactry JOIN #gzlug
+[11:57:42] -- citypw JOIN #gzlug
+[12:37:06] -- citypw JOIN #gzlug
+[13:00:59] -- citypw JOIN #gzlug
+[13:06:35] teleboto: [冰雪聪明琳之风] @jactry 话说我似乎找到了 20 年前的 wine 源码。。。
+[13:06:55] teleboto: [冰雪聪明琳之风] 另外打个广告 @oldostest 我玩旧操作系统的地方
+[13:07:26] jactry: Wine 好像 23 年了~
+[13:08:42] teleboto: [冰雪聪明琳之风] 嗯。。。
+[13:09:03] teleboto: [冰雪聪明琳之风] 好想去我的 debian 0.91 虚拟机里试试编译个 wine
+[13:09:59] jactry: commit 490a27e012a3687b0427d2950df94897423d740e
+[13:10:00] jactry: Author: Alexandre Julliard <julliard@winehq.org>
+[13:10:00] jactry: Date:   Wed Jun 8 13:57:50 1994 +0000
+[13:10:01] jactry:     Release 940607
+[13:10:05] jactry: good luck xD
+[13:17:52] teleboto: [冰雪聪明琳之风] 不知道怎么把 wine 拷贝进去呢。。。
+[13:25:22] teleboto: [jactry] 什么虚拟机？
+[13:25:32] teleboto: [jactry] 没准现在还有二进制下载
+[13:27:05] teleboto: [冰雪聪明琳之风] 「Re jactry: 什么虚拟机？」qemu
+[13:27:09] teleboto: [冰雪聪明琳之风] 系统是我自己装的
+[13:27:15] teleboto: [冰雪聪明琳之风] 蟆的 debian 0.91 的 dpkg 真蛋疼
+[13:27:24] jactry: 有 curl 吗 xD
+[13:27:32] teleboto: [冰雪聪明琳之风] https://dn-fishroom.qbox.me/img/29e4.jpeg (photo)
+[13:27:32] teleboto: [冰雪聪明琳之风] 呃。。。系统内核版本不够吗？
+[13:27:33] teleboto: [冰雪聪明琳之风] 「Re jactry: 有 curl 吗...」没有
+[13:27:40] teleboto: [冰雪聪明琳之风] 或者或许有吧
+[13:27:44] teleboto: [冰雪聪明琳之风] 反正我没装网卡驱动
+[13:27:48] jactry: 233
+[13:28:02] jactry: 用意念传进去吧 xD
+[13:28:29] teleboto: [amankwah] 加个虚拟硬盘？
+[13:28:43] jactry: 弄个文件挂载成磁盘，然后写进去给 qemu 挂载应该可以
+[13:29:51] teleboto: [amankwah] 直接把Debian的系统盘挂到另外个虚拟机上拷吧
+[13:30:31] teleboto: [amankwah] 装个Debian8的虚拟机，NFS随便玩😜
+[13:30:35] teleboto: [冰雪聪明琳之风] 「Re amankwah: 加个虚拟硬盘？」聪明
+[13:31:01] teleboto: [冰雪聪明琳之风] 我安装扩充软件包就是这样装的
+[13:31:07] huntxu: 能wine
+[13:31:11] huntxu: windows 3.1？
+[13:31:41] teleboto: [amankwah] 20年前，应改有Windows95了？
+[13:33:15] jactry: debian 0.91 是 94 年的，94 年的 wine 估计还不兼容 windows95
+[13:34:40] jactry: 我下次问问 Alexandre 94 年他用 Wine 运行什么 xD
+[13:35:52] teleboto: [amankwah] 我猜是netscape navigator😉
+[13:36:07] huntxu: 扫雷有了么
+[13:36:30] teleboto: [amankwah] Windows3.0就有
+[13:37:01] jactry: netscape navigator 可能有 Linux 版吧？
+[13:37:46] -- acc JOIN #gzlug
+[13:38:00] -- acc PART #gzlug
+[13:38:09] teleboto: [amankwah] 那个时候，Linux的软件生态，不明
+[13:38:27] teleboto: [amankwah] 我还在Windows扫雷成绩的巅峰期
+[13:38:44] teleboto: [acc] 大家都是广州的吗
+[13:40:37] jactry: Hi acc，在广州
+[13:40:55] huntxu: Hi acc, 不在广州
+[13:41:01] teleboto: [amankwah] 算是吧
+[13:41:21] huntxu: 算是是什么鬼
+[13:41:23] huntxu: 郊区？
+[13:42:00] teleboto: [amankwah] 大部分时间在😜
+[13:42:27] teleboto: [amankwah] 偶尔会出去或者回老家住段时间啊……
+[13:43:26] jactry: 可惜 wine 的 bugzilla 是 2000 年才有的
+[13:43:41] jactry: 最早和软件有关的 bug 是和 adobe 有关的 https://bugs.winehq.org/show_bug.cgi?id=10
+[13:44:00] teleboto: [amankwah] 看来果然是跑浏览器😝
+[13:44:30] teleboto: [amankwah] 去提交一个20年的老bug🙈
+[13:44:53] jactry: http://www.linuxjournal.com/magazine/wine
+[13:45:10] jactry: 一篇 94 年的报道，不明觉厉，还没看先发出来
+[13:46:01] huntxu: 话说如果提交的bug对应的软件是20年前的
+[13:46:04] huntxu: wine收么。。。
+[13:46:36] huntxu: 比如跑windows3.1上的扫雷时segfault了...
+[13:47:33] jactry: 你用新版的 wine 能重现，收
+[13:47:44] jactry: 有没有人理你是另外一回事 xD
+[13:47:57] jactry: 有人理你，有没有人修又是另外一回事 xD
+[13:48:04] teleboto: [amankwah] wine的话，当年的扫雷作弊方法不知道能用不😅
+[13:48:16] huntxu: 扫雷怎么作弊
+[13:48:48] jactry: 不知道 wine 放弃对 windows 3.1 的支持了没有，如果放弃了应该不收
+[13:49:13] huntxu: 我觉得不可能还没放弃吧 =.=
+[13:49:33] huntxu: 微软都不支持了，wine还在支持
+[13:49:40] huntxu: 这是怎样一种真爱
+[13:50:06] teleboto: [冰雪聪明琳之风] 那就上 nt 3.1 的扫雷
+[13:50:22] jactry: winecfg 最老是 windows 2.0
+[13:50:25] huntxu: 要是有个人
+[13:50:29] jactry: 所以不知道
+[13:50:33] teleboto: [amankwah] 98簹是95以前的扫雷，输入特殊键盘输入后，具体是啥我忘记了，然后把壁纸调成纯黑，鼠标指向有雷的块，屏幕左上会有一个像素变成白点
+[13:50:38] huntxu: 测出来一堆bug都是3.1上的，全报了...
+[13:50:53] huntxu: 会不会被wine拉黑以后不给报
+[13:51:48] jactry: 不会不会
+[13:52:12] jactry: 不过我觉得 wine 对 windows 3.1 的支持可能比 windows 10 还好 xD
+[13:52:24] teleboto: [amankwah] 看起来像是有人穿越了……
+[13:52:48] teleboto: [amankwah] 突然连续冒出一堆3.1的bug的话……
+[13:54:18] jactry: http://www.makeuseof.com/tag/windows-3-fun-getting-really-old-software-running-64-bit-pc/
+[13:58:13] jactry: https://en.wikipedia.org/wiki/Wine_(software)#Backward_compatibility
+[14:23:19] teleboto: [冰雪聪明琳之风] It’s ironic, but if you depend on reverse compatibility with really old Windows software, you probably shouldn’t use Windows. Now you know.
+[14:23:39] teleboto: [冰雪聪明琳之风] 我不禁发出了杠铃般的笑声
+[15:19:08] -- SteamedFish JOIN #gzlug
+[17:18:49] -- jactry JOIN #gzlug
+[19:36:15] -- teleboto JOIN #gzlug
+[22:59:18] teleboto: [冰雪聪明琳之风] https://dn-fishroom.qbox.me/img/2a36.jpeg (photo)
+[22:59:19] teleboto: [冰雪聪明琳之风] 装了个古旧的 wine <forwarded from Icenowy 希望着破茧化蝶>
+[22:59:19] teleboto: [冰雪聪明琳之风] @jactry
+[23:55:58] -- Shirasaka-Hazumi JOIN #gzlug
