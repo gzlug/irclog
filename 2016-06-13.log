@@ -1,0 +1,10 @@
+[22:32:50] -- gzluglog JOIN #gzlug
+[22:34:46] -- rivershang JOIN #gzlug
+[22:35:34] rivershang: LastAvengers: logbot跑起来了:-D
+[22:36:18] LastAvengers: rivershang: 好棒！
+[22:37:14] rivershang: LastAvengers: 前几天忙，今晚抽空搞了下:-[ 上传到GitHub如何设置呢
+[22:40:46] LastAvengers: https://github.com/gzlug/irclog 在这个仓库放一个公钥，clone 下来，在服务器那边设置好 git 和 私钥，在 logbot.py 设置 repo 变量为 clone 下来的仓库路径就好了。
+[22:53:50] rivershang: LastAvengers: SSH key pair 创建好了，放到https://github.com/gzlug/irclog 需要权限吧（没搞过，逃~） 要不我将公钥给你，你先帮忙放上去？先去洗澡了~
+[23:03:29] LastAvengers: rivershang: 好， irc 私聊我吧。
+[23:06:15] rivershang: help
+[23:26:15] -- rivershang PART #gzlug
