@@ -1,0 +1,108 @@
+[00:12:15] -- gzluglog JOIN #gzlug
+[00:13:07] rivershang: test
+[00:18:11] -- gzluglog JOIN #gzlug
+[00:22:48] -- rivershang PART #gzlug
+[05:50:16] -- Shirasaka-Hazumi QUIT
+[05:55:43] -- Shirasaka-Hazumi JOIN #gzlug
+[07:12:57] -- teleboto QUIT
+[08:50:05] -- teleboto JOIN #gzlug
+[09:19:46] -- jenenliu JOIN #gzlug
+[09:27:06] -- LastAvengers JOIN #gzlug
+[09:54:39] -- huntxu JOIN #gzlug
+[10:13:50] -- jenenliu QUIT
+[10:24:49] -- rivershang JOIN #gzlug
+[10:26:14] rivershang: 好，logbot没有退出:-D 看来13号那天我前脚退出服务器，它后脚就退出了
+[10:29:31] rivershang: LastAvengers: 之前你在服务器上是如何让logbot一直在后台运行而不因退出terminal就终止运行的呢，我是用nohup运行的
+[10:30:13] LastAvengers: rivershang: nohup 或者 tmux。
+[10:31:11] -- citypw JOIN #gzlug
+[10:31:14] LastAvengers: :) https://github.com/gzlug/irclog/blob/master/2016-06-13.log
+[10:31:26] LastAvengers: 诶怎么没 14 15 的。
+[10:32:51] rivershang: LastAvengers: OK, thanks. 然后昨晚试了下手动push 13号的日志到GitHub，发现之前没陪好ssh的config文件，配好就OK了。
+[10:33:52] rivershang: 因为logbot后面终止运行了，所以没有14和15的日志:'(
+[10:34:15] LastAvengers: 原来是这样。
+[10:35:45] LastAvengers: rivershang: 我在写新的 logbot 了 :)
+[10:36:15] rivershang: 嗯。明天看下是否会自动上传，OK的话接下来要配置它死后复生的功能了，因为昨晚发现它竟然“Ping timeout”了
+[10:36:16] teleboto: [aldzunway] https://dn-fishroom.qbox.me/img/31da.jpeg (photo)
+[10:36:18] teleboto: [aldzunway] 低压u正在顽强地压片
+[10:37:52] teleboto: [aldzunway] 还有几个小时啊啊啊啊
+[10:38:14] teleboto: [aldzunway] 早知道送回家里的那部12个框框的更快
+[10:39:11] rivershang: LastAvengers: 善~ 我也有些构想（准备有时间搞下，咳~），比如将它写出通用的程序，将加入的channel，nick等从配置文件json里导入
+[10:39:38] rivershang: s/写出/写成
+[10:41:30] rivershang: 还有IPv4和6通用，我在服务器上跑之前ircbot.py里的socket的AF_INET改成AF_INET6了
+[10:42:26] -- teleboto QUIT
+[10:45:42] rivershang: :-(teleboto quit了
+[10:47:32] LastAvengers: rivershang: 大鹰说他在更新 docker。
+[10:48:19] rivershang: LastAvengers: 善。话说大鹰的id是
+[10:49:31] LastAvengers: bigeagle
+[10:50:04] -- teleboto JOIN #gzlug
+[10:51:02] -- teleboto QUIT
+[10:51:15] -- teleboto JOIN #gzlug
+[10:53:20] -- teleboto QUIT
+[10:54:23] rivershang: :-! 有眼不识bigeagle...
+[10:58:32] -- teleboto JOIN #gzlug
+[11:05:34] -- LastAvengers JOIN #gzlug
+[11:08:44] -- labots QUIT
+[11:08:56] -- LastAvengers QUIT
+[11:35:52] -- jenenliu JOIN #gzlug
+[11:50:20] -- teleboto QUIT
+[11:50:28] -- teleboto JOIN #gzlug
+[12:09:36] -- jenenliu QUIT
+[13:55:38] -- LastAvengers JOIN #gzlug
+[13:56:47] -- jactry QUIT
+[14:03:00] -- jactry JOIN #gzlug
+[16:24:34] -- jactry QUIT
+[16:47:14] -- SteamedFish JOIN #gzlug
+[17:32:32] -- huntxu QUIT
+[17:35:58] -- citypw QUIT
+[17:36:48] -- rivershang QUIT
+[17:37:24] -- huntxu JOIN #gzlug
+[17:44:35] -- huntxu QUIT
+[17:46:17] -- huntxu JOIN #gzlug
+[17:48:39] -- citypw JOIN #gzlug
+[17:52:55] -- huntxu QUIT
+[17:54:39] -- huntxu JOIN #gzlug
+[17:55:38] -- citypw QUIT
+[18:11:39] -- citypw JOIN #gzlug
+[18:14:15] -- citypw QUIT
+[18:46:26] -- huntxu QUIT
+[18:55:38] -- huntxu JOIN #gzlug
+[19:14:08] -- huntxu QUIT
+[19:47:06] teleboto: [jactry] https://dn-fishroom.qbox.me/img/320f.jpeg (photo)
+[19:48:34] teleboto: [jactry] https://dn-fishroom.qbox.me/img/3210.jpeg (photo)
+[19:49:02] teleboto: [jactry] https://youtu.be/QzHYyGwutrw
+[19:49:22] teleboto: [jactry] 终于到了可以和大家分享的时刻了 T-T
+[20:24:15] -- SteamedFish QUIT
+[20:48:29] teleboto: [aldzunway] 翻一下用了什么黑科技
+[20:49:03] teleboto: [冰雪聪明琳之风] 「Re jactry: 终于到了可以和大...」wine for Android ?
+[20:52:09] teleboto: [jactry] 准确说是 crossover for android
+[20:52:18] teleboto: [冰雪聪明琳之风] 然而 remix 有 arm 设备
+[20:55:16] teleboto: [冰雪聪明琳之风] http://linux-sunxi.org/Jide_Remix_Mini
+[20:57:12] -- citypw JOIN #gzlug
+[20:58:26] teleboto: [jactry] remix x 可能是 android x86 吧
+[20:58:38] teleboto: [jactry] 他们刚出了几个 x86 设备
+[20:58:41] teleboto: [冰雪聪明琳之风] 但 remix mini 怎么办
+[20:58:59] teleboto: [冰雪聪明琳之风] remix mini 用户可能会觉得被坑了
+[20:59:44] teleboto: [jactry] 看已经发布的产品 arm 没被放弃 有两条产品线
+[21:00:02] teleboto: [jactry] jide 自己做的都是 arm
+[21:00:16] teleboto: [jactry] 第三方合作的硬件才有 x86
+[21:00:19] teleboto: [冰雪聪明琳之风] 「Re jactry: 看已经发布的产品...」这样的话 remix mini 有点尴尬
+[21:00:26] teleboto: [jactry] 为什么
+[21:00:52] teleboto: [冰雪聪明琳之风] 功能性比 x86 产品差啊
+[21:00:56] teleboto: [冰雪聪明琳之风] （想想苏菲 rt
+[21:02:01] teleboto: [jactry] 「Re 冰雪聪明琳之风: 功能性比 x86...」那是差太多了 随便一台 android x86 跑分都是二十多万…
+[21:02:31] teleboto: [jactry] 不过我说的是 pc
+[21:02:50] teleboto: [jactry] 目测低功耗 x86 性能也不怎么样
+[21:03:12] teleboto: [冰雪聪明琳之风] 另外 wine 佛如
+[21:03:19] teleboto: [冰雪聪明琳之风] wine for android 会不会有社区版
+[21:03:45] teleboto: [jactry] 不知道 很底层的代码都在上游了
+[21:04:17] teleboto: [jactry] 社区的其他开发者或者其他商业公司想做也是可以的
+[21:07:11] teleboto: [冰雪聪明琳之风] 还有 Remix Pro 不用 x86 我也是没话说
+[21:08:21] teleboto: [jactry] 「Re 冰雪聪明琳之风: 还有 Remix...」没用过 不知道体验如何 我在一个 x86 的寨板跑 remix os 体验还是蛮不错的
+[21:10:12] teleboto: [冰雪聪明琳之风] 「Re jactry: 没用过 不知道体...」内核版本如何呢
+[21:10:16] teleboto: [冰雪聪明琳之风] 型号是？
+[21:11:46] teleboto: [jactry] 酷比魔方 i7 128G
+[21:45:49] teleboto: [liangsuilong] 会有crossover for Android on ARM吗？
+[21:55:25] teleboto: [jactry] 「Re liangsuilong: 会有crosso...」不知道…
+[22:53:50] -- jactry JOIN #gzlug
+[23:23:10] -- LastAvengers QUIT
+[23:29:59] -- LastAvengers JOIN #gzlug
