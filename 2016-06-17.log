@@ -1,0 +1,63 @@
+[10:00:05] -- gzluglog JOIN #gzlug
+[10:02:45] -- pingbo JOIN #gzlug
+[10:06:48] -- rivershang JOIN #gzlug
+[10:13:13] rivershang: LastAvengers: 发现logbot进程有在跑，但没有上传日志，手动git push了下，发现需要输密码添加GitHub密钥，奇怪了，之前通过SSH的方式git clone到本地已经输过一次了。然后程序卡到git.push()，logbot也退出频道了……明天再观察下⊙﹏⊙b汗
+[10:16:56] LastAvengers: rivershang: 神奇……
+[10:33:25] -- pingbo QUIT
+[10:42:19] -- citypw JOIN #gzlug
+[10:48:15] -- pingbo JOIN #gzlug
+[10:50:45] -- citypw QUIT
+[10:52:14] -- pingbo QUIT
+[10:54:15] -- pingbo JOIN #gzlug
+[11:03:03] -- citypw JOIN #gzlug
+[11:09:06] -- pingbo QUIT
+[11:22:02] -- pingbo JOIN #gzlug
+[11:22:44] -- LastAvengers QUIT
+[11:26:32] -- pingbo QUIT
+[11:45:03] -- pingbo JOIN #gzlug
+[11:49:29] -- huntxu QUIT
+[11:52:20] -- huntxu JOIN #gzlug
+[11:58:31] -- pingbo QUIT
+[12:08:55] -- huntxu QUIT
+[12:10:49] -- huntxu JOIN #gzlug
+[12:13:03] -- pingbo JOIN #gzlug
+[12:18:00] -- pingbo QUIT
+[12:25:37] -- huntxu QUIT
+[12:28:37] -- huntxu JOIN #gzlug
+[13:43:00] -- pingbo JOIN #gzlug
+[13:48:28] -- pingbo QUIT
+[13:49:55] -- pingbo JOIN #gzlug
+[13:59:48] -- LastAvengers JOIN #gzlug
+[14:09:16] -- pingbo QUIT
+[14:12:00] -- LastAvengers JOIN #gzlug
+[14:25:57] -- pingbo JOIN #gzlug
+[14:30:11] -- pingbo QUIT
+[14:53:28] -- pingbo JOIN #gzlug
+[15:40:51] -- pingbo QUIT
+[15:44:24] -- pingbo JOIN #gzlug
+[16:10:09] -- SteamedFish QUIT
+[16:10:23] -- SteamedFish JOIN #gzlug
+[16:14:14] -- citypw QUIT
+[16:24:00] -- pingbo QUIT
+[16:30:13] -- pingbo JOIN #gzlug
+[17:01:13] -- LastAvengers QUIT
+[17:34:18] -- rivershang PART #gzlug
+[17:44:09] -- citypw JOIN #gzlug
+[17:49:28] -- LastAvengers JOIN #gzlug
+[18:03:51] -- pingbo QUIT
+[18:25:02] -- citypw QUIT
+[18:40:37] -- pingbo JOIN #gzlug
+[18:43:51] -- pingbo_ JOIN #gzlug
+[18:46:32] -- pingbo_ QUIT
+[18:47:09] -- pingbo QUIT
+[19:12:04] -- huntxu QUIT
+[19:53:39] -- Neo_Chen JOIN #gzlug
+[19:53:41] -- Neo_Chen1048576 JOIN #gzlug
+[19:53:52] -- Neo_Chen1048576 QUIT
+[19:55:12] -- Neo_Chen QUIT
+[20:49:25] -- jactry_ JOIN #gzlug
+[20:52:15] -- jactry QUIT
+[21:04:06] -- SteamedFish QUIT
+[21:58:41] -- citypw JOIN #gzlug
+[23:38:16] -- jactry_ QUIT
+[23:57:28] -- citypw QUIT
