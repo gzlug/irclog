@@ -1,0 +1,38 @@
+[00:06:08] LastAvengers: rivershang: 你该不会用了 root 运行吧？
+[00:06:54] rivershang: LastAvengers: 是普通用户下运行的
+[00:07:31] LastAvengers: :/ 没报错什么的？
+[00:08:20] rivershang: 昨天的日志刚自动上传成功了:-D
+[00:08:30] rivershang: 虽然什么消息都没有……
+[00:09:09] rivershang: LastAvengers: 你是只git push的报错还是setsid的报错呢
+[00:09:40] LastAvengers: rivershang: push
+[00:18:02] rivershang: LastAvengers: 没有搞错噢，不过发现进程中有个神马参数包含git-receive-pack的东东，估计就是push失败引起的。昨天手动push需要输入passphrase时，发现ssh-agent里没有没有加入key，手动加入logout，再login发现就没了，然后加入keychain，加入一次就好了。但刚手动push它有个确认加入GitHub到konwn_hosts，看来必须运行一次才行。多个passphrase发现事儿不少
+[00:18:14] rivershang: /搞错/报错
+[00:20:05] rivershang: 现在需要搞明白为啥setsid不行
+[00:32:40] -- LastAvengers QUIT
+[00:42:36] -- rivershang QUIT
+[01:17:18] -- LastAvengers JOIN #gzlug
+[01:41:32] -- LastAvengers QUIT
+[01:41:45] -- LastAvengers JOIN #gzlug
+[02:14:19] -- LastAvengers QUIT
+[04:02:11] -- teleboto QUIT
+[04:02:20] -- teleboto JOIN #gzlug
+[04:03:08] -- teleboto QUIT
+[04:03:16] -- teleboto JOIN #gzlug
+[08:45:44] -- LastAvengers JOIN #gzlug
+[13:44:59] -- jactry JOIN #gzlug
+[15:53:26] -- citypw JOIN #gzlug
+[18:15:32] -- farseerfc QUIT
+[18:15:48] -- farseerfc JOIN #gzlug
+[19:24:41] -- LastAvengers QUIT
+[21:00:49] -- SteamedFish JOIN #gzlug
+[21:25:27] -- citypw QUIT
+[21:26:54] -- citypw JOIN #gzlug
+[21:32:36] -- citypw QUIT
+[21:33:07] -- citypw JOIN #gzlug
+[21:57:14] -- citypw QUIT
+[22:00:01] -- citypw JOIN #gzlug
+[22:53:00] -- SteamedFish QUIT
+[22:54:11] -- SteamedFish JOIN #gzlug
+[22:54:12] -- jactry QUIT
+[22:58:54] -- SteamedFish QUIT
+[23:08:31] -- LastAvengers JOIN #gzlug
