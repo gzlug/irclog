@@ -1,0 +1,61 @@
+[01:25:51] -- SteamedFish QUIT
+[05:31:37] -- Shirasaka-Hazumi QUIT
+[05:40:56] -- Shirasaka-Hazumi JOIN #gzlug
+[08:24:24] -- huntxu JOIN #gzlug
+[08:42:33] -- rivershang JOIN #gzlug
+[09:58:03] -- jactry JOIN #gzlug
+[10:10:57] -- jenenliu JOIN #gzlug
+[10:26:29] -- LastAvengers JOIN #gzlug
+[10:57:20] -- citypw JOIN #gzlug
+[11:35:12] -- jenenliu QUIT
+[12:06:47] -- LastAvengers QUIT
+[12:07:09] -- LastAvengers JOIN #gzlug
+[12:55:11] -- SteamedFish JOIN #gzlug
+[14:48:58] -- teleboto_ JOIN #gzlug
+[14:53:56] teleboto_: [Robin Lee] http://lwn.net/Articles/692128/
+[14:54:07] teleboto_: [Robin Lee] Fedora 24 released
+[15:04:44] -- teleboto QUIT
+[15:06:35] teleboto_: [JeffBai] Congrats.
+[15:08:28] huntxu: 这次跳票了几个月
+[15:25:43] -- LastAvengers QUIT
+[15:26:03] -- LastAvengers JOIN #gzlug
+[15:41:48] -- jactry QUIT
+[16:07:05] -- LastAvengers QUIT
+[16:49:17] -- jactry JOIN #gzlug
+[17:38:16] -- rivershang QUIT
+[17:57:02] -- LastAvengers JOIN #gzlug
+[18:07:40] teleboto_: [冰雪聪明琳之风] @jactry
+[18:07:53] teleboto_: [冰雪聪明琳之风] 我今天遇到了个 wine dx bug
+[18:08:02] teleboto_: [冰雪聪明琳之风] wine ra2 yuri's revenge 的时候
+[18:08:13] teleboto_: [冰雪聪明琳之风] 游戏退出后屏幕分辨率依然是 800x600
+[18:08:15] teleboto_: [冰雪聪明琳之风] 没恢复
+[18:16:33] -- citypw QUIT
+[18:30:55] teleboto_: [joey_ubuntu] 我也有类似问题，不过和你的bug不一样
+[18:31:18] teleboto_: [joey_ubuntu] 也是尤里复仇
+[18:31:25] teleboto_: [冰雪聪明琳之风] 「Re joey_ubuntu: 我也有类似问题，...」？
+[18:31:41] teleboto_: [joey_ubuntu] 退出游戏后系统分辨率是对的
+[18:31:45] teleboto_: [冰雪聪明琳之风] （哦还有一个应该提交给 staging 的问题
+[18:32:01] teleboto_: [冰雪聪明琳之风] （打开 csmt 之后 Yuri's Revenge + Ares 会非常卡
+[18:32:08] teleboto_: [冰雪聪明琳之风] （但是纯 Yuri's Renvenge 没事
+[18:32:27] teleboto_: [joey_ubuntu] 但是有些系统桌面部件的出现位置在很小的范围内
+[18:32:50] teleboto_: [joey_ubuntu] 好像刚刚好是游戏分辨率范围
+[18:33:16] teleboto_: [冰雪聪明琳之风] 「Re joey_ubuntu: 好像刚刚好是游戏...」试试找个会覆盖分辨率的 linux native 游戏
+[18:33:19] teleboto_: [冰雪聪明琳之风] 要是也是这个问题
+[18:33:23] teleboto_: [冰雪聪明琳之风] 就去 pia 桌面
+[18:33:43] teleboto_: [joey_ubuntu] 好，下次试试看
+[18:34:50] teleboto_: [SBZKang] 「Re boom: t系列太贵。。。」海淘其实还可以
+[18:36:20] teleboto_: [jactry] 「Re 冰雪聪明琳之风: wine ra2...」staging 碰到的问题还是得试试 develop，如果 develop 没事那可能比较好办
+[18:37:00] teleboto_: [冰雪聪明琳之风] 「Re jactry: staging ...」另外 staging 的 csmt
+[18:37:07] teleboto_: [冰雪聪明琳之风] 打开之后虽然 Ares 变得无法使用
+[18:37:15] teleboto_: [冰雪聪明琳之风] 但是在原版引擎上却能修复分辨率问题
+[18:37:46] teleboto_: [jactry] 给 staging 报个 bug 吧
+[18:39:11] teleboto_: [冰雪聪明琳之风] Ares 文档里说它魔改了渲染代码
+[19:44:12] -- huntxu QUIT
+[20:44:41] -- SteamedFish QUIT
+[21:33:09] -- pingbo JOIN #gzlug
+[22:04:43] -- pingbo QUIT
+[22:12:22] teleboto_: [aldzunway] 「Re 冰雪聪明琳之风: 试试找个会覆盖分...」native一般没问题
+[22:12:57] teleboto_: [aldzunway] 「Re 冰雪聪明琳之风: 试试找个会覆盖分...」有些游戏以外退出后分辨率也不会回来的，例如模拟城市4
+[22:13:14] teleboto_: [aldzunway] 「Re 冰雪聪明琳之风: （打开 csmt...」csmt还能手动打开？
+[22:14:36] teleboto_: [冰雪聪明琳之风] 「Re aldzunway: csmt还能手动...」wine3d-csmt 嘛
+[22:14:58] teleboto_: [aldzunway] 「Re 冰雪聪明琳之风: wine3d-c...」装上去是吧。。
