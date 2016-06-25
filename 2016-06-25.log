@@ -1,0 +1,28 @@
+[14:59:42] -- gzluglog JOIN #gzlug
+[15:29:53] -- gzluglog JOIN #gzlug
+[15:40:30] rivershang: 根据https://bytes.com/topic/python/answers/631000-threads-use-100-cpu-all-time 的提示，在while True后加入了sleep语句，先观察段时间。cc LastAvengers: 不过奇怪的是通用的代码之前在你的服务器上跑了很久都没问题是吧
+[15:40:53] rivershang: s/通用/同样
+[15:44:58] LastAvengers: rivershang: 没问题…… 不过我已经重新肝了一个 bot 框架，https://github.com/LastAvenger/labots 过几天写个新的 logbot 出来。
+[15:50:18] rivershang: 赞~\(≧▽≦)/~
+[15:59:29] -- citypw JOIN #gzlug
+[16:08:10] -- rivershang PART #gzlug
+[17:43:10] -- LastAvengers QUIT
+[17:46:59] -- LastAvengers JOIN #gzlug
+[19:34:04] -- citypw QUIT
+[20:08:58] -- jenenliu QUIT
+[20:12:08] -- jenenliu JOIN #gzlug
+[20:20:31] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/img/3700.jpeg (photo)
+[20:20:41] -- jenenliu QUIT
+[20:20:52] teleboto: [BashHoratio] 还挺好玩的
+[20:20:52] teleboto: [JeffBai] 还在会场？
+[20:21:12] -- jenenliu JOIN #gzlug
+[20:32:18] teleboto: [BashHoratio] 走了
+[20:32:29] teleboto: [BashHoratio] 准备到荃湾
+[20:32:43] teleboto: [JeffBai] 噢……
+[20:37:25] -- jenenliu2 JOIN #gzlug
+[20:38:56] -- jenenliu QUIT
+[21:23:49] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/img/3711.jpeg (photo)
+[21:33:19] teleboto: [cicada] https://dn-fishroom.qbox.me/sticker/3712.png (sticker)
+[22:30:00] -- LastAvengers QUIT
+[23:17:28] -- Neo_Chen JOIN #gzlug
+[23:17:28] -- Neo_Chen QUIT
