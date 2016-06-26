@@ -1,0 +1,45 @@
+[00:00:18] -- jactry_ QUIT
+[03:23:49] -- jactry JOIN #gzlug
+[05:25:55] -- Shirasaka-Hazumi QUIT
+[05:31:08] -- Shirasaka-Hazumi JOIN #gzlug
+[08:05:11] -- jactry QUIT
+[08:05:46] -- jactry JOIN #gzlug
+[09:32:22] -- LastAvengers JOIN #gzlug
+[11:54:51] -- citypw JOIN #gzlug
+[13:36:14] -- citypw QUIT
+[14:10:15] -- jactry QUIT
+[14:15:10] -- LastAvengers QUIT
+[15:17:27] -- jenenliu2 QUIT
+[16:48:32] teleboto: [冰雪聪明琳之风] @aldzunway 在吗
+[16:48:42] teleboto: [冰雪聪明琳之风] 你当时移植的 mali kernel driver 版本号是？
+[17:17:54] Shirasaka-Hazumi: 4.6
+[17:18:02] Shirasaka-Hazumi: 4.6-rc1
+[17:18:30] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 你当时移植的 m...」4.6-rc1
+[17:18:34] teleboto: [冰雪聪明琳之风] 我的意思是
+[17:18:41] teleboto: [冰雪聪明琳之风] mali kernel driver 版本号
+[17:18:48] teleboto: [冰雪聪明琳之风] 不是 kernel 版本号
+[17:20:29] Shirasaka-Hazumi: r6p1-01rel0
+[17:20:47] Shirasaka-Hazumi: 模块我还在，你要吗?
+[17:21:38] teleboto: [冰雪聪明琳之风] 那么新。。。
+[17:21:48] teleboto: [冰雪聪明琳之风] 没有 user space driver 的啊
+[17:22:36] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 没有 user ...」r6p0的用户空间应该也可以用的
+[17:23:10] Shirasaka-Hazumi: 不过mali那边好像没有了。。。
+[17:24:09] teleboto: [冰雪聪明琳之风] 「Re aldzunway: r6p0的用户空...」你有这么新的 userspace ？
+[17:24:46] teleboto: [BashHoratio] 珍惜搜神翻墙的机会
+[17:28:21] Shirasaka-Hazumi: 我翻了一下，没有
+[17:29:54] Shirasaka-Hazumi: 我当时试着将sunxi的内核驱动移植，然而差距太大gg了
+[17:30:42] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 你有这么新的 u...」也就是说如果要用sunxi的那个驱动可能要大改一下才能用
+[17:31:18] teleboto: [aldzunway] 编译都通不过。。。
+[17:31:34] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 也就是说如果要用...」嗯
+[17:31:36] teleboto: [冰雪聪明琳之风] 那样的话
+[17:31:45] teleboto: [冰雪聪明琳之风] 需要移植 r3p2 的驱动
+[17:31:52] teleboto: [冰雪聪明琳之风] 而不是 r6p1 的
+[18:14:00] Shirasaka-Hazumi: 不是要大改了，是魔改了
+[19:17:18] -- bridge JOIN #gzlug
+[19:17:58] -- bridge PART #gzlug
+[20:31:03] -- jactry JOIN #gzlug
+[20:31:37] -- jactry QUIT
+[20:49:40] -- jactry JOIN #gzlug
+[21:04:24] -- teleboto QUIT
+[21:04:32] -- teleboto JOIN #gzlug
+[21:43:02] -- LastAvengers JOIN #gzlug
