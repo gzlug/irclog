@@ -1,0 +1,130 @@
+[00:02:02] -- jactry JOIN #gzlug
+[00:10:17] -- jenenliu3 QUIT
+[01:17:24] -- LastAvengers QUIT
+[01:23:26] -- citypw QUIT
+[04:52:51] -- Shirasaka-Hazumi QUIT
+[04:59:30] -- Shirasaka-Hazumi JOIN #gzlug
+[09:21:49] -- LilyAyta JOIN #gzlug
+[09:29:01] -- LilyAyta QUIT
+[09:30:49] -- LilyAyta JOIN #gzlug
+[09:33:38] -- LilyAyta QUIT
+[10:00:39] -- LastAvengers JOIN #gzlug
+[10:53:49] -- jenenliu3 JOIN #gzlug
+[11:06:54] teleboto: [xiaoxing] location 22.502595,114.127902
+[11:06:55] teleboto: [xiaoxing] https://www.openstreetmap.org/?mlat=22.502595&mlon=114.127902  <fwd xiaoxing>
+[11:06:56] teleboto: [xiaoxing] 有人要代购吗  <fwd xiaoxing>
+[11:13:37] teleboto: [BashHoratio] 没翻看不到
+[11:14:09] teleboto: [冰雪聪明琳之风] 叶老板在香港
+[11:18:44] teleboto: [cicada] https://dn-fishroom.qbox.me/img/41e6.jpeg (photo)
+[11:19:43] teleboto: [cicada] 竟然能分楼层。
+[11:23:32] -- jenenliu4 JOIN #gzlug
+[11:24:48] -- jenenliu3 QUIT
+[11:25:24] -- jenenliu5 JOIN #gzlug
+[11:25:52] -- jenenliu4 QUIT
+[11:26:11] teleboto: [jactry] telegram 群组要怎么生成邀请链接？
+[11:26:27] teleboto: [冰雪聪明琳之风] 「Re jactry: telegram...」好像在群主的 Add Members 界面里
+[11:26:41] teleboto: [jactry] OK
+[11:28:56] teleboto: Shulang Lei joined chat
+[11:29:34] teleboto: [Gzmask] Ello forks!
+[11:31:39] teleboto: [jactry] @Icenowy 你之前说的 Wine 红警退出后分辨率不正常是 2 还是 3？
+[11:32:02] teleboto: [JeffBai] 之前说的是 2
+[11:32:04] teleboto: [jactry] 我前几天玩 Steam 版的 3 重现了~
+[11:32:12] teleboto: [jactry] 原来如此
+[11:32:21] teleboto: [JeffBai] 其实好多游戏都这样……
+[11:32:23] teleboto: [jactry] 目测是 winex11.drv 的锅
+[11:32:30] teleboto: [jactry] 因为 osx 没问题
+[11:32:32] teleboto: [JeffBai] 我再举个例子 Star Wars: Battlefront 2
+[11:32:38] teleboto: [jactry] OK
+[11:32:47] teleboto: [jactry] 有很小的游戏可以重现的吗
+[11:32:48] teleboto: [JeffBai] 这个游戏也是菜单只有一种分辨率
+[11:32:52] teleboto: [JeffBai] 到后面才转过去
+[11:33:01] teleboto: [JeffBai] 「Re jactry: 有很小的游戏可以...」有很老的游戏行为差不多……
+[11:33:13] teleboto: [JeffBai] 但是我确实不确定 Wine 上能不能跑 DX5 游戏
+[11:33:22] teleboto: [JeffBai] 三国无双也会这样
+[11:33:39] teleboto: [jactry] 我找小游戏是方便调试 生成的 log 少一点
+[11:33:50] teleboto: [jactry] 没有我就用红警2了
+[11:33:52] teleboto: [冰雪聪明琳之风] 「Re jactry: @Icenowy...」2
+[11:33:59] teleboto: [jactry] 估计 winex11 的 log 也不会很多
+[11:48:38] teleboto: [jactry] https://bugs.winehq.org/show_bug.cgi?id=10841#c25
+[11:48:53] teleboto: [jactry] https://bugs.winehq.org/show_bug.cgi?id=10841#c48
+[11:49:14] teleboto: [JeffBai] 很早就有报告了呀……
+[11:49:16] teleboto: [jactry] https://bugs.winehq.org/show_bug.cgi?id=10841#c54
+[11:49:29] teleboto: [jactry] 有一年 winconf 还讨论过呢
+[11:50:14] teleboto: [jactry] https://bugs.winehq.org/show_bug.cgi?id=10841#c46
+[11:50:18] teleboto: [jactry] 是这个评论说的
+[11:50:33] teleboto: [JeffBai] 哈哈
+[11:51:13] teleboto: [jactry] 看了整个线索 大意是，有一种可以从 user32 hack，更好的部分是让 x11 提供一个 feature，然后再从 wine 实现
+[11:51:35] teleboto: [jactry] 有人个 freedesktop 报过 bug
+[11:51:35] teleboto: [jactry] https://bugs.freedesktop.org/show_bug.cgi?id=14255
+[11:51:41] teleboto: [jactry] 但是没开发者鸟
+[11:51:53] teleboto: [JeffBai] 嗯
+[11:55:15] teleboto: [jactry] ( ·  Ĺ̯  ·   )̄
+[12:18:12] geno1024: 😐你们听说过 64k Demo 吗，其中不少需要全屏的就会导致退出后分辨率依然不正常
+[12:19:48] jactry: 是游戏吗？
+[12:27:02] geno1024: 😐不是游戏……就是 movie，以极高的压缩率把原来可能需要 1G 或更多的 movie 压缩到 64k
+[12:28:22] jactry: 这么厉害
+[12:28:39] geno1024: 😐查了一下，那个著名的制作团队也做了一个 96k 的游戏叫 kkrieger
+[12:29:02] geno1024: 😐一个 3D 枪战游戏
+[12:32:28] -- jenenliu6 JOIN #gzlug
+[12:36:28] -- jenenliu5 QUIT
+[13:14:29] teleboto: [Gzmask] 那些64k demo的原理好像是大量使用procedure generated texture和重复利用dx库里面的现有素材
+[13:19:03] teleboto: [Gzmask] 之前有个程序员在ludumdare秀技，用一个低分辨率的bitmap既作为texture使用，也作为地图使用。原理是每个像素的值代表了游戏里面的地图，游戏obj和物理碰撞体
+[14:02:02] -- kitech JOIN #gzlug
+[14:04:06] -- kitech QUIT
+[14:04:23] -- kitech JOIN #gzlug
+[14:04:42] -- kitech QUIT
+[14:05:17] -- kitech JOIN #gzlug
+[14:08:39] -- kitech QUIT
+[14:08:57] -- kitech JOIN #gzlug
+[15:07:59] -- farseerfc QUIT
+[15:08:14] -- farseerfc JOIN #gzlug
+[15:45:50] -- jenenliu6 QUIT
+[15:46:13] -- Shirasaka-Hazumi QUIT
+[15:46:31] -- jenenliu6 JOIN #gzlug
+[15:47:46] -- Shirasaka-Hazumi JOIN #gzlug
+[16:47:44] -- citypw JOIN #gzlug
+[17:07:16] -- kitech QUIT
+[17:08:24] -- kitech JOIN #gzlug
+[17:45:46] -- kitech QUIT
+[17:57:07] -- kitech JOIN #gzlug
+[19:09:55] -- kitech QUIT
+[19:10:43] -- LilyAyta JOIN #gzlug
+[19:18:17] -- kitech JOIN #gzlug
+[19:26:58] -- kitech QUIT
+[19:53:43] -- kitech JOIN #gzlug
+[20:12:13] -- LilyAyta QUIT
+[20:15:55] -- kitech QUIT
+[20:25:09] -- jenenliu6 QUIT
+[20:27:52] -- jenenliu6 JOIN #gzlug
+[20:31:25] -- kitech JOIN #gzlug
+[20:31:32] -- jactry_ JOIN #gzlug
+[20:34:37] -- jactry QUIT
+[20:41:44] teleboto: [BashHoratio] 「Re geno1024: 😐不是游戏……就...」刚的一批，这算法损失率多大？你描述的问题不是很懂
+[20:42:41] teleboto: [BashHoratio] 「Re Gzmask: 之前有个程序员在...」同一个值有不同含义，并在游戏中展现出来？
+[21:07:04] -- kitech QUIT
+[21:30:19] -- kitech JOIN #gzlug
+[21:36:34] -- citypw QUIT
+[21:40:19] -- citypw JOIN #gzlug
+[21:46:07] -- kitech QUIT
+[21:46:41] -- Lily-Ayta JOIN #gzlug
+[21:47:57] -- LastAvengers QUIT
+[21:52:20] -- Lily-Ayta QUIT
+[21:59:33] -- jenenliu6 QUIT
+[21:59:58] -- jenenliu6 JOIN #gzlug
+[22:04:11] -- jenenliu6 QUIT
+[22:04:12] -- jenenliu7 JOIN #gzlug
+[22:09:32] -- jenenliu8 JOIN #gzlug
+[22:10:18] -- jenenliu7 QUIT
+[22:17:51] -- kitech JOIN #gzlug
+[22:30:58] -- SteamedFish JOIN #gzlug
+[22:36:03] -- jenenliu9 JOIN #gzlug
+[22:36:30] -- jenenliu8 QUIT
+[22:41:19] -- SteamedFish QUIT
+[22:45:32] -- SteamedFish JOIN #gzlug
+[22:47:05] -- SteamedFish QUIT
+[22:49:31] -- jenenliu9 QUIT
+[22:50:28] -- jenenliu9 JOIN #gzlug
+[22:50:35] -- citypw QUIT
+[23:05:11] -- LastAvengers JOIN #gzlug
+[23:18:27] -- SteamedFish JOIN #gzlug
+[23:49:16] -- jactry_ QUIT
