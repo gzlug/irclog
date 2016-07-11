@@ -1,0 +1,197 @@
+[00:01:39] -- LastAvengers QUIT
+[00:06:59] -- SteamedFish QUIT
+[00:36:37] -- kitech QUIT
+[01:24:53] -- jactry JOIN #gzlug
+[07:42:43] geno1024: 😐好吧我前面表述确实有问题，应该是“用 64k 播放一个可能需要 1G 或更多的 movie”，反过来说会有一种什么 movie 都能被这样压缩的感觉
+[09:01:59] -- LastAvengers JOIN #gzlug
+[09:37:10] -- SteamedFish JOIN #gzlug
+[09:45:37] -- rivershang JOIN #gzlug
+[09:52:12] -- kitech JOIN #gzlug
+[09:56:31] -- kitech QUIT
+[10:04:08] -- jactry QUIT
+[10:11:58] -- kitech JOIN #gzlug
+[10:14:05] teleboto: [BashHoratio] 没了解过…压缩…感性认为和密码以及通信编码的难度相当……都是些上流数学家才胜任的
+[10:15:25] -- Lily-Ayta JOIN #gzlug
+[10:25:39] -- Lily-Ayta QUIT
+[10:26:12] -- Lily-Ayta JOIN #gzlug
+[10:34:08] -- LastAvengers QUIT
+[10:42:38] -- LastAvengers JOIN #gzlug
+[10:54:22] -- huntxu JOIN #gzlug
+[11:05:47] -- jactry JOIN #gzlug
+[11:42:35] -- LastAvengers QUIT
+[13:01:22] -- LastAvengers JOIN #gzlug
+[13:20:49] -- kitech QUIT
+[13:21:01] jactry: rivershang: 你这是什么 irc 客户端，都是乱码 :-/
+[13:21:38] rivershang: 啊，是Pidgin
+[13:21:52] jactry: rivershang: 这句正常了
+[13:22:00] -- kitech JOIN #gzlug
+[13:22:23] rivershang: jactry: 咦，奇怪了，我再发一遍
+[13:22:51] jactry: https://img.vim-cn.com/bc/e0dbfb54817dff965f6232a6616757997f4fd4.png
+[13:23:04] jactry: rivershang: 还是乱码...
+[13:23:15] jactry: 难道是我的客户端有 bug
+[13:23:56] rivershang: 我去，有可能，莫非有字数限制
+[13:24:31] teleboto: [冰雪聪明琳之风] teleboto 正常
+[13:24:35] rivershang: jactry: 研究了下Pelican，若将每日生成的irclog上传到gzlug的话，主页会被刷屏……若想将其放在其它页面而不在主页显示的话，整个主页都将不会更新：这样更不好。所以目前想到的方法是增加一个链接，指向irclog的页面（而不整合进gzlug里）。是放在页面顶端的“寻路指南”那一行较好还是放在右侧的“Social”或者“Links”里呢？
+[13:24:36] rivershang: 我想在一个md里放链接，然后附上简短说明，顶端的静态page是没问题的，不知右侧的“Social”或者“Links”里的链接是否可以指向站内页面。cc LastAvengers
+[13:24:40] teleboto: [冰雪聪明琳之风] 要不你们去 fishroom.tuna.moe 查看
+[13:24:55] jactry: 你把那段话，二分法，慢慢发，看是哪个字符触发了 bug xD
+[13:25:27] rivershang: 刚上fishroom看了下，发现“我想在一个md里�”之后是空的
+[13:26:03] rivershang: 好:-D
+[13:26:55] jactry: rivershang: 如果是用 javascript 在页面加载的时候解析 log 然后显示出来呢
+[13:26:59] -- kitech QUIT
+[13:28:09] jactry: https://fishroom.tuna.moe/log/tuna/today 做的就挺不错的
+[13:28:17] jactry: 不知道有没有开源
+[13:28:21] -- kitech JOIN #gzlug
+[13:28:46] -- kitech QUIT
+[13:29:07] teleboto: [冰雪聪明琳之风] 「Re jactry: 不知道有没有开源」好像agpl
+[13:29:17] teleboto: [冰雪聪明琳之风] 另外这个支持所有 teleboto 群
+[13:29:31] teleboto: [冰雪聪明琳之风] 你可以试试把 /tuna 换成 /gzlug
+[13:30:47] -- kitech JOIN #gzlug
+[13:34:09] jactry: https://fishroom.tuna.moe/log/gzlug/today
+[13:34:11] jactry: cool
+[13:34:13] jactry: 确实有
+[13:34:25] jactry: 还是实时显示的
+[13:34:54] rivershang: 对的，不过只保留最近7天的log
+[13:35:31] rivershang: jactry: 不行吧，Pelican是静态博客……
+[13:37:05] jactry: JavaScript 还是可以的吧
+[13:37:14] LastAvengers: ACTION 午睡醒来
+[13:37:19] jactry: 你看看每个页面的那个 comments 插件
+[13:38:53] -- kitech QUIT
+[13:40:42] teleboto: [jactry] @Icenowy 还没找到 fishroom.tuna.moe 的源码，tuna.moe 的倒是有
+[13:40:43] rivershang: LastAvengers: ;-)
+[13:42:16] -- kitech JOIN #gzlug
+[13:45:32] teleboto: [BashHoratio] 「Re jactry: @riversh...」我都读完了……告诉我是乱码😂😱
+[13:46:02] -- kitech QUIT
+[13:46:14] rivershang:  jactry: 研究了下Pelican，若将每日生成的irclog上传到gzlug的话，主页会被刷屏……若想将其放在其它页面而不在主页显示的话，整个主页都将不会更新：这样更不好。所以目前想到的方法是增加一个链接，指向irclog的页面（而不整合进gzlug里）。是放在页面顶端的“寻路指南”那一行较好还是放在右侧的“Social”或者“Links”里呢？
+[13:46:22] rivershang: 这句有乱码吗
+[13:46:38] teleboto: [jactry] 「Re BashHoratio: 我都读完了……告...」悟到了没有 ;-)
+[13:47:36] teleboto: [BashHoratio] 「Re rivershang:  jactry:...」没有…… tg这边都正常吧……
+[13:48:09] teleboto: [felixonmars] "我想在一个md里�" 最后是个乱码
+[13:48:09] teleboto: [BashHoratio] 「Re jactry: 悟到了没有 ;-...」https://dn-fishroom.qbox.me/sticker/44.png (sticker)
+[13:48:11] teleboto: [felixonmars] 大概是被截断了
+[13:48:12] -- kitech JOIN #gzlug
+[13:48:14] -- kitech QUIT
+[13:49:02] -- kitech JOIN #gzlug
+[13:49:21] -- kitech QUIT
+[13:49:21] teleboto: [BashHoratio] 「Re felixonmars: "我想在一个md...」突现领袖……估计是换行符？最后就忽略不计了
+[13:50:16] teleboto: [jactry] @BashHoratio 你在上海了吗
+[13:50:34] rivershang: jactry: 还真有pelican_javascript插件:-D
+[13:50:35] rivershang: 不过Pelican的做法是每篇文章都会放在主页上，每天上传日志的话刷主页太难看了:P
+[13:50:57] -- kitech JOIN #gzlug
+[13:51:18] teleboto: [BashHoratio] 「Re jactry: @BashHor...」户口的事还没解决，目测要错过asocc，20多号才去吧
+[13:51:24] jactry: rivershang: 可以创建一个像 http://www.gzlug.org/pages/AboutUs.html 的页面专门放 log
+[13:51:47] teleboto: [jactry] @BashHoratio OK
+[13:52:27] jactry: 或者在旁边弄个豆腐块显示最新的几条 log 也行
+[13:52:30] rivershang: felixonmars: 嗯，我就加上一个字符看看。cc BashHoratio 是的，我想让jactry看看他的客户端是否显示正常:)
+[13:54:04] rivershang: jactry: 是的，这就是刚才说的放在主页顶端的静态page里，跟javascrip的结合的话，容我研究下
+[13:55:46] huntxu: 为啥老发这么长啦
+[13:55:55] jactry: 我们还是私聊研究 irc 的 bug 吧，我怕等下被群殴 lol
+[13:56:01] rivershang: “里”字后面加了个“放”字，fishroom里就显示乱码了
+[13:56:05] huntxu: 有些客户端截断不好，对付多字节字符就容易出乱码
+[13:56:21] huntxu: rivershang: 你每句话写短一点，多写几句不会有人理你啦
+[13:56:40] huntxu: ACTION 也用着截断不好的客户端...
+[13:57:15] rivershang: huntxu: 好的，以后尽量每条消息短些;-)
+[13:57:22] -- kitech QUIT
+[13:58:01] jactry: rivershang: 有
+[13:58:16] -- kitech JOIN #gzlug
+[13:58:25] huntxu: rivershang:  不过其实这里除了机器人就剩下11个人，除开你和 jactry 两个还有9个，人少不碍事 :P
+[13:58:51] -- kitech QUIT
+[13:59:30] jactry: huntxu: 主要 bot 连着 telegram，bot 代表 telegram 那边 70 多个人 xD
+[13:59:44] huntxu: 哈哈哈
+[13:59:49] huntxu: 忘了这茬
+[14:00:12] rivershang: 是的:-[
+[14:00:12] LastAvengers: rivershang: 用 github 放聊天记录还是太简陋了，而且更新频率太高也刷屏。
+[14:02:07] teleboto: [zcchen] telegram表示，这边长期只有三两个人在线～～
+[14:02:34] jactry: huntxu: 其实这些都是次要的，主要是一次打七个没准还能逃走，七十个实在 hold 不住 :p
+[14:02:41] teleboto: [amankwah] 没吧，装手机上好像就一直在线了？
+[14:03:01] teleboto: [Chouch0u] 喵。冒泡一下.
+[14:03:18] rivershang: LastAvengers: 嗯的，先研究下jactry提到的javascript方案，数据放后台，前端页面显示
+[14:05:49] rivershang: 不过也是在GitHub上，若是自己的网站会好些；之前我也担心聊天记录放GitHub上是否有违背Tos的风险
+[14:06:57] teleboto: [zcchen] 不是有人做了个机器人抓数据嘛，暴露个Api出来，然后用js写个脚本，扔在网站上，定时刷新抓数据就是了。。。
+[14:08:11] teleboto: [zcchen] 页面端这边定时刷新，用setInterval()。兼容性好，又不消耗太多服务器资源，写起来由简单。（逃）
+[14:08:25] LastAvengers: 其实 ToS 是什么？
+[14:08:52] rivershang: jactry: 这么厉害，一个打七个还能全身而退=-O 百米12s？
+[14:11:26] rivershang: LastAvengers: Terms of Service的缩写：https://en.wikipedia.org/wiki/Terms_of_service
+[14:11:32] huntxu: 看哪里了
+[14:11:41] huntxu: 幼儿园10个左右我也没问题
+[14:11:45] huntxu: 15个可能够呛
+[14:12:05] rivershang: 哈哈~
+[14:25:13] rivershang: felixonmars: 测试表明字符超过一定字数就会乱码，没超过的话jactry的IRC客户端和fishroom网页都是正常的（莫非它们用的是同样的package）
+[14:25:38] teleboto: [felixonmars] 因为截断是客户端行为
+[14:25:50] teleboto: [felixonmars] 我记得客户端发超长的消息服务端拒收
+[14:27:17] -- huntxu QUIT
+[14:27:32] rivershang: 酱紫，那就是说其实我的客户端将消息发给服务器时已经被截断了，只是在我的客户端上显示的是正常的而已:'(
+[14:29:51] -- huntxu JOIN #gzlug
+[14:37:18] rivershang: felixonmars: 找到了，是512个字符（包括命令、参数）：https://tools.ietf.org/html/rfc2812#section-2.3 cc jactry
+[14:37:52] huntxu: 512个字符是字节数貌似
+[14:38:40] huntxu: 所以，utf8自觉点不要超过150 lol
+[14:51:17] rivershang: huntxu: 是的，我之前的那段话135个汉字+9个英文单词就不行了
+[15:06:48] -- teleboto QUIT
+[15:06:57] -- teleboto JOIN #gzlug
+[15:16:28] LastAvengers: rivershang: https://github.com/LastAvenger/bots/blob/master/log.py 使用新的框架的 logbot，然而还没完成（
+[15:24:04] -- SteamedFish QUIT
+[15:24:32] rivershang: LastAvengers: 好样的
+[15:25:17] rivershang: 之前你写的logbot想修改的还没改……好多事情要做
+[15:25:26] -- SteamedFish JOIN #gzlug
+[15:26:46] rivershang: 奔三了，觉得时间不够用:-/
+[15:27:21] huntxu: ACTION 突然受到伤害
+[15:29:26] -- geno1024 QUIT
+[15:30:25] -- Lily-Ayta QUIT
+[15:32:47] LastAvengers: ACTION 有大把时间但是效率低下
+[15:41:56] rivershang: huntxu: 我不是故意的……混太虚是属兔的吧
+[15:43:07] huntxu: 对 T^T
+[15:44:41] teleboto: [amankwah] 奔四表示收到没分钟都掉血的持续伤害😜
+[15:54:19] rivershang: huntxu: 那是很快了;-)
+[15:54:27] -- LastAvengers QUIT
+[15:54:37] -- LastAvengers JOIN #gzlug
+[15:56:02] rivershang: amankwah: 啊，我只是感慨下时光如流水。不过话说奔四了还保持着对Linux的热爱很好~
+[16:05:08] teleboto: Ziping Chen joined chat
+[16:30:36] -- jactry QUIT
+[16:40:39] teleboto: [cicada] This Is the Unity Desktop Running On Windows 10
+[16:40:39] teleboto: [cicada] http://www.omgubuntu.co.uk/2016/07/someone-just-installed-unity-windows
+[16:41:44] teleboto: [JeffBai] 「Re cicada: This Is ...」说到底就是个 Cygwin/X ...
+[16:42:27] teleboto: [BashHoratio] 「Re JeffBai: 说到底就是个 C...」特首语出惊人，一盆凉水重头淋到脚（😂👍
+[16:43:00] teleboto: [JeffBai] 你们看最右边的图标……
+[16:43:07] teleboto: [cicada] https://dn-fishroom.qbox.me/sticker/3f.png (sticker)
+[16:51:58] -- LastAvengers QUIT
+[17:01:22] teleboto: [BashHoratio] 「Re JeffBai: 说到底就是个 C...」特首语出惊人，一盆凉水从头淋到脚（😂👍
+[17:02:54] teleboto: [BashHoratio] https://dn-fishroom.qbox.me/img/4293.jpeg (photo)
+[17:02:55] teleboto: [BashHoratio] 不管怎么实现，看着就觉得好“妖机”
+[17:03:22] teleboto: [BashHoratio] 感觉很有可能出些莫名其妙的bug，不地道的东西
+[17:03:34] teleboto: [JeffBai] 噢对了这个不是 Unity 8 ……
+[17:04:26] teleboto: [BashHoratio] 「Re JeffBai: 噢对了这个不是 ...」unity on windows 10
+[17:04:26] teleboto: [BashHoratio] See that image above? That’s the Unity 7 desktop running on Windows 10.
+[17:04:27] teleboto: [BashHoratio] 原文如上，明显是熟悉的7
+[17:04:45] teleboto: [JeffBai] 噢噢……
+[17:05:12] teleboto: [BashHoratio] 「Re BashHoratio: 感觉很有可能出些...」“I finally managed to run Unity inside WSL, this shows that is fully capable of running an entire Desktop Environment, there is some issues with dbus and sometimes VcXsrv crashes, also you can’t logout and the only way of exiting is closing compiz.“
+[17:05:12] teleboto: [BashHoratio] 果不其然
+[17:06:12] teleboto: [BashHoratio] 原来是个民间玩家的杰作， 折腾精神很足，但不是官方就不去耍了，毕竟放弃U了
+[17:07:45] teleboto: [JeffBai] 嗯
+[17:07:48] teleboto: [BashHoratio] the only programs that can be opened are in the panel and there is no way of opening the terminal inside unity, for do this you need to open another bash in Windows, export the display and run gnome-terminal, after that the terminal will show up so lock that in the panel for future use.”
+[17:07:49] teleboto: [BashHoratio] 已经瞎（光速逃……
+[17:07:58] teleboto: [JeffBai] hhhhhhhhhhhh
+[17:26:06] teleboto: [jactry] unity 8 desktop 跳票很多年了吧...
+[17:27:45] -- SteamedFish QUIT
+[17:29:12] -- SteamedFish JOIN #gzlug
+[17:48:05] -- rivershang PART #gzlug
+[18:34:43] -- jactry JOIN #gzlug
+[18:38:43] -- LastAvengers JOIN #gzlug
+[19:02:57] -- kitech JOIN #gzlug
+[19:30:58] -- huntxu QUIT
+[19:44:14] -- kitech QUIT
+[20:06:27] -- jenenliu9 QUIT
+[20:07:42] -- jenenliu9 JOIN #gzlug
+[20:10:51] -- SteamedFish QUIT
+[20:30:23] -- jenenliu9 QUIT
+[20:30:33] -- jenenliu9 JOIN #gzlug
+[21:22:43] -- jenenliu9 QUIT
+[21:23:32] -- jenenliu9 JOIN #gzlug
+[21:27:20] -- jenenliu10 JOIN #gzlug
+[21:28:02] -- jenenliu9 QUIT
+[21:39:20] -- jenenliu10 QUIT
+[21:39:22] -- jenenliu11 JOIN #gzlug
+[21:44:00] -- jenenliu11 QUIT
+[21:44:49] -- jenenliu11 JOIN #gzlug
+[22:25:51] -- LastAvengers QUIT
+[23:01:37] -- jenenliu11 QUIT
+[23:48:41] -- LastAvengers JOIN #gzlug
