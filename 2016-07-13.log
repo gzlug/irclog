@@ -1,0 +1,69 @@
+[00:14:00] -- LastAvengers QUIT
+[00:33:06] -- f00x JOIN #gzlug
+[00:35:07] -- f00x QUIT
+[08:42:01] -- rivershang JOIN #gzlug
+[09:16:52] -- LastAvengers JOIN #gzlug
+[09:22:48] -- LastAvengers QUIT
+[09:35:03] -- SteamedFish JOIN #gzlug
+[09:36:22] -- LastAvengers JOIN #gzlug
+[10:04:33] -- Shirasaka-Hazumi QUIT
+[10:06:14] -- Shirasaka-Hazumi JOIN #gzlug
+[10:15:14] -- LastAvengers QUIT
+[10:16:14] -- LastAvengers JOIN #gzlug
+[10:28:47] -- rivershang QUIT
+[10:33:23] -- rivershang JOIN #gzlug
+[10:36:32] -- Lily-Ayta JOIN #gzlug
+[10:42:45] -- huntxu JOIN #gzlug
+[11:30:43] -- kitech JOIN #gzlug
+[11:34:57] -- kitech QUIT
+[11:48:06] -- LastAvengers QUIT
+[12:08:19] -- LastAvengers JOIN #gzlug
+[12:13:18] -- LastAvengers QUIT
+[12:25:34] -- LastAvengers JOIN #gzlug
+[12:51:31] -- LAOnMars QUIT
+[14:11:31] -- Lily-Ayta QUIT
+[16:03:54] -- LastAvengers JOIN #gzlug
+[16:43:02] -- geno1024 JOIN #gzlug
+[16:50:09] -- jimmy_ JOIN #gzlug
+[16:53:16] jimmy_: 有人咩？
+[16:54:32] geno1024: 😐hi
+[16:58:59] teleboto: [samuelhuang] 咩
+[17:01:40] jimmy_: hi
+[17:03:37] LastAvengers: :-0
+[17:17:50] jactry: jimmy_: hi
+[17:20:40] -- LastAvengers QUIT
+[17:27:03] -- rivershang PART #gzlug
+[17:47:36] teleboto: [昵称，是这样吗] 有什么方法可以让一个不支持fcitx的软件支持fcitx？
+[17:47:51] teleboto: [昵称，是这样吗] 有没有通用的方法
+[17:47:58] teleboto: [dantmnf] 没有
+[17:48:17] teleboto: [JeffBai] 这种是不是直接用 xim 模式就好了……  <fwd JeffBai>
+[17:48:17] teleboto: [JeffBai] 应该是的  <fwd artoria2e5>
+[17:48:45] teleboto: [JeffBai] https://wiki.archlinux.org/index.php/Fcitx_(简体中文)#Xim 参见这里
+[17:48:59] teleboto: [dantmnf] 各种程序不支持输入法的原因都不一样（
+[17:49:09] teleboto: [dantmnf] 有些甚至还不支持 xim
+[17:49:12] teleboto: [昵称，是这样吗] 某个软件在开启了透明效果之后就不能fcitx，而在不开启的时候，fcitx是正常的
+[17:51:02] teleboto: [JeffBai] 方便透露下是什么程序吗？
+[17:52:00] teleboto: [昵称，是这样吗] terminology
+[17:53:51] teleboto: [JeffBai] Enlightenment 那个？
+[17:53:56] teleboto: [昵称，是这样吗] 是
+[18:14:58] teleboto: [ChenZiping] /
+[18:15:11] teleboto: [ChenZiping] https://dn-fishroom.qbox.me/img/442d.jpeg (photo)
+[18:15:25] teleboto: [ChenZiping] 1.40的gcc😌
+[18:39:09] teleboto: [ChenZiping] 求助一下……谁会针对开发板裁剪uboot…
+[18:40:13] teleboto: [冰雪聪明琳之风] @ChenZiping 什么板子
+[18:40:14] teleboto: [冰雪聪明琳之风] 什么 uboot
+[18:42:32] teleboto: [ChenZiping] Universal Bootloader
+[18:42:41] teleboto: [ChenZiping] mini2440
+[18:43:09] teleboto: [冰雪聪明琳之风] 我的“什么 uboot”的意思是
+[18:43:13] teleboto: [冰雪聪明琳之风] 主线还是高度修改的fork
+[18:43:51] -- jimmy_ QUIT
+[18:44:04] teleboto: [ChenZiping] 直接弄他39小时前刚提交的uboot2016.7
+[18:44:27] teleboto: [冰雪聪明琳之风] uboot 2016.07 正式了？
+[18:45:05] teleboto: [ChenZiping] 应该吧…最新的
+[18:46:46] teleboto: [ChenZiping] 打算参考2015的来，友善之臂提供的uboot太老了
+[19:06:03] -- LastAvengers JOIN #gzlug
+[21:37:31] -- huntxu QUIT
+[22:33:15] -- jenenliu11 JOIN #gzlug
+[23:07:42] -- farseerfc QUIT
+[23:08:02] -- farseerfc JOIN #gzlug
+[23:24:54] -- SteamedFish QUIT
