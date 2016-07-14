@@ -1,0 +1,77 @@
+[00:04:39] -- LastAvengers_ QUIT
+[00:05:19] -- LastAvengers JOIN #gzlug
+[00:10:04] -- LastAvengers QUIT
+[00:12:19] -- LastAvengers JOIN #gzlug
+[01:35:20] -- LastAvengers PART #gzlug
+[01:38:14] -- LastAvengers JOIN #gzlug
+[01:39:38] LastAvengers: 终于能 work 的 logbot :) https://github.com/LastAvenger/bots/blob/master/log.py
+[01:45:47] -- LastAvengers QUIT
+[04:42:28] -- Shirasaka-Hazumi QUIT
+[04:48:43] -- Shirasaka-Hazumi JOIN #gzlug
+[09:12:27] -- rivershang JOIN #gzlug
+[09:19:35] -- LastAvengers JOIN #gzlug
+[09:30:29] -- huntxu JOIN #gzlug
+[09:36:11] -- SteamedFish JOIN #gzlug
+[10:20:00] -- jactry QUIT
+[11:21:09] -- jactry JOIN #gzlug
+[12:59:16] -- jenenliu11 QUIT
+[14:23:42] -- LastAvengers QUIT
+[14:33:46] teleboto: [昵称，是这样吗] wine跑微信发不了图
+[14:38:15] teleboto: [BashHoratio] 「Re 昵称，是这样吗: wine跑微信发...」有linux版的，干嘛wine
+[14:39:07] teleboto: [昵称，是这样吗] 没有吧。。。
+[14:39:12] teleboto: [昵称，是这样吗] Electron倒是有
+[14:39:23] teleboto: [昵称，是这样吗] Electron版倒是有
+[14:40:18] teleboto: [BashHoratio] 这个比win的好多了
+[14:40:43] teleboto: [昵称，是这样吗] 不能自定义表情，每次登陆都要扫二维码
+[14:40:51] teleboto: [昵称，是这样吗] 这个只是网页版
+[14:41:13] teleboto: [BashHoratio] 「Re 昵称，是这样吗: 不能自定义表情，...」好吧……你的需求无解了
+[14:41:28] teleboto: [BashHoratio] 「Re 昵称，是这样吗: wine跑微信发...」@jactry 需要你的协助
+[14:41:40] teleboto: [昵称，是这样吗] https://dn-fishroom.qbox.me/img/44ce.png (photo)
+[14:41:41] teleboto: [昵称，是这样吗] 我现在就是长期在用网页版
+[14:44:44] teleboto: [jactry] winetricks -q riched20 有没有帮助？
+[14:46:51] teleboto: [昵称，是这样吗] riched20 already installed, skipping
+[14:47:35] teleboto: [jactry] 那有可能是 ole32 的 bug 吧，没调试过
+[14:47:44] teleboto: [jactry] 可以去 bugzilla 搜索下
+[14:48:41] geno1024: 😐发现小视频就会闪退
+[14:52:47] -- LastAvengers JOIN #gzlug
+[14:52:52] teleboto: [昵称，是这样吗] 可以打开选择文件的界面，但选了之后微信没用反应
+[15:03:15] teleboto: [jactry] 「Re 昵称，是这样吗: 可以打开选择文件...」发送出去对方收得到吗
+[15:03:44] teleboto: [昵称，是这样吗] 收不到
+[15:03:53] teleboto: [昵称，是这样吗] 选择文件之后，微信界面没用任何反应
+[15:24:57] -- Shirasaka-Hazumi QUIT
+[15:26:21] -- Shirasaka-Hazumi JOIN #gzlug
+[15:26:32] -- SteamedFish QUIT
+[15:30:16] -- SteamedFish JOIN #gzlug
+[15:46:44] -- SteamedFish QUIT
+[15:48:04] -- SteamedFish JOIN #gzlug
+[16:31:08] -- jactry QUIT
+[16:49:40] -- SteamedFish QUIT
+[17:02:07] -- SteamedFish JOIN #gzlug
+[17:23:28] -- LastAvengers QUIT
+[17:34:57] -- rivershang PART #gzlug
+[17:52:52] -- jactry JOIN #gzlug
+[18:22:40] -- jactry QUIT
+[19:18:48] -- SteamedFish QUIT
+[19:26:47] -- SteamedFish JOIN #gzlug
+[19:29:19] -- jactry JOIN #gzlug
+[19:29:54] -- jactry QUIT
+[19:30:09] -- jactry JOIN #gzlug
+[19:44:00] -- SteamedFish QUIT
+[19:47:20] -- jactry QUIT
+[20:14:25] -- LastAvengers JOIN #gzlug
+[20:47:26] -- jactry JOIN #gzlug
+[20:56:01] -- SteamedFish JOIN #gzlug
+[21:25:07] -- SteamedFish QUIT
+[21:26:00] -- jactry_ JOIN #gzlug
+[21:29:57] -- jactry QUIT
+[21:46:18] -- huntxu QUIT
+[22:09:12] -- SteamedFish JOIN #gzlug
+[22:16:41] -- jactry QUIT
+[22:20:52] -- jactry JOIN #gzlug
+[23:02:06] -- jactry QUIT
+[23:03:32] -- jactry JOIN #gzlug
+[23:05:52] -- SteamedFish QUIT
+[23:25:27] -- jactry QUIT
+[23:37:29] -- jactry JOIN #gzlug
+[23:44:15] -- LastAvengers QUIT
+[23:54:59] -- LastAvengers JOIN #gzlug
