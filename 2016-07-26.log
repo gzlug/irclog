@@ -1,0 +1,64 @@
+[00:26:19] -- kitech QUIT
+[00:46:04] -- LastAvengers QUIT
+[08:59:37] -- LastAvengers JOIN #gzlug
+[09:01:51] -- rivershang JOIN #gzlug
+[09:36:03] -- SteamedFish JOIN #gzlug
+[10:11:26] -- huntxu JOIN #gzlug
+[10:16:38] -- kitech JOIN #gzlug
+[10:58:42] -- jenenliu113 QUIT
+[10:58:46] -- jenenliu114 JOIN #gzlug
+[11:31:36] -- jenenliu115 JOIN #gzlug
+[11:32:40] -- kitech QUIT
+[11:33:09] -- jenenliu114 QUIT
+[11:33:20] -- kitech JOIN #gzlug
+[11:46:08] teleboto: [Robin Lee] 有没有人用过 USB 外置显卡？
+[11:46:22] teleboto: [JeffBai] USB …… ExpressCard 的倒是挺说过
+[11:46:25] teleboto: [JeffBai] 听说 *
+[12:06:05] -- jenenliu115 QUIT
+[12:08:49] -- jenenliu112 JOIN #gzlug
+[12:13:04] -- jenenliu113 JOIN #gzlug
+[12:13:07] -- jenenliu112 QUIT
+[12:40:23] -- jenenliu113 QUIT
+[12:41:45] -- jenenliu113 JOIN #gzlug
+[12:56:37] teleboto: [Johnsmiths] 用过
+[12:59:55] teleboto: [samuelhuang] 来弄我的USB3外显盒子，还凑合，然而USB线太粗且易掉，还是不方便
+[13:09:54] teleboto: [a_xionl] （速度上沒問題嗎
+[13:11:17] teleboto: [samuelhuang] 我的老T61是通过usb3 express卡连接显卡，鼠标有少许滞后，不明显
+[13:35:32] teleboto: [Robin Lee] 有什么 Linux 上适用的型号推荐？
+[13:35:51] teleboto: [冰雪聪明琳之风] 好像 Linux 上得用 USB DisplayLink 的卡
+[14:03:05] huawei: USB那总线速度总感觉不太靠谱
+[14:06:44] teleboto: [samuelhuang] 上Lenovo网站找USB的Docker吧
+[14:06:53] teleboto: [samuelhuang] Ubuntu下可用
+[14:07:04] teleboto: [samuelhuang] 的确
+[14:07:18] teleboto: [samuelhuang] 的确不靠谱
+[14:08:03] teleboto: [samuelhuang] Robin要做什么用
+[15:12:55] teleboto: [Robin Lee] 就是想再接个显示器，但是主机只有一个显示口。
+[15:13:35] huawei: thinkpad应该有docker的啊
+[15:13:49] huawei: 底部那个接口
+[15:17:47] teleboto: [BashHoratio] 「Re Robin Lee: 就是想再接个显示...」分线就好了……
+[15:18:16] teleboto: [BashHoratio] 一个公转两个母的
+[15:18:35] teleboto: [Robin Lee] 那也可以用 xrand 分屏吗？
+[15:31:05] teleboto: [aldzunway] 「Re BashHoratio: 分线就好了……」这样只有两个镜像出来的。。。
+[15:32:17] teleboto: [aldzunway] 「Re Robin Lee: 那也可以用 xr...」话说你的tp有dock口吗？
+[15:33:55] teleboto: [Robin Lee] 不是用在 tp 上啦，用在普通台式机上
+[15:36:22] teleboto: [aldzunway] 「Re Robin Lee: 不是用在 tp ...」那插多张卡行吗？
+[17:12:46] -- jenenliu113 QUIT
+[17:13:46] -- jenenliu113 JOIN #gzlug
+[17:17:45] -- \la QUIT
+[17:31:15] -- rivershang QUIT
+[17:52:38] -- jenenliu113 QUIT
+[19:10:24] -- LastAvengers JOIN #gzlug
+[19:12:19] -- jactry QUIT
+[19:13:28] -- jactry JOIN #gzlug
+[19:15:34] -- huntxu QUIT
+[19:25:44] -- LastAvengers QUIT
+[19:25:57] -- \la JOIN #gzlug
+[19:51:13] -- kitech QUIT
+[21:56:14] -- teleboto QUIT
+[21:56:23] -- teleboto JOIN #gzlug
+[22:00:55] -- teleboto QUIT
+[22:01:16] -- teleboto JOIN #gzlug
+[22:38:27] -- SteamedFish QUIT
+[22:44:48] -- jactry QUIT
+[22:51:13] -- jactry JOIN #gzlug
+[23:42:30] -- LastAvengers QUIT
