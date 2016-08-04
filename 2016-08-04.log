@@ -1,0 +1,60 @@
+[00:34:38] -- LastAvengers QUIT
+[04:16:38] -- jactry_ JOIN #gzlug
+[04:18:12] -- jactry QUIT
+[06:04:26] -- erhandsome QUIT
+[07:00:12] -- teleboto QUIT
+[07:00:21] -- teleboto JOIN #gzlug
+[07:50:42] -- jenenliu118 QUIT
+[08:38:36] -- rivershang JOIN #gzlug
+[08:52:58] -- jactry_ QUIT
+[08:54:00] -- \la JOIN #gzlug
+[08:54:35] -- jactry JOIN #gzlug
+[09:21:22] -- huntxu JOIN #gzlug
+[09:35:44] -- SteamedFish JOIN #gzlug
+[09:48:04] -- \la QUIT
+[09:54:46] -- \la JOIN #gzlug
+[10:14:43] teleboto: [Robin Lee] 有用 Gtk 的开发者吗？
+[10:18:43] \la: 有哇。
+[10:20:26] teleboto: [BashHoratio] 英雄少年La,，十八般武艺，样样精通
+[10:45:13] -- farseerfc QUIT
+[10:45:21] -- citypw JOIN #gzlug
+[10:48:44] -- farseerfc JOIN #gzlug
+[11:36:22] -- kitech JOIN #gzlug
+[11:36:22] -- kitech QUIT
+[11:38:42] -- kitech JOIN #gzlug
+[11:55:11] -- SteamedFish QUIT
+[11:57:55] -- SteamedFish JOIN #gzlug
+[13:08:42] teleboto: [Robin Lee] la 有的什么语言？
+[13:09:24] teleboto: [aldzunway] 「Re Robin Lee: la 有的什么语...」精通八国语言
+[13:09:51] teleboto: [Robin Lee] s/有/用/
+[13:11:37] huntxu: pygtk最快了啊
+[13:28:01] \la: Robin Lee: c
+[13:47:30] -- Laing JOIN #gzlug
+[14:30:42] -- erhandsome JOIN #gzlug
+[14:56:04] -- kitech QUIT
+[15:09:54] -- kitech JOIN #gzlug
+[16:09:52] -- \la QUIT
+[17:35:05] -- jenenliu118 JOIN #gzlug
+[17:38:15] -- rivershang PART #gzlug
+[17:40:09] -- jenenliu118 QUIT
+[17:40:27] -- jenenliu118 JOIN #gzlug
+[17:41:21] -- jenenliu118 QUIT
+[18:17:16] -- citypw QUIT
+[19:01:08] -- \la JOIN #gzlug
+[19:09:22] -- teleboto QUIT
+[19:09:37] -- kitech QUIT
+[19:10:28] -- teleboto JOIN #gzlug
+[19:28:59] -- kitech JOIN #gzlug
+[19:50:52] -- kitech QUIT
+[19:54:37] -- huntxu QUIT
+[20:22:33] -- \la QUIT
+[20:23:49] -- \la JOIN #gzlug
+[21:21:10] -- citypw JOIN #gzlug
+[21:26:42] -- SteamedFish QUIT
+[22:09:19] -- Laing QUIT
+[22:10:13] -- kitech JOIN #gzlug
+[22:52:22] -- kitech QUIT
+[23:17:14] -- kitech JOIN #gzlug
+[23:57:38] teleboto: [jactry] 之前是不是这边有朋友问过 wine 微信发图片的 bug？
+[23:58:55] teleboto: [jactry] 刚才看了下，应该是 ole32 的锅，Wine 的 OleCreateFromDataEx() 实现不完全。
+[23:59:53] teleboto: [jactry] 可以找个 Windows 的 ole32.dll 验证下，但是 ole32 的实现和其他部分耦合比较大，可能会导致其他问题。
