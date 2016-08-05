@@ -1,0 +1,92 @@
+[00:00:30] teleboto: [jactry] 想要解决这个 bug，应该只能靠修好 Wine 的 ole32 了。
+[00:16:14] teleboto: [jactry] 嗯
+[00:17:06] teleboto: [jactry] 网页版不能视频吧也不能保存登陆认证吧？
+[00:17:25] teleboto: [jactry] 虽然 Wine 微信也只能单向视频双向语言。
+[00:17:37] teleboto: [jactry] s/双向语言/双向语音/
+[00:18:15] \la: jactry: 话说，我的qq 在 wine-1.9.15 一直爆内存不足……
+[00:18:32] teleboto: [jactry] 233
+[00:18:42] teleboto: [jactry] 换 替换 native 的 usp10 吧
+[00:19:03] teleboto: [jactry] Wine 的 usp10 可能架构有问题
+[00:19:24] teleboto: [jactry] 但是没人有空重写
+[00:19:37] teleboto: [jactry] 欢迎大家来填坑
+[00:19:58] \la: usp10 是个什么库啊？
+[00:20:33] teleboto: [jactry] Uniscribe
+[00:21:54] teleboto: [jactry] 印象中是 usp10 有 leak，但是不是一般的 leak，可能改动比较大。
+[00:22:46] \la: 原来是这样……
+[00:24:25] teleboto: [jactry] 对修这些 bug 有兴趣的朋友可以找我交流，我可以尽量找出以前记录的细节帮你帮 Wine 修 bug ;-)
+[00:25:45] \la: ;-)
+[00:36:59] teleboto: [joey_ubuntu] 突然想到，如果某天大部分常用程序都有Linux版了，那jactry是不是要失业了🙈
+[00:37:33] teleboto: [joey_ubuntu] https://dn-fishroom.qbox.me/sticker/258e.png (sticker)
+[00:37:59] teleboto: [jactry] 「Re joey_ubuntu: 突然想到，如果某...」那是光荣退休
+[00:38:10] teleboto: [jactry] 很期待那一天
+[00:38:13] teleboto: [joey_ubuntu] 哈哈哈
+[00:38:25] teleboto: [joey_ubuntu] 很好很
+[00:38:29] teleboto: [joey_ubuntu] 清真
+[00:38:42] \la: joey_ubuntu: 到时候我养 jactry （逃
+[00:38:48] teleboto: [joey_ubuntu] https://dn-fishroom.qbox.me/sticker/3caf.png (sticker)
+[00:39:05] teleboto: [joey_ubuntu] 「Re \la: @joey_ub...」哈哈哈哈哈
+[00:39:20] teleboto: [joey_ubuntu] https://dn-fishroom.qbox.me/sticker/50d6.png (sticker)
+[00:39:36] teleboto: [jactry] 想养我的买 crossover license 吧 （逃
+[00:39:51] teleboto: [jactry] （学生半价
+[00:39:54] teleboto: [jactry] 233
+[00:40:02] teleboto: [joey_ubuntu] 「Re jactry: 想养我的买 cr...」https://dn-fishroom.qbox.me/sticker/2773.png (sticker)
+[00:40:13] \la: ;-P
+[00:53:22] -- kitech QUIT
+[01:26:28] -- \la QUIT
+[01:42:52] teleboto: [昵称，是这样吗] 「Re jactry: 之前是不是这边有...」是，我问的
+[08:45:56] -- rivershang JOIN #gzlug
+[09:15:49] -- \la JOIN #gzlug
+[09:26:57] -- huntxu JOIN #gzlug
+[09:53:13] -- kitech JOIN #gzlug
+[09:56:19] -- citypw QUIT
+[09:57:52] -- kitech QUIT
+[10:15:10] -- kitech JOIN #gzlug
+[10:15:19] -- kitech PART #gzlug
+[10:15:31] -- kitech JOIN #gzlug
+[10:37:40] -- citypw JOIN #gzlug
+[10:48:16] -- \la QUIT
+[11:05:22] -- kitech QUIT
+[11:05:53] -- kitech JOIN #gzlug
+[11:39:14] -- SteamedFish JOIN #gzlug
+[12:19:46] -- kitech QUIT
+[12:36:38] -- kitech JOIN #gzlug
+[12:49:53] -- kitech QUIT
+[13:07:00] -- kitech JOIN #gzlug
+[13:32:35] -- SteamedFish QUIT
+[13:34:04] -- SteamedFish JOIN #gzlug
+[14:32:22] -- citypw QUIT
+[14:41:30] -- citypw JOIN #gzlug
+[14:49:41] -- \la JOIN #gzlug
+[14:50:02] -- SteamedFish QUIT
+[14:52:03] -- SteamedFish JOIN #gzlug
+[14:54:27] -- \la QUIT
+[15:19:52] -- citypw QUIT
+[15:21:06] -- \la JOIN #gzlug
+[15:33:03] -- citypw JOIN #gzlug
+[16:13:57] citypw: http://www.solidot.org/story?sid=49211
+[16:16:05] huntxu: 不明觉厉
+[16:33:33] -- huntxu QUIT
+[16:35:35] -- huntxu JOIN #gzlug
+[16:39:28] -- SteamedFish QUIT
+[16:44:44] -- SteamedFish JOIN #gzlug
+[17:01:56] teleboto: [BashHoratio] @huntxu u r not alone 😂😂
+[17:34:26] -- citypw QUIT
+[17:36:49] -- citypw JOIN #gzlug
+[17:39:24] -- rivershang PART #gzlug
+[18:12:23] -- jactry QUIT
+[18:21:22] -- citypw QUIT
+[18:58:38] -- huntxu QUIT
+[20:24:52] -- kitech QUIT
+[20:45:06] -- jactry JOIN #gzlug
+[21:23:08] -- kitech JOIN #gzlug
+[21:39:03] -- citypw JOIN #gzlug
+[21:47:55] -- kitech QUIT
+[22:05:56] -- kitech JOIN #gzlug
+[22:21:14] -- SteamedFish QUIT
+[22:22:26] -- SteamedFish JOIN #gzlug
+[22:39:04] -- kitech QUIT
+[22:46:52] -- SilverRain QUIT
+[23:00:25] -- citypw QUIT
+[23:02:38] -- citypw JOIN #gzlug
+[23:27:34] -- \la JOIN #gzlug
+[23:27:40] -- kitech JOIN #gzlug
