@@ -1,0 +1,56 @@
+[00:12:55] -- kitech QUIT
+[00:13:50] -- kitech JOIN #gzlug
+[00:25:42] -- kitech QUIT
+[01:08:35] -- \la QUIT
+[01:49:02] -- SteamedFish QUIT
+[04:11:30] -- jactry_ JOIN #gzlug
+[04:14:36] -- jactry QUIT
+[09:24:13] -- kitech JOIN #gzlug
+[09:36:52] -- jactry_ QUIT
+[11:23:57] teleboto: [冰雪聪明琳之风] Robin 好像你那个平板的 PWM 驱动略复杂。。。
+[11:24:02] teleboto: [冰雪聪明琳之风] 估计明天写不出来
+[11:47:39] teleboto: [Robin Lee] 现在已经从现场编译进化成现场写驱动了啊？
+[11:47:55] teleboto: [冰雪聪明琳之风] 明天大概不会去写这个驱动了。。。
+[11:48:06] teleboto: [冰雪聪明琳之风] 最多写个用户控件用 /dev/mem 写参的程序
+[11:57:17] teleboto: [冰雪聪明琳之风] 主要问题是我手头没有 A31 设备。。。
+[12:01:44] teleboto: [冰雪聪明琳之风] 艹 恐怕调参程序也没法写。。。
+[12:17:29] -- SteamedFish JOIN #gzlug
+[12:23:27] -- \la JOIN #gzlug
+[12:44:40] teleboto: [amankwah] 现在驱动都当场写了？！Orz
+[12:54:41] teleboto: [冰雪聪明琳之风] 「Re amankwah: 现在驱动都当场写...」不可能的啦
+[12:55:22] -- citypw QUIT
+[12:55:54] -- citypw JOIN #gzlug
+[13:06:19] -- jactry JOIN #gzlug
+[13:16:53] -- SteamedFish QUIT
+[13:23:49] teleboto: [amankwah] 我一定要去围观👍😊
+[13:29:02] teleboto: [ddmbr] PWM驱动是啥？
+[13:30:36] teleboto: [JeffBai] Pulse Width M*
+[13:30:38] teleboto: [JeffBai] 我查查去
+[13:30:59] teleboto: [JeffBai] Pulse Width Modulation[or]
+[14:04:03] -- \la QUIT
+[14:46:24] teleboto: [johns2014] 围观同哥现场写驱动
+[15:46:12] -- \la JOIN #gzlug
+[17:58:59] teleboto: [BashHoratio] 围观同哥现场写驱动  <fwd johns2014>
+[17:59:13] teleboto: [冰雪聪明琳之风] 你们啊
+[17:59:18] teleboto: [冰雪聪明琳之风] 不要总是想搞个大新闻
+[17:59:26] teleboto: [冰雪聪明琳之风] 报道出了偏差
+[17:59:32] teleboto: [冰雪聪明琳之风] 是要负责任的！
+[18:00:04] teleboto: [BashHoratio] 宝宝说什么好呢(一脸萌萌哒地仰望同哥
+[18:00:08] teleboto: [aldzunway] 围观同哥现场写驱动  <fwd johns2014>
+[18:00:12] teleboto: [amankwah] 你竟然是膜法师
+[18:00:27] teleboto: [aldzunway] 「Re amankwah: 你竟然是膜法师」魔法世家
+[18:00:49] teleboto: [冰雪聪明琳之风] 「Re BashHoratio: 宝宝说什么好呢(...」快卖萌~
+[18:03:19] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 快卖萌~」https://dn-fishroom.qbox.me/sticker/1e3f.png (sticker)
+[18:03:30] teleboto: [aldzunway] https://dn-fishroom.qbox.me/sticker/1e2b.png (sticker)
+[18:03:30] teleboto: [aldzunway] https://dn-fishroom.qbox.me/sticker/2db0.png (sticker)
+[18:03:38] teleboto: [BashHoratio] 一天一萌，今天已经卖完，客官明天吧
+[19:08:14] -- jactry QUIT
+[19:51:46] -- kitech QUIT
+[20:00:22] -- \la QUIT
+[20:01:23] -- \la JOIN #gzlug
+[21:33:23] -- \la QUIT
+[22:25:39] -- \la JOIN #gzlug
+[22:56:54] teleboto: [aldzunway] I’m attending a Meetup with Guangzhou GNU/Linux Users Group http://meetu.ps/e/BSvvp/wg80v/d
+[23:20:56] -- SteamedFish JOIN #gzlug
+[23:24:21] -- FisherDuan JOIN #gzlug
+[23:25:30] -- SteamedFish QUIT
