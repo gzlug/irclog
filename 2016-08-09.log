@@ -1,0 +1,126 @@
+[00:18:18] -- kitech QUIT
+[00:18:24] -- kitech1 JOIN #gzlug
+[00:18:52] -- kitech1 QUIT
+[00:19:15] -- kitech JOIN #gzlug
+[00:20:06] -- kitech1 JOIN #gzlug
+[00:20:06] -- kitech1 QUIT
+[00:20:20] -- kitech QUIT
+[00:20:22] -- kitech1 JOIN #gzlug
+[00:20:43] -- kitech1 QUIT
+[00:21:03] -- kitech JOIN #gzlug
+[00:21:34] -- kitech QUIT
+[00:21:38] -- kitech1 JOIN #gzlug
+[00:22:04] -- kitech1 QUIT
+[00:22:27] teleboto: [xiaoxing] https://dn-fishroom.qbox.me/sticker/bb.png (sticker)
+[00:29:47] -- \la QUIT
+[01:00:43] -- jenenliu1114 JOIN #gzlug
+[01:01:16] -- jenenliu1113 QUIT
+[03:38:14] -- citypw QUIT
+[03:50:45] -- citypw JOIN #gzlug
+[08:34:15] -- citypw QUIT
+[08:56:18] -- rivershang JOIN #gzlug
+[09:01:04] -- \la JOIN #gzlug
+[09:21:24] -- \la QUIT
+[09:22:34] -- \la JOIN #gzlug
+[09:36:25] -- SteamedFish JOIN #gzlug
+[09:49:27] -- huntxu JOIN #gzlug
+[09:59:02] -- kitech JOIN #gzlug
+[10:08:09] -- jenenliu1115 JOIN #gzlug
+[10:08:12] -- jenenliu1114 QUIT
+[10:29:06] -- citypw JOIN #gzlug
+[10:45:33] -- \la QUIT
+[11:26:03] -- \la JOIN #gzlug
+[11:30:27] -- \la QUIT
+[11:58:54] -- citypw QUIT
+[12:26:55] -- citypw JOIN #gzlug
+[13:47:46] -- LastAvengers JOIN #gzlug
+[14:11:03] -- LastAvengers QUIT
+[14:12:37] -- LastAvengers JOIN #gzlug
+[14:17:01] -- jactry_ JOIN #gzlug
+[14:17:02] -- jactry QUIT
+[14:24:28] -- jactry_ QUIT
+[14:24:52] -- jactry JOIN #gzlug
+[15:06:49] -- jactry QUIT
+[15:34:41] -- SteamedFish QUIT
+[15:37:40] -- SteamedFish JOIN #gzlug
+[16:48:28] -- LastAvengers QUIT
+[16:48:38] -- LastAvengers JOIN #gzlug
+[17:07:19] -- LastAvengers QUIT
+[17:08:45] -- LastAvengers JOIN #gzlug
+[17:08:56] -- LastAvengers QUIT
+[17:23:06] -- SteamedFish QUIT
+[17:24:48] -- SteamedFish JOIN #gzlug
+[17:29:26] -- jactry JOIN #gzlug
+[17:32:16] -- jactry QUIT
+[17:32:39] -- rivershang PART #gzlug
+[17:34:53] -- jactry JOIN #gzlug
+[17:53:33] teleboto: [昵称，是这样吗] 有什么方便的工具可以断掉让一个进程的网络，让它连接超时，从而触发一些断网的事件
+[17:54:16] teleboto: [joey_ubuntu] 防火墙？
+[17:54:35] teleboto: [昵称，是这样吗] 防火墙方便吗。。。
+[17:55:06] teleboto: [joey_ubuntu] 随便下载个防火墙嘛
+[17:55:16] teleboto: [joey_ubuntu] 把进程拉黑名单
+[17:55:24] teleboto: [昵称，是这样吗] 比如说：
+[17:55:25] teleboto: [昵称，是这样吗] disconnect -p <pid> -t 3
+[17:55:33] teleboto: [昵称，是这样吗] 让进程断网3秒钟
+[17:56:07] teleboto: [joey_ubuntu] 这么细。。
+[17:56:10] teleboto: [joey_ubuntu] 不懂
+[17:57:14] teleboto: [昵称，是这样吗] 防火墙的话，iptables怎么匹配一个进程
+[17:58:48] teleboto: [joey_ubuntu] 没研究过iptables。。😑
+[17:59:00] teleboto: [joey_ubuntu] https://dn-fishroom.qbox.me/sticker/52b8.png (sticker)
+[18:00:59] teleboto: [joey_ubuntu] ipcop
+[18:01:06] teleboto: [joey_ubuntu] shorewall
+[18:01:12] teleboto: [joey_ubuntu] ufw
+[18:01:27] teleboto: [joey_ubuntu] 貌似都很出名
+[18:01:37] teleboto: [joey_ubuntu] 你可以一个个试试看
+[18:01:52] teleboto: [昵称，是这样吗] ufw和iptables可以混用吗
+[18:02:23] teleboto: [joey_ubuntu] 不清楚哦。。理论上应该不行吧
+[18:05:40] teleboto: [Johnsmiths] 放在虚拟机里面，控制虚拟机的网卡
+[18:07:05] teleboto: [Johnsmiths] 或者万能的docker
+[18:07:35] teleboto: [昵称，是这样吗] 这
+[18:07:35] teleboto: [昵称，是这样吗] 一点都不清真
+[18:08:50] teleboto: [joey_ubuntu] https://dn-fishroom.qbox.me/sticker/2d3c.png (sticker)
+[18:10:28] teleboto: [Johnsmiths] 不求最好，只求最重
+[18:10:47] teleboto: [joey_ubuntu] https://dn-fishroom.qbox.me/sticker/321e.png (sticker)
+[18:24:32] -- citypw QUIT
+[18:24:42] teleboto: [samuelhuang] 赞成KVM或是Docker
+[18:25:23] -- SteamedFish QUIT
+[18:27:07] -- SteamedFish JOIN #gzlug
+[18:35:13] teleboto: [昵称，是这样吗] 那还不如拔网线。。。
+[18:35:22] teleboto: [joey_ubuntu] 哈哈哈
+[18:49:56] teleboto: [zcchen] 定时进行ifconfig <dev> down
+[18:55:17] huntxu: ...
+[18:55:42] huntxu: iptables -m owner --pid_owner <pid>不可以麼，google第一個結果。。。
+[19:16:21] -- citypw JOIN #gzlug
+[19:23:03] teleboto: [昵称，是这样吗] 「Re huntxu: iptables...」不可以，不能匹配pid的
+[19:23:16] teleboto: [昵称，是这样吗] 「Re zcchen: 定时进行ifco...」那样全部都断了
+[19:23:35] teleboto: [昵称，是这样吗] 我的wireshark也跟着停了
+[19:24:04] huntxu: 为啥不能匹配pid
+[19:24:12] huntxu: 不是断掉一个进程的网络么
+[19:24:49] teleboto: [昵称，是这样吗] 没有pid的选项
+[19:24:59] teleboto: [昵称，是这样吗] gid和uid就可以
+[19:29:32] -- kitech QUIT
+[19:31:40] huntxu: 内核没编译这个模块而已吧
+[19:36:33] -- huntxu QUIT
+[19:36:44] -- citypw QUIT
+[19:41:25] teleboto: [samuelhuang] 这么折腾还不如VM吧
+[19:41:36] teleboto: [samuelhuang] 图啥啊
+[19:48:41] -- citypw JOIN #gzlug
+[19:56:53] -- SteamedFish QUIT
+[19:56:57] -- \la JOIN #gzlug
+[20:55:31] -- kitech JOIN #gzlug
+[21:05:43] -- kitech QUIT
+[21:23:04] -- kitech JOIN #gzlug
+[21:37:37] -- kitech QUIT
+[21:54:27] -- kitech JOIN #gzlug
+[22:01:02] -- kitech QUIT
+[22:02:22] -- kitech JOIN #gzlug
+[22:09:17] -- kitech QUIT
+[22:09:54] -- kitech JOIN #gzlug
+[22:23:55] -- \la QUIT
+[22:24:38] -- \la JOIN #gzlug
+[22:50:46] -- kitech QUIT
+[22:55:08] -- kitech JOIN #gzlug
+[23:10:49] -- kitech QUIT
+[23:10:49] -- kitech1 JOIN #gzlug
+[23:11:04] -- kitech1 QUIT
+[23:13:54] -- kitech JOIN #gzlug
