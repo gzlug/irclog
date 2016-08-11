@@ -1,0 +1,141 @@
+[00:00:13] -- kitech JOIN #gzlug
+[01:06:04] -- kitech QUIT
+[01:06:25] -- kitech JOIN #gzlug
+[01:06:47] -- kitech QUIT
+[01:07:07] -- kitech JOIN #gzlug
+[01:07:29] -- \la QUIT
+[01:11:28] -- kitech QUIT
+[04:31:12] -- citypw QUIT
+[04:43:35] -- citypw JOIN #gzlug
+[07:59:04] -- citypw QUIT
+[08:44:31] -- \la JOIN #gzlug
+[08:55:52] -- rivershang JOIN #gzlug
+[09:32:52] -- SteamedFish JOIN #gzlug
+[09:55:01] -- huntxu JOIN #gzlug
+[10:02:51] -- kitech JOIN #gzlug
+[10:04:41] -- jactry QUIT
+[11:47:51] -- eve_ouyang QUIT
+[11:48:07] -- farseerfc QUIT
+[11:54:51] -- eve_ouyang JOIN #gzlug
+[11:56:19] -- farseerfc JOIN #gzlug
+[12:35:29] -- \la QUIT
+[12:37:05] -- \la JOIN #gzlug
+[13:48:41] -- eve_ouyang QUIT
+[13:49:38] -- eve_ouyang JOIN #gzlug
+[14:00:19] -- \la QUIT
+[14:26:54] -- \la JOIN #gzlug
+[15:05:15] teleboto: [jactry] 「Re \la: @jactry:...」不知道 QQ 没更新吗
+[15:06:07] \la: jactry: 没，现在看起来只是崩的机率大大降低了……
+[15:07:29] teleboto: [jactry] 「Re \la: @jactry:...」你可以试试 CrossOver 我刚给 CrossOver 提交了新版 QQ 的 crosstie
+[15:09:30] teleboto: [jactry] https://www.codeweavers.com/compatibility/crossover/qq-light-79
+[15:09:40] teleboto: [jactry] 轻聊版感觉也稳定不少
+[15:20:02] -- kitech QUIT
+[15:22:14] -- kitech JOIN #gzlug
+[16:02:48] -- citypw JOIN #gzlug
+[16:10:25] -- \la QUIT
+[16:52:17] teleboto: [BashHoratio] 不明觉厉
+[16:52:44] teleboto: [JeffBai] Nice
+[17:10:15] teleboto: [aldzunway] no money
+[17:12:35] teleboto: [fr13nz] web版不好吗
+[17:14:23] teleboto: [Johnsmiths] qq web 版能用吗？
+[17:14:48] teleboto: [fr13nz] 说的好像不能用一样
+[17:15:34] teleboto: [JeffBai] 能用之后就该想想怎么更好地用了吧
+[17:15:47] teleboto: [Johnsmiths] 我这边经常丢信息
+[17:16:11] teleboto: [fr13nz] 手机上安装了啊  电脑要不要其实不重要
+[17:16:55] teleboto: [Johnsmiths] 一直显示“二维码已失效，请点击刷新”
+[17:18:49] teleboto: [fr13nz] 。。
+[17:33:44] -- rivershang PART #gzlug
+[18:21:06] -- citypw QUIT
+[18:52:33] -- huntxu QUIT
+[18:53:59] teleboto: [BashHoratio] 搞台android-x86，手机上的都可以卸了
+[18:54:07] teleboto: [BashHoratio] 正计划这么干
+[18:54:25] teleboto: [Johnsmiths] 「Re BashHoratio: 搞台androi...」放在虚拟器里吗？
+[18:54:45] teleboto: [BashHoratio] 别……这样的体验爆差
+[18:54:50] teleboto: [ddmbr] Arch on Baytrail 好痛苦。。好想转Android x86
+[18:55:18] teleboto: [BashHoratio] 镇机，还是直接用触摸版和鼠标爽的很
+[18:55:26] teleboto: [BashHoratio] 真机，还是直接用触摸版和鼠标爽的很
+[18:56:35] teleboto: [Johnsmiths] 所以为了用QQ， 在买一台电脑装android-x86 ？
+[18:56:54] teleboto: [Johnsmiths] 所以为了用QQ， 再买一台电脑装android-x86 ？
+[19:00:29] teleboto: [joey_ubuntu] 所以为了用QQ， 再买一台电脑装android-x86 ？  <fwd Johnsmiths>
+[19:15:53] -- \la JOIN #gzlug
+[19:17:40] teleboto: [Chouch0u] 「Re joey_ubuntu: 所以为了用QQ，...」虚拟机吧..
+[19:19:29] teleboto: [冰雪聪明琳之风] 「Re ddmbr: Arch on ...」什么板子
+[19:20:07] teleboto: [ddmbr] 「Re 冰雪聪明琳之风: 什么板子」Baytrail, Acer Aspire Switch
+[19:20:25] teleboto: [ddmbr] 我搞不定驱动。。
+[19:20:37] teleboto: [冰雪聪明琳之风] 缺哪些驱动？
+[19:20:42] teleboto: [ddmbr] 声音
+[19:21:00] teleboto: [ddmbr] 摄像头
+[19:21:05] teleboto: [冰雪聪明琳之风] 声音。。。 Bay trail 的声音太玄 我也没什么解
+[19:21:21] teleboto: [冰雪聪明琳之风] 「Re ddmbr: 摄像头」又是个玄学
+[19:21:39] teleboto: [冰雪聪明琳之风] 除了这些之外都正常？
+[19:21:47] teleboto: [ddmbr] 能用
+[19:21:55] teleboto: [冰雪聪明琳之风] 那就好。
+[19:22:07] teleboto: [ddmbr] 但不爽咯。。
+[19:22:29] teleboto: [ddmbr] 有一部平板用不了摄像头和声音好奇怪。。
+[19:22:51] teleboto: [ddmbr] 如果Android x86的驱动支持更好我会想转。。
+[19:23:00] teleboto: [冰雪聪明琳之风] Android x86 驱动支持可能不会好。
+[19:23:10] teleboto: [ddmbr] 🌚🌚🌚
+[19:23:13] teleboto: [冰雪聪明琳之风] 要驱动支持的话 你得用原厂 Android
+[19:23:17] teleboto: [冰雪聪明琳之风] 而不是第三方 Android x86
+[19:23:29] teleboto: [ddmbr] 原厂只有Windows
+[19:23:45] teleboto: [冰雪聪明琳之风] 那就用 Windows 吧
+[19:23:55] teleboto: [冰雪聪明琳之风] BayTrail 的主要问题是
+[19:24:02] teleboto: [冰雪聪明琳之风] 声音和摄像头这两部分完全是嵌入式模式
+[19:24:13] teleboto: [ddmbr] 都是acpi似乎
+[19:24:21] teleboto: [冰雪聪明琳之风] 而不是 PC 模式
+[19:24:28] teleboto: [ddmbr] WiFi也是
+[19:24:46] teleboto: [ddmbr] 不过WiFi解决掉了。。
+[19:24:53] teleboto: [冰雪聪明琳之风] WiFi 的话是 8723bs ？
+[19:24:54] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 声音和摄像头这两...」ics总线的？
+[19:25:07] teleboto: [冰雪聪明琳之风] 「Re aldzunway: ics总线的？」声音好像是 I2S
+[19:25:25] teleboto: [冰雪聪明琳之风] 摄像头是 MIPI CSI + I2C
+[19:25:28] teleboto: [ddmbr] lspci和lsusb都找不到，是不是就意味着和正常情况不一样？
+[19:25:38] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: WiFi 的话是...」我的那部是博通sdio的网卡和蓝牙
+[19:25:45] teleboto: [ddmbr] 我不太懂😂😂
+[19:25:56] teleboto: [ddmbr] 「Re 冰雪聪明琳之风: WiFi 的话是...」没错
+[19:27:20] teleboto: [ddmbr] 我Google到很多人的做法，到了声音和摄像头基本都是无解
+[19:28:46] teleboto: [aldzunway] bay trail linux sound?
+[19:28:52] teleboto: [冰雪聪明琳之风] 「Re ddmbr: lspci和ls...」在 PC 上，是。
+[19:28:54] teleboto: [冰雪聪明琳之风] 摄像头的确无解
+[19:29:08] teleboto: [冰雪聪明琳之风] 摄像头的话。。。是 Bay Trail SoC 上的特别单元处理的
+[19:29:36] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 摄像头的话。。。...」然后intel还没公布这部分的文档？
+[19:29:38] teleboto: [冰雪聪明琳之风] 那个特别单元的驱动只有 BayTrail Android BSP 有
+[19:29:38] teleboto: [冰雪聪明琳之风] 声音的话 理论上有解 事实上好像没有
+[19:30:16] teleboto: [aldzunway] 所以即使是x86也有驱动坑😂
+[19:30:19] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 然后intel还...」好像是
+[19:30:25] teleboto: [ddmbr] 我在哪里可以看到这方面的文档？Google得到吗？然后我去找一个Intel发的Android。。
+[19:30:46] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 所以即使是x86...」聪明。
+[19:31:27] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 聪明。」总体上看这坑比arm的花式驱动好多了😂
+[19:32:04] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 总体上看这坑比a...」并不。
+[19:32:57] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 并不。」想起来big.little里面的HMP还没合并进内核
+[19:37:29] -- kitech QUIT
+[19:45:33] -- kitech JOIN #gzlug
+[19:46:00] -- kitech QUIT
+[19:46:05] -- kitech1 JOIN #gzlug
+[19:48:21] -- kitech2 JOIN #gzlug
+[19:48:21] -- kitech2 QUIT
+[19:49:26] -- kitech2 JOIN #gzlug
+[19:49:53] -- kitech2 QUIT
+[19:50:05] -- kitech2 JOIN #gzlug
+[19:50:30] -- kitech2 QUIT
+[19:50:43] -- kitech1 QUIT
+[19:51:39] -- jactry JOIN #gzlug
+[19:52:46] -- kitech JOIN #gzlug
+[19:53:47] -- kitech QUIT
+[19:53:53] -- kitech JOIN #gzlug
+[19:56:39] -- kitech2 JOIN #gzlug
+[19:58:25] -- kitech QUIT
+[20:01:10] -- kitech2 QUIT
+[20:42:17] -- kitech JOIN #gzlug
+[20:42:48] -- kitech1 JOIN #gzlug
+[20:42:48] -- kitech QUIT
+[20:43:19] -- kitech JOIN #gzlug
+[20:43:19] -- kitech1 QUIT
+[22:07:57] -- \la QUIT
+[22:33:23] -- \la JOIN #gzlug
+[22:36:15] -- LastAvengers JOIN #gzlug
+[22:36:42] -- \la QUIT
+[22:38:34] -- \la JOIN #gzlug
+[22:58:43] -- SteamedFish QUIT
+[23:21:59] -- citypw JOIN #gzlug
+[23:27:29] -- \la QUIT
