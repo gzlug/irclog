@@ -1,0 +1,113 @@
+[00:36:43] -- \la QUIT
+[00:39:37] -- \la JOIN #gzlug
+[00:45:50] -- \la QUIT
+[01:23:37] -- kitech QUIT
+[01:23:58] -- kitech JOIN #gzlug
+[01:24:38] -- kitech QUIT
+[01:24:59] -- kitech JOIN #gzlug
+[01:25:23] -- kitech QUIT
+[01:25:43] -- kitech JOIN #gzlug
+[01:26:16] -- kitech QUIT
+[09:29:03] -- jactry QUIT
+[10:29:58] -- \la JOIN #gzlug
+[10:37:46] -- jactry JOIN #gzlug
+[10:49:40] -- \la QUIT
+[11:21:36] -- citypw QUIT
+[11:26:10] -- citypw JOIN #gzlug
+[11:33:55] -- kitech JOIN #gzlug
+[12:19:29] -- \la JOIN #gzlug
+[12:48:00] teleboto: [liangsuilong] rpms/chromium | PkgDB
+[12:48:00] teleboto: [liangsuilong] https://admin.fedoraproject.org/pkgdb/package/rpms/chromium/
+[12:48:20] teleboto: [liangsuilong] 历尽多年，chromium终于进入Fedora了。
+[12:48:39] teleboto: [amankwah] 天亮了😂
+[12:59:12] teleboto: [BashHoratio] 噢？原来fedora没有chromium的？
+[13:04:19] teleboto: [aldzunway] 「Re liangsuilong: 历尽多年，chr...」哈？？？
+[13:04:35] teleboto: [aldzunway] 「Re BashHoratio: 噢？原来fedo...」应该在rpmfusion？？？
+[13:05:00] teleboto: [amankwah] https://fedoraproject.org/wiki/Chromium
+[13:05:07] teleboto: [BashHoratio] 不知道rpm系的历史
+[13:05:11] teleboto: [amankwah] 果然已改
+[13:05:41] teleboto: [amankwah] 原来是Google有人自己维护的，时不时挂两个周
+[13:06:17] teleboto: [aldzunway] @Icenowy 话说主线的sunxi VE驱动是用v4l2的框架吗？
+[13:06:46] teleboto: [amankwah] 个人私下维护一个源，好像
+[13:07:20] teleboto: [aldzunway] 「Re amankwah: https://...」没有各种解码不舒服
+[13:07:27] teleboto: [aldzunway] /help@XiaoT_bot
+[13:07:28] teleboto: http://fishroom.tuna.moe/log/gzlug/2016-08-13/14 (long text)
+[13:08:32] teleboto: [fr13nz] 哪个视频和音频播放器好点 debian下
+[13:11:03] teleboto: [BashHoratio] 「Re fr13nz: 哪个视频和音频播...」testing上vlc老是抽风，还是觉得smplayer顺手
+[13:12:30] teleboto: [aldzunway] 「Re BashHoratio: testing上...」我的vlc不知道为啥老是内存泄漏，而且视频大小很奇怪
+[13:13:21] teleboto: [fr13nz] smplayer画面怎么不清楚
+[13:13:21] teleboto: [BashHoratio] 「Re fr13nz: 哪个视频和音频播...」音频感觉都差不多吧，感觉cl什么开头的那个好一点（不过资源占的不少
+[13:13:54] teleboto: [BashHoratio] 「Re fr13nz: smplayer...」画质还跟播放器有关……interesting
+[13:14:17] teleboto: [BashHoratio] 「Re aldzunway: 我的vlc不知道...」fillezilla还经常segfault呢
+[13:14:27] teleboto: [fr13nz] 我的意思是不是有什么解码的没装好？
+[13:16:33] teleboto: [BashHoratio] 一调整它UI就挂了……非要删除~/.config/filezilla/filezilla.xml，恢复默认UI才能好
+[13:16:34] teleboto: [BashHoratio] 不过很玄，pc上这样，但是公司电脑新装的testing就不会
+[13:16:36] teleboto: [aldzunway] 「Re BashHoratio: fillezil...」我之前fx老是段错误，然后找不到原因。。。
+[13:16:54] teleboto: [BashHoratio] 「Re aldzunway: 我之前fx老是段...」都是玄妙的事
+[13:17:17] teleboto: [BashHoratio] 「Re fr13nz: 我的意思是不是有...」能播放，跟decoder就没关系了
+[13:17:21] teleboto: [amankwah] 玄学大师🙈
+[13:18:11] teleboto: [BashHoratio] 画面不清，要么视频本身不好，要么硬件（cpu/Gpu，屏幕之类的
+[13:18:17] teleboto: [aldzunway] 「Re BashHoratio: 都是玄妙的事」我用gdb都找不出什么问题，看了一圈只有xul.so这个问题
+[13:19:00] teleboto: [BashHoratio] 甚至接线不稳都可能，之前把vga线换了一条，公司屏幕就好多了
+[13:30:12] teleboto: [aldzunway] 「Re BashHoratio: 甚至接线不稳都可...」感觉有些是代码的bug来的，巧合之中碰到了，但找不到原因不好报bug
+[13:31:44] teleboto: [BashHoratio] 「Re aldzunway: 感觉有些是代码的...」不能复现的问题，bug也没人能帮忙fix
+[13:31:56] teleboto: [BashHoratio] 最讨厌随机错了
+[13:32:58] teleboto: [aldzunway] 「Re BashHoratio: 最讨厌随机错了」有可能是高能粒子轰击内存导致布尔值翻转了🙈
+[13:35:58] teleboto: [aldzunway] 「Re BashHoratio: 不能复现的问题，...」其实把coredump交出去有用吗🙈
+[13:40:51] teleboto: [liangsuilong] 「Re aldzunway: 应该在rpmfu...」不在，因为法务问题。。。
+[13:42:31] -- SteamedFish JOIN #gzlug
+[14:28:33] -- eve_ouyang QUIT
+[14:48:03] teleboto: [Robin Lee] 终于啊
+[14:52:44] teleboto: [Robin Lee] 😭
+[15:04:16] -- citypw QUIT
+[15:18:28] -- eve_ouyang JOIN #gzlug
+[15:21:57] -- citypw JOIN #gzlug
+[15:26:54] -- citypw QUIT
+[15:27:17] -- citypw JOIN #gzlug
+[16:40:48] -- SteamedFish QUIT
+[16:48:40] -- jactry QUIT
+[17:32:13] -- eve_ouyang_ JOIN #gzlug
+[17:34:03] -- eve_ouyang QUIT
+[17:46:22] -- jactry JOIN #gzlug
+[17:48:01] -- kitech QUIT
+[17:50:14] -- kitech JOIN #gzlug
+[18:24:46] -- \la QUIT
+[18:25:22] -- \la JOIN #gzlug
+[18:25:52] -- \la QUIT
+[18:26:24] -- \la JOIN #gzlug
+[20:38:39] -- kitech QUIT
+[20:39:35] -- kitech JOIN #gzlug
+[21:14:48] teleboto: [aldzunway] @Icenowy 话说三丧那帮人好屌，直接将Mali port到4.8内核上面了
+[21:47:27] teleboto: [冰雪聪明琳之风] 「Re aldzunway: @Icenowy...」Utgard 还是 Midgard
+[21:47:35] teleboto: [冰雪聪明琳之风] r几p几
+[22:17:17] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: Utgard 还...」midgard
+[22:17:53] teleboto: [冰雪聪明琳之风] 「Re aldzunway: midgard」果然
+[22:18:21] teleboto: [冰雪聪明琳之风] 「Re aldzunway: @Icenowy...」其实 kernel space 驱动 现在 linux-sunxi 有 r6p0 版本
+[22:18:34] teleboto: [冰雪聪明琳之风] 但是 userland 没有
+[22:18:52] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 其实 kerne...」哪里来的r6p0....
+[22:19:32] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 哪里来的r6p0...」从官网版本移植的
+[22:19:51] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: r几p几」r13p0
+[22:20:06] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 从官网版本移植的」内存地址什么的对上了？
+[22:20:11] teleboto: [冰雪聪明琳之风] 「Re aldzunway: r13p0」woc midgard 驱动更新这么快？
+[22:20:15] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 内存地址什么的对...」嗯
+[22:21:33] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: woc midg...」p都不更新的，而且migrated是主力，当然勤快
+[22:23:23] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 但是 userl...」有试过contact mali吗？
+[22:23:51] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 有试过conta...」mali 不给
+[22:24:04] teleboto: [冰雪聪明琳之风] 我倒是有点想 contact allloser
+[22:24:16] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: mali 不给」问过啦🙈
+[22:24:23] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 问过啦🙈」嗯
+[22:24:34] teleboto: [冰雪聪明琳之风] 这种东西都要求找 soc vender
+[22:25:28] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 这种东西都要求找...」貌似mali挂着的驱动都是关系比较好的vendor的
+[22:25:38] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 貌似mali挂着...」嗯
+[22:25:52] teleboto: [冰雪聪明琳之风] 而且都是一些开放平台
+[22:26:31] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 而且都是一些开放...」r3p2的blob用上去会炸吗？
+[22:27:29] teleboto: [冰雪聪明琳之风] 「Re aldzunway: r3p2的blo...」当然
+[22:33:29] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 其实 kerne...」话说sunxi的repo里面找不到这个啊
+[22:34:25] -- citypw QUIT
+[22:37:09] -- citypw JOIN #gzlug
+[23:00:28] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 话说sunxi的...」在 mripard
+[23:32:03] -- jenenliu1115 JOIN #gzlug
+[23:34:00] -- jenenliu1115 QUIT
+[23:36:09] -- \la QUIT
+[23:55:04] -- citypw QUIT
+[23:55:55] -- citypw JOIN #gzlug
