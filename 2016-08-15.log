@@ -1,0 +1,69 @@
+[01:00:15] -- citypw QUIT
+[01:26:11] -- jenenliu1115 QUIT
+[01:46:52] -- \la QUIT
+[08:43:35] -- rivershang JOIN #gzlug
+[09:29:22] teleboto: [imlonghao] 玩脱
+[09:29:40] teleboto: [冰雪聪明琳之风] 「Re imlonghao: 玩脱」？
+[09:29:59] teleboto: [imlonghao] https://dn-fishroom.qbox.me/img/5548.jpeg (photo)
+[09:31:37] teleboto: [冰雪聪明琳之风] 输入 root 密码
+[09:31:38] teleboto: [冰雪聪明琳之风] 登录
+[09:36:42] teleboto: [imlonghao] https://dn-fishroom.qbox.me/sticker/4492.png (sticker)
+[09:36:50] teleboto: [imlonghao] 我没认出来他让我做什么
+[09:40:04] teleboto: [imlonghao] 「Re imlonghao: 」星号估计是中文.........
+[09:40:31] -- huntxu JOIN #gzlug
+[09:43:12] teleboto: [冰雪聪明琳之风] 「Re imlonghao: 星号估计是中文....」嗯
+[09:43:29] teleboto: [冰雪聪明琳之风] 你需要 aosc 加持的中文控制台内核（逃
+[09:44:00] teleboto: [imlonghao] 我好像点了挂起到硬盘，然后他开机的时候我ctrl alt del打断了，然后就挂了 🙆
+[10:08:40] teleboto: [imlonghao] 「Re imlonghao: 」已经解决....
+[10:08:53] teleboto: [冰雪聪明琳之风] 「Re imlonghao: 已经解决....」分享经验
+[10:09:49] teleboto: [liangsuilong] 貌似进去recovery mode里手动fsck一下硬盘就行了吧
+[10:10:06] teleboto: [imlonghao] 「Re liangsuilong: 貌似进去reco...」对啊...没有经验.....
+[10:10:25] teleboto: [imlonghao] e2fsck /dev/sda1
+[10:10:48] teleboto: [*#06#] .
+[11:12:51] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 你需要 aosc...」什么黑科技
+[11:14:25] teleboto: [aldzunway] @Icenowy 顺便问一下115200的串口波特率刷新的时候感觉很慢。。。
+[11:14:34] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 什么黑科技」一个内核补丁
+[11:15:12] teleboto: [冰雪聪明琳之风] https://dn-fishroom.qbox.me/img/555c.jpeg (photo)
+[12:34:43] -- \la JOIN #gzlug
+[13:16:17] -- jactry QUIT
+[13:21:19] -- jactry JOIN #gzlug
+[14:07:40] teleboto: [ddmbr] 酷炫。。
+[14:11:40] teleboto: [SoloCompany] 为什么要互相伤害，虽然我没有颈椎病
+[16:43:44] -- rivershang PART #gzlug
+[17:21:22] -- jactry_ JOIN #gzlug
+[17:23:33] -- jactry QUIT
+[17:39:49] -- jactry_ QUIT
+[17:41:45] -- jactry JOIN #gzlug
+[18:58:34] -- huntxu QUIT
+[19:53:30] -- \la QUIT
+[20:04:07] teleboto: [aldzunway] @Icenowy 突然想起pine64也是mali400 mp2，他们有r6p0的驱动啊
+[20:05:17] teleboto: [冰雪聪明琳之风] 「Re aldzunway: @Icenowy...」It's r5p1.
+[20:05:22] teleboto: [冰雪聪明琳之风] 😃😃😃
+[20:05:50] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: It's r5p...」不对啊，wiki上面不是写r6p0的吗？
+[20:06:23] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 不对啊，wiki...」是吗
+[20:06:32] huawei: http://wiki.pine64.org/index.php/Mali_Driver
+[20:06:50] teleboto: [冰雪聪明琳之风] https://dn-fishroom.qbox.me/img/55b5.jpeg (photo)
+[20:06:53] teleboto: [冰雪聪明琳之风] 我手头的 BSP 是 r5p1
+[20:07:03] huawei: 不过链接失效了。。。
+[20:08:47] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 我手头的 BSP...」不过wiki的链接失效了，不知道是他们自己删掉还是DMCA的
+[20:08:55] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 不过wiki的链...」没失效。
+[20:09:11] teleboto: [冰雪聪明琳之风] https://dn-fishroom.qbox.me/img/55b7.jpeg (photo)
+[20:09:14] teleboto: [冰雪聪明琳之风] （呃。。。 Chrome 的截图有问题。。。
+[20:09:20] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 没失效。」下载链接😂
+[20:10:14] teleboto: [冰雪聪明琳之风] 可能是过期了
+[20:10:43] teleboto: [冰雪聪明琳之风] 而且这份垃圾东西我硬盘上有
+[20:11:08] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 而且这份垃圾东西...」有bug???
+[20:11:53] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 有bug???」几乎没法用
+[20:12:01] teleboto: [冰雪聪明琳之风] 而且我不太喜欢用 BSP
+[20:12:35] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 几乎没法用」所以userland还是没着落啊
+[20:13:00] -- SteamedFish JOIN #gzlug
+[20:17:35] -- SteamedFish QUIT
+[21:04:16] -- \la JOIN #gzlug
+[22:28:20] -- jenenliu1115 JOIN #gzlug
+[22:33:01] -- jenenliu1115 QUIT
+[22:33:42] -- jenenliu1115 JOIN #gzlug
+[22:45:18] -- citypw JOIN #gzlug
+[22:52:21] -- kitech JOIN #gzlug
+[22:59:53] -- jenenliu1115 QUIT
+[23:26:28] -- kitech QUIT
+[23:27:26] -- kitech JOIN #gzlug
