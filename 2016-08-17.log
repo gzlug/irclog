@@ -1,0 +1,53 @@
+[00:27:48] -- \la QUIT
+[01:01:31] -- kitech QUIT
+[02:46:48] -- citypw QUIT
+[08:48:04] -- rivershang JOIN #gzlug
+[08:59:55] -- \la JOIN #gzlug
+[09:32:35] teleboto: [Johnsmiths] 粗糙一点的话，用一个稳压芯片就搞定了吧
+[09:33:15] -- SteamedFish JOIN #gzlug
+[09:37:17] teleboto: [aldzunway] 「Re Johnsmiths: 粗糙一点的话，用...」不用稳压，而且这个不是单纯的输出电压问题
+[09:38:39] teleboto: [Johnsmiths] 不是接口电平不一致吗？
+[09:40:05] teleboto: [aldzunway] 「Re Johnsmiths: 不是接口电平不一...」问题是电平带信号啊🙈
+[09:43:14] teleboto: [Johnsmiths] 如果要做得好的话，或者成本没关系的话， 那就用光耦吧，但那样就要做两个电源了。 不过我记得好像是直接现成有电平转换器的， 或者是拿一个输出是1.8伏的触发器
+[09:45:17] teleboto: [aldzunway] 「Re Johnsmiths: 如果要做得好的话...」我找找电路图
+[09:46:10] teleboto: [aldzunway] https://dn-fishroom.qbox.me/img/5658.jpeg (photo)
+[09:46:35] teleboto: [aldzunway] 「Re Johnsmiths: 如果要做得好的话...」看起来什么都没有用🙈
+[09:48:19] teleboto: [Johnsmiths] 「Re aldzunway: 」这， 比较省钱吧。。。
+[09:49:19] teleboto: [aldzunway] 「Re Johnsmiths: 这， 比较省钱吧...」DIY系列，没有现成品，自己做也挺容易的
+[09:51:16] teleboto: [aldzunway] 「Re Johnsmiths: 这， 比较省钱吧...」不过R2和R3换一换信号会好点的样子？
+[09:57:28] teleboto: [Johnsmiths] 不知道唉， 我对这种电阻搭起来的电路不太了解， 我一般都用芯片实现功能的。
+[09:59:22] -- \la QUIT
+[10:00:14] -- huntxu JOIN #gzlug
+[10:11:00] -- jactry_ JOIN #gzlug
+[10:11:19] -- jactry QUIT
+[10:12:43] -- jactry__ JOIN #gzlug
+[10:15:47] -- jactry_ QUIT
+[10:23:01] -- kitech JOIN #gzlug
+[10:24:31] -- kitech QUIT
+[10:25:45] -- kitech JOIN #gzlug
+[10:25:49] -- jactry__ QUIT
+[10:25:57] -- jactry JOIN #gzlug
+[13:45:58] -- jactry QUIT
+[13:54:27] -- citypw JOIN #gzlug
+[14:34:32] -- kitech QUIT
+[14:51:47] -- kitech JOIN #gzlug
+[15:27:59] -- \la JOIN #gzlug
+[16:53:49] -- \la QUIT
+[17:19:26] -- jactry JOIN #gzlug
+[17:23:28] -- jactry QUIT
+[17:31:59] -- rivershang QUIT
+[18:20:45] -- kitech QUIT
+[18:37:32] -- kitech JOIN #gzlug
+[18:58:00] -- jactry JOIN #gzlug
+[19:34:35] -- kitech QUIT
+[19:45:40] -- huntxu QUIT
+[20:26:12] -- jactry QUIT
+[20:26:41] -- jactry JOIN #gzlug
+[20:29:00] -- kitech JOIN #gzlug
+[20:31:46] -- jactry QUIT
+[20:31:50] -- jactry_ JOIN #gzlug
+[20:32:32] -- \la JOIN #gzlug
+[20:49:27] -- jactry JOIN #gzlug
+[20:51:51] -- jactry_ QUIT
+[20:56:07] -- kitech QUIT
+[21:08:37] -- kitech JOIN #gzlug
