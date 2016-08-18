@@ -1,0 +1,84 @@
+[00:05:23] -- farseerfc QUIT
+[00:05:45] -- farseerfc JOIN #gzlug
+[00:13:38] -- \la QUIT
+[01:04:10] -- kitech QUIT
+[01:42:00] -- citypw QUIT
+[08:39:29] -- rivershang JOIN #gzlug
+[10:01:29] -- jactry_ JOIN #gzlug
+[10:03:49] -- jactry QUIT
+[10:15:12] -- huntxu JOIN #gzlug
+[10:46:59] -- kitech JOIN #gzlug
+[12:32:46] -- rivershang QUIT
+[12:34:58] -- rivershang JOIN #gzlug
+[12:45:54] -- \la JOIN #gzlug
+[12:52:47] -- hunt_O JOIN #gzlug
+[12:53:59] -- huntxu QUIT
+[12:54:20] -- huntxu QUIT
+[12:54:33] -- huntxu JOIN #gzlug
+[13:03:48] teleboto: [aldzunway] 刚刚某宝的说没有1.8v的TTL了，略郁闷
+[13:04:45] teleboto: [aldzunway] 先买根sata to esata接A20板顶着。。。
+[14:05:11] -- kitech1 JOIN #gzlug
+[14:05:12] -- kitech QUIT
+[14:15:59] -- citypw JOIN #gzlug
+[14:38:34] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 先买根sata ...」你要？
+[14:57:52] -- farseerfc QUIT
+[14:58:17] -- farseerfc JOIN #gzlug
+[15:14:06] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 你要？」你说esata线啊？
+[15:14:10] teleboto: [aldzunway] 是啊
+[15:21:13] teleboto: [冰雪聪明琳之风] 我问你要干什么。。。
+[15:22:36] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 我问你要干什么。...」接个硬盘当nas，之前以为用三星的USB3的，然而内核各种坑，先接上cubiebroad用着。。。
+[15:32:40] teleboto: [冰雪聪明琳之风] 你是 cb3 来的是吧
+[15:47:09] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 你是 cb3 来...」对啊
+[15:47:44] teleboto: [冰雪聪明琳之风] cb3 做 NAS 其实也不是不能用
+[15:49:55] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: cb3 做 NA...」写入比较慢吧
+[15:50:18] teleboto: [aldzunway] 而且由于孱弱的cpu一加密就gg
+[15:50:46] teleboto: [冰雪聪明琳之风] 加密。。。
+[15:51:00] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 加密。。。」smb也有加密啊
+[15:53:55] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 加密。。。」我外网访问的WebDAV也是加密的。。。
+[15:59:40] -- kitech1 QUIT
+[16:02:05] teleboto: [aldzunway] 总之有时候应用一复杂就boom
+[16:16:21] -- kitech JOIN #gzlug
+[16:24:14] -- \la QUIT
+[16:32:36] -- jactry_ QUIT
+[16:46:06] teleboto: [samuelhuang] 然而没有Docker :(
+[17:31:14] -- rivershang PART #gzlug
+[18:16:57] teleboto: [aldzunway] 「Re samuelhuang: 然而没有Dock...」？？？
+[18:18:28] teleboto: [samuelhuang] ARM上现在跑不了Docker
+[18:19:44] teleboto: [aldzunway] 「Re samuelhuang: ARM上现在跑不...」能
+[18:20:07] teleboto: [aldzunway] 「Re samuelhuang: ARM上现在跑不...」为什么不能呢，又不是v8（
+[18:22:45] teleboto: [aldzunway] 「Re samuelhuang: ARM上现在跑不...」信不信我现场构建一个arm镜像🙈
+[18:30:12] teleboto: [aldzunway] dnf的速度爽🌚
+[18:37:29] -- \la JOIN #gzlug
+[18:41:05] -- kitech QUIT
+[18:41:33] -- kitech JOIN #gzlug
+[18:54:16] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 为什么不能呢，又...」v8 为什么不能
+[18:54:23] teleboto: [冰雪聪明琳之风] 别歧视 ARMv8
+[18:54:45] -- huntxu QUIT
+[19:00:23] -- jactry JOIN #gzlug
+[19:17:27] -- kitech QUIT
+[19:22:16] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: v8 为什么不能」我说的是JS V8🌚
+[19:25:41] teleboto: [samuelhuang] ARMv5
+[19:26:41] teleboto: [aldzunway] 「Re samuelhuang: ARMv5」v5那么老
+[19:35:33] -- kitech JOIN #gzlug
+[19:35:39] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 我说的是JS V...」js v8 为什么不能
+[19:38:53] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: js v8 为什...」之前构建的一个docker镜像里面有个v8，死活编译不过去
+[19:50:01] -- kitech QUIT
+[20:00:37] teleboto: [samuelhuang] NAS大多是ARMv5
+[20:00:38] teleboto: [samuelhuang] Kirkwood
+[20:07:10] teleboto: [aldzunway] 「Re samuelhuang: NAS大多是AR...」是啊，但现在主流都有v7了
+[20:11:27] teleboto: [samuelhuang] 没有用在NAS上的方案，所以Qnap, 矽能，主要厂商都没有v7产品
+[20:13:02] teleboto: [samuelhuang] 有Docker却没本地存储也太蛋疼了
+[20:13:52] teleboto: [aldzunway] 「Re samuelhuang: 没有用在NAS上...」这个锅Marvell背
+[20:14:55] teleboto: [aldzunway] 「Re samuelhuang: 没有用在NAS上...」事实上是有的，加钱
+[20:37:51] -- kitech JOIN #gzlug
+[21:52:58] -- teleboto QUIT
+[21:53:07] -- teleboto JOIN #gzlug
+[21:54:19] -- kitech QUIT
+[22:08:29] -- kitech JOIN #gzlug
+[22:14:01] -- SteamedFish QUIT
+[22:14:36] teleboto: [aldzunway] @Icenowy arm的KVM效率怎样？
+[22:17:01] -- kitech QUIT
+[22:19:35] -- kitech JOIN #gzlug
+[22:28:55] teleboto: [samuelhuang] 没试过，我的nas只有512m，应该跑不了
+[23:48:37] -- teleboto QUIT
+[23:48:45] -- teleboto JOIN #gzlug
