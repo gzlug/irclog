@@ -1,0 +1,187 @@
+[00:12:42] teleboto: [liangsuilong] @Icenowy arm的KVM效率怎样？  <fwd aldzunway>
+[00:35:47] teleboto: [冰雪聪明琳之风] 「Re liangsuilong: @Icenowy...」我没认真玩过
+[00:35:54] teleboto: [冰雪聪明琳之风] 设备效能不行
+[00:36:31] teleboto: [liangsuilong] https://dn-fishroom.qbox.me/img/5751.jpeg (photo)  <fwd orvice>
+[00:41:29] teleboto: [aldzunway] 「Re 冰雪聪明琳之风: 设备效能不行」刚刚给Fedor装了个lpae内核，kvm就出来了，想开个玩玩
+[00:42:05] teleboto: [aldzunway] 「Re liangsuilong: 」https://dn-fishroom.qbox.me/sticker/eb9.png (sticker)
+[01:13:15] -- \la QUIT
+[01:18:55] -- kitech QUIT
+[01:54:18] -- citypw QUIT
+[08:43:24] -- rivershang JOIN #gzlug
+[08:43:47] teleboto: [fr13nz] 早
+[08:43:59] rivershang: 早~
+[08:45:01] teleboto: [冰雪聪明琳之风] 「Re aldzunway: 刚刚给Fedor...」ct 或许有开 kvm 的意义
+[08:45:04] teleboto: [冰雪聪明琳之风] 内存够大
+[08:45:43] teleboto: [fr13nz] 有谁用AC68U的  想请教个问题
+[08:45:48] teleboto: [fr13nz] 路由器
+[08:46:43] teleboto: [fr13nz] 信号怎么调节 为什么我刚买的信号 还不如老的tp
+[08:53:02] -- \la JOIN #gzlug
+[09:31:36] -- SteamedFish JOIN #gzlug
+[09:40:47] teleboto: [joey_ubuntu] 干扰？
+[09:45:31] -- kitech JOIN #gzlug
+[10:18:04] -- huntxu JOIN #gzlug
+[11:13:18] -- citypw JOIN #gzlug
+[11:28:16] citypw: https://github.com/hardenedlinux/grsecurity-101-tutorials/blob/master/kernel_mitigation.md
+[11:58:51] -- jenenliu1115 JOIN #gzlug
+[12:19:46] teleboto: [aldzunway] 「Re fr13nz: 有谁用AC68U...」AC68U可以刷个梅林试试
+[12:20:00] teleboto: [aldzunway] 然后应该有个发射功率的
+[12:20:48] teleboto: [fr13nz] 刷了 功率最大了
+[12:20:55] teleboto: [fr13nz] 性能不稳定
+[12:39:49] -- \la_ JOIN #gzlug
+[12:40:29] -- \la QUIT
+[13:28:29] -- theuser2 JOIN #gzlug
+[13:32:21] -- theuser2 PART #gzlug
+[14:19:51] -- jactry QUIT
+[14:21:34] -- jactry JOIN #gzlug
+[14:35:54] -- jenenliu1115 QUIT
+[14:45:08] -- jenenliu1115 JOIN #gzlug
+[15:51:43] -- \la QUIT
+[16:00:50] -- jenenliu1115 QUIT
+[16:27:38] -- jenenliu1115 JOIN #gzlug
+[16:27:57] teleboto: Simba Huang joined chat
+[17:11:50] -- jactry QUIT
+[17:12:20] -- jactry JOIN #gzlug
+[17:32:52] -- rivershang PART #gzlug
+[17:39:45] -- \la JOIN #gzlug
+[17:44:09] -- jenenliu1115 QUIT
+[17:56:20] -- jenenliu1115 JOIN #gzlug
+[18:42:36] -- huntxu QUIT
+[19:00:51] -- jenenliu1115 QUIT
+[19:16:41] -- jenenliu1115 JOIN #gzlug
+[19:32:54] -- theuser2 JOIN #gzlug
+[19:48:16] -- kitech QUIT
+[20:44:35] -- kitech JOIN #gzlug
+[20:48:48] theuser2: Ni hao?
+[20:51:42] \la: theuser2:  :)
+[20:52:15] theuser2: ni hao la
+[20:52:26] \la: 你好。
+[20:55:36] theuser2: So is this an active or dormant LUG?
+[20:56:34] teleboto: [JeffBai] Active, not at this time of day though.
+[20:58:04] \la: Not  very active but alive :-)
+[20:58:40] theuser2: What kind of people?  Students & hobbyists or "IT" professionals?
+[21:03:07] \la: Various kinds of.
+[21:07:27] theuser2: Anything exiting going on ?
+[21:08:48] \la: exiting?
+[21:08:48] huawei: theuser2, just a monthly party, no much things
+[21:09:10] \la: ah... monthly meet up.
+[21:09:57] theuser2: What happens at these gatherings?
+[21:12:34] theuser2: Oh i noticed the Tianhe-2A  TOP500 #1 spot was lost to the new "Sunway TaihuLight"  close to Shanghai.
+[21:15:35] huawei: theuser2, talk about linux related mainly
+[21:16:25] huawei: theuser2, Tianhe-2A is located in Guangzhou, we care more about it
+[21:19:56] theuser2: The new "Sunway TaihuLight" however marks an important step  thought, in not depending on imported components.
+[21:23:42] theuser2: So when is the next LUG meet?
+[21:24:50] huawei: theuser2, it still has a long way to walk because it architecture not compatible with x86 or other mainstream processor
+[21:25:42] huawei: theuser2, maybe the second weekend in September
+[21:26:05] theuser2: The really tricky part is distributing tasks optimally across such a cast number of cores.
+[21:26:15] theuser2:  /cast/vast/
+[21:28:17] theuser2: And scoring hight on a  test is one thing.... being able to use all that power for real world applicable number crunching.... thats hard.
+[21:30:29] theuser2: So... anyone tinkering with something interesting and new?
+[21:31:24] huawei: theuser2, @Icenoway he is a student in Sun Yat-sen University who has worked about it, maybe he knew more
+[21:32:16] huawei: theuser2, what's that mean??? ;-)
+[21:33:04] teleboto: [aldzunway] @Icenowy
+[21:35:00] -- teleboto QUIT
+[21:35:09] -- teleboto JOIN #gzlug
+[21:41:36] theuser2: oh.. i mean something a bit more applicable for "normal" users
+[21:49:16] -- kitech QUIT
+[21:51:43] teleboto: [aldzunway] 「Re theuser2: oh.. i m...」yes, we exchange some experience from our daily usage. also new features of software will mention if we talk about that topic.
+[21:51:45] -- kitech JOIN #gzlug
+[21:51:53] teleboto: [aldzunway] 「Re theuser2: oh.. i m...」my poor English🙈
+[21:53:49] theuser2: teleboto, no...  its quite good.
+[21:54:21] teleboto: [tsoushih] wow
+[21:55:16] teleboto: [冰雪聪明琳之风] teleboto is a relay.
+[21:55:27] teleboto: [冰雪聪明琳之风] to Telegam
+[21:55:35] teleboto: [冰雪聪明琳之风] and it has also a web interface
+[21:56:03] theuser2: ah lol
+[21:57:01] theuser2: ah right that makes sense now
+[21:57:06] theuser2: [nick]
+[21:57:22] theuser2: ACTION face-palms 
+[22:00:24] theuser2: So how many people usually show up for the monthly LUG event?
+[22:01:07] teleboto: [aldzunway] 「Re theuser2: So how m...」nearly 20
+[22:02:02] theuser2: Ah... so actually quite a few then...
+[22:02:50] teleboto: [aldzunway] 「Re theuser2: Ah... so...」🙈
+[22:08:24] teleboto: [aldzunway] 「Re theuser2: Ah... so...」Beijing LUG and Shanghai LUG are two activity LUG in China mainland
+[22:09:25] theuser2: I am surprised that there is relatively few linux users in China....  but soooo many WinXP users
+[22:09:59] -- \la QUIT
+[22:12:59] theuser2: I guess Alibaba and Tencent deserve a spanking for making "business critical" software that only run on windoze
+[22:13:21] theuser2: And its soo poor code it wont even run with "Wine"
+[22:13:54] theuser2: seamlik, well  most of them carry linux in their pockets
+[22:14:37] teleboto: [aldzunway] 「Re theuser2: I am sur...」most of XP users in China are stubborn and can't get with newer system
+[22:14:40] theuser2: Ali Trade Manager and  QQ seem to be quite critical for getting things done
+[22:16:57] theuser2: tradekey.com has the worst software thought.....   (thought thats Pakistani stuff)  their "trade manager" wants to eat all your ram and cpu cycles..... (so unless your windows is in a VM... enjoy your desktop slug)
+[22:17:40] theuser2: seamlik, @aldzunway  thought i guess thats not just Chinese users but "normal" users anywhere...
+[22:20:01] theuser2: I may be looking for developers for a few  open source projects, anyone here with C/C++/Vala/pyhon/perl  experience?
+[22:21:29] theuser2: Doing some stuff with gstreamer
+[22:22:44] theuser2: But not only
+[22:22:56] -- \la JOIN #gzlug
+[22:24:35] theuser2: Few of the projects have a littlebit of funding so there may be some hardware gifts and/or paid travel for people that contribute a lot of good code.
+[22:28:52] theuser2: So maybe I'll drop by the next meet and present some stuff.... if thats ok...
+[22:30:38] teleboto: [aldzunway] 「Re theuser2: So maybe...」🙈
+[22:30:58] theuser2: whats this? 🙈
+[22:31:02] theuser2: whats this: 🙈
+[22:32:02] theuser2: Ah right.....  with bigger font size its obvious...
+[22:32:23] theuser2: at 10-12pt it looks.... a bit... perverse...
+[22:32:34] theuser2: or maybe thats my eyes problem
+[22:33:45] teleboto: [aldzunway] 「Re theuser2: whats th...」face palm
+[22:36:01] \la: 今天的频道飙起了英文（
+[22:37:31] teleboto: [aldzunway] 「Re \la: 今天的频道飙起了...」because there is a English speaker
+[22:38:17] teleboto: [aldzunway] emoji can't show correct in desktop irc
+[22:39:03] theuser2: \la yes i'm sorry, my Mandarin and Cantonese is for the most part limited to profanities that are yelled at container loading crews when they try to make square boxer round to fit more in the containers
+[22:40:46] \la: theuser2: don't mind... english is okay too.
+[22:41:46] \la: aldzunway: install noto-fonts-emoji.
+[22:41:59] teleboto: [aldzunway] 「Re theuser2: \la yes ...」it doesn't matter.
+[22:42:11] teleboto: [aldzunway] 「Re \la: @aldzunw...」but just too small....
+[22:42:31] theuser2: Just get the emoji set that bundles with the keyloger  :-p
+[22:44:50] teleboto: [aldzunway] 「Re theuser2: \la yes ...」most of gzlug member can speak English more fluently than me ;-)
+[22:45:41] theuser2: I think English will always be the default "tech language"
+[22:48:14] theuser2: Chinese languages are very complicated on their own.... trying to explain complicated stuff in a complicated language....  that must be like orders of magnitude more complicated... is it not?
+[22:50:33] teleboto: [ddmbr] 「Re theuser2: Chinese ...」What's your native language then?
+[22:50:40] teleboto: [ddmbr] Just curious
+[22:52:02] teleboto: [aldzunway] 「Re theuser2: Chinese ...」English is better when description information, but Chinese can include more information in same characters
+[22:52:59] \la: As a native chinese speaker, I think English is more complicated (
+[22:54:01] teleboto: [ddmbr] It's hard to say. Most people in China are way more familiar with Chinese than English so therefore cannot understand why English can be easier in dealing with tech terms
+[22:54:39] teleboto: [aldzunway] 「Re \la: As a nat...」CJK speakers have the same idea
+[22:57:03] theuser2: getting late....  bedtime.  Normally I
+[22:57:35] theuser2: getting late....  bedtime.  Normally  i would not mind it getting late but is a bit sick at the moment so better catch some sleep....
+[22:57:45] teleboto: [aldzunway] 「Re theuser2: getting ...」good night
+[22:58:11] theuser2: good nite... sorry about flooding the room with english
+[22:59:42] teleboto: [aldzunway] 「Re theuser2: good nit...」no no no, not that mean, i just wish you have a good night
+[23:00:50] teleboto: [aldzunway] seems some mistaken....
+[23:02:20] teleboto: [aldzunway] i said something wrong?😭
+[23:03:39] \la: theuser2: never mind, feel free to use english in this channel. ;p
+[23:06:47] -- SteamedFish QUIT
+[23:12:27] theuser2: [aldzunway] no no no nothing wrong
+[23:14:36] theuser2: For a while I've been thinking about maybe getting together some people and investors and setting up a Open Source  development company/org in GZ or nearby city...
+[23:15:21] theuser2: Maybe silly idea..
+[23:16:10] teleboto: [ddmbr] To me it's still not late at all XD
+[23:16:49] theuser2: I have a feeling there is a lot of hidden talent that would be revealed to the world if more young people got the opportunity to work in a multicultural creative environment
+[23:17:09] teleboto: [ddmbr] I strongly agree
+[23:18:56] theuser2: If about 30% of the work force was made up from foreign professionals and/or exchange students....  more Chinese would get the experience of working in an international team without going through the hassle of leaving China
+[23:19:47] teleboto: [ddmbr] This is unrealistic
+[23:19:57] theuser2: maybe
+[23:20:15] teleboto: [ddmbr] Most of the people in China are Chinese though
+[23:20:35] teleboto: [ddmbr] However, if we do it remotely then it may be possible
+[23:21:33] theuser2: That also depends on the scale of things
+[23:21:58] theuser2: If its 3 people.... total  then 33% is one person.  :-p
+[23:23:11] teleboto: [ddmbr] 「Re theuser2: If about...」I'm actually somehow working in the scenario you mentioned. It really works. However it's not possible most of the time if you are talking about doing it FTF
+[23:24:08] theuser2: Anyway is just a thought.... with funding it may get somewhere.
+[23:25:08] theuser2: Though my general experience is that a lot of people have China confused with NorthKorea
+[23:25:27] teleboto: [ddmbr] Funding won't be a problem if it's a good and practical idea
+[23:25:46] teleboto: [ddmbr] 「Re theuser2: Though m...」Huh? People?
+[23:26:00] theuser2: Western news if full of lies and bullshit
+[23:26:20] theuser2: Its like.... i'll read western news articles about China... for amusement
+[23:27:41] teleboto: [ddmbr] 「Re theuser2: Its like...」I sometimes read them for fun as well XD... E.g. Shanghaiist
+[23:30:28] theuser2: For face to face stuff i think the easiest most achievable approach is to have students cooperate remotely and then at then maybe at then end of their study have them visit for 3-6months.
+[23:32:07] theuser2: But anyway.... just thoughts for now.
+[23:32:32] teleboto: [ddmbr] 👍
+[23:34:14] theuser2: One of the secret to the success of silicon valley is that if you study in the US and you do well... they will try hard to keep you from going home.
+[23:35:48] theuser2: Large part of the best talent in the Valley is imported brains
+[23:36:00] theuser2: Just look at Elon Musk.....
+[23:37:46] theuser2: While China has lately started to attract more imported brains.... there is still quite a bit of catching up to do....  but China once it get going on something... have a tendency to catch up fast
+[23:39:00] theuser2: And please don't get me wrong... I'm not saying foreigners are superior in any way.
+[23:40:32] theuser2: I'm not one of those cocky douche bags.... (at least i hope not).
+[23:41:08] theuser2: seamlik, most of the year yes.
+[23:43:37] theuser2: Btw just curious.... whats average pay for linux C/C++ devs around here?
+[23:44:35] \la: ￥0 pre month ;-)
+[23:46:22] theuser2: Anyway i guess I'll revisit that idea more in detail if/when some funding is in place.
+[23:52:16] theuser2: I guess computer hardware and travel (to abroad) is most interesting for students and hobbyists.
+[23:57:24] theuser2: anyway i really really need to sleep now
