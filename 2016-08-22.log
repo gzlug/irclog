@@ -1,0 +1,66 @@
+[00:04:04] -- \la QUIT
+[00:08:03] -- lastavengers JOIN #gzlug
+[00:54:05] -- lastavengers QUIT
+[00:55:17] -- citypw QUIT
+[01:24:07] -- kitech QUIT
+[01:58:13] -- eve_ouyang QUIT
+[01:58:38] -- eve_ouyang JOIN #gzlug
+[08:33:47] -- huntxu JOIN #gzlug
+[08:50:23] -- lastavengers JOIN #gzlug
+[09:03:53] -- rivershang JOIN #gzlug
+[09:13:04] -- SteamedFish JOIN #gzlug
+[09:26:19] teleboto: [Robin Lee] 有没有人用 ThinkPad 8 玩过 Linux？
+[09:27:00] -- jactry_ JOIN #gzlug
+[09:30:51] teleboto: [samuelhuang] ThinkPad 8?
+[09:30:58] -- jactry QUIT
+[09:31:54] teleboto: [Robin Lee] 大概这样子的 http://item.jd.com/1541284468.html
+[09:33:02] teleboto: [samuelhuang] 搜了一下，文章不少
+[09:33:13] teleboto: [samuelhuang] 会有啥问题吗
+[09:48:42] -- kitech JOIN #gzlug
+[09:50:05] teleboto: [Robin Lee] 就随便问问群里有没有人用过，自己应该也不会出手买啦
+[09:50:39] teleboto: [samuelhuang] 以为你安装出问题了
+[10:03:37] -- eve_ouyang QUIT
+[10:24:38] -- jactry_ QUIT
+[10:34:01] -- citypw JOIN #gzlug
+[10:35:05] -- eve_ouyang JOIN #gzlug
+[11:11:16] -- eve_ouyang QUIT
+[12:45:21] -- eve_ouyang_ JOIN #gzlug
+[12:51:44] teleboto: [aldzunway] A20的SMB性能捉急得可以
+[12:53:09] teleboto: [aldzunway] 写入受限于SATA控制器的性能，读取炸在网卡的发送性能
+[12:57:02] teleboto: [BashHoratio] 「Re aldzunway: A20的SMB性...」自己搭建的smb？
+[13:08:20] -- \la QUIT
+[13:18:14] -- lastavengers JOIN #gzlug
+[14:41:48] teleboto: [aldzunway] 「Re BashHoratio: 自己搭建的smb...」对
+[14:42:05] teleboto: [aldzunway] 「Re BashHoratio: 自己搭建的smb...」已经调教过了
+[15:10:16] teleboto: [samuelhuang] SMB还是kirkwood好使
+[16:10:20] -- lastavengers QUIT
+[16:13:53] teleboto: hao hao joined chat
+[16:14:29] -- lastavengers JOIN #gzlug
+[17:22:35] -- lastavengers QUIT
+[17:31:57] -- rivershang PART #gzlug
+[18:23:48] -- SteamedFish QUIT
+[18:25:54] -- SteamedFish JOIN #gzlug
+[18:35:04] -- SteamedFish QUIT
+[18:44:50] -- lastavengers JOIN #gzlug
+[18:45:48] -- lastavengers QUIT
+[18:46:04] -- lastavengers JOIN #gzlug
+[19:05:31] -- SteamedFish JOIN #gzlug
+[19:06:27] -- huntxu QUIT
+[19:27:41] -- \la QUIT
+[19:27:59] -- lastavengers JOIN #gzlug
+[19:31:58] -- kitech QUIT
+[20:17:09] -- citypw QUIT
+[20:29:41] -- kitech JOIN #gzlug
+[20:41:29] -- kitech QUIT
+[21:14:49] -- kitech JOIN #gzlug
+[21:17:15] -- jactry JOIN #gzlug
+[21:21:02] -- jactry QUIT
+[21:23:32] -- jactry JOIN #gzlug
+[21:42:14] -- SteamedFish QUIT
+[22:10:11] -- teleboto QUIT
+[22:10:20] -- teleboto JOIN #gzlug
+[22:34:23] -- \la QUIT
+[22:36:06] -- lastavengers JOIN #gzlug
+[22:38:26] \la: 其实 GZLUG 有没有过贴纸啊？
+[23:41:21] -- SteamedFish JOIN #gzlug
+[23:46:41] -- SteamedFish QUIT
