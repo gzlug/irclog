@@ -1,0 +1,118 @@
+[00:04:04] -- eve_ouyang_ QUIT
+[00:08:15] -- eve_ouyang_ JOIN #gzlug
+[00:30:25] -- teleboto QUIT
+[00:30:33] -- teleboto JOIN #gzlug
+[00:38:51] -- teleboto QUIT
+[00:38:59] -- teleboto JOIN #gzlug
+[00:45:41] huawei: \la, 没有。。。
+[00:46:46] -- teleboto QUIT
+[00:46:53] -- teleboto JOIN #gzlug
+[01:19:29] -- \la QUIT
+[01:37:46] -- kitech QUIT
+[02:48:21] -- teleboto QUIT
+[02:48:29] -- teleboto JOIN #gzlug
+[02:48:45] -- teleboto QUIT
+[02:48:53] -- teleboto JOIN #gzlug
+[02:49:16] -- teleboto QUIT
+[02:49:24] -- teleboto JOIN #gzlug
+[02:49:40] -- teleboto QUIT
+[02:49:48] -- teleboto JOIN #gzlug
+[02:49:54] -- teleboto QUIT
+[02:50:07] -- teleboto JOIN #gzlug
+[02:50:12] -- teleboto QUIT
+[02:50:20] -- teleboto JOIN #gzlug
+[02:51:20] -- teleboto QUIT
+[02:51:35] -- teleboto JOIN #gzlug
+[02:52:30] -- teleboto QUIT
+[02:52:38] -- teleboto JOIN #gzlug
+[02:52:49] -- teleboto QUIT
+[02:52:58] -- teleboto JOIN #gzlug
+[02:54:17] -- teleboto QUIT
+[02:54:25] -- teleboto JOIN #gzlug
+[02:54:34] -- teleboto QUIT
+[02:54:42] -- teleboto JOIN #gzlug
+[02:56:10] -- teleboto QUIT
+[02:56:18] -- teleboto JOIN #gzlug
+[02:56:36] -- teleboto QUIT
+[02:56:43] -- teleboto JOIN #gzlug
+[07:19:04] -- teleboto QUIT
+[07:19:13] -- teleboto JOIN #gzlug
+[08:33:09] -- rivershang JOIN #gzlug
+[08:45:22] -- lastavengers JOIN #gzlug
+[09:37:34] -- jactry QUIT
+[09:43:53] -- huntxu JOIN #gzlug
+[09:44:43] -- huntxu QUIT
+[09:47:02] -- huntxu JOIN #gzlug
+[10:59:00] -- kitech JOIN #gzlug
+[11:01:11] -- kitech QUIT
+[11:02:28] -- kitech JOIN #gzlug
+[11:18:34] -- SteamedFish JOIN #gzlug
+[11:52:08] -- kitech QUIT
+[12:45:27] -- kitech JOIN #gzlug
+[13:43:56] -- jactry JOIN #gzlug
+[15:41:03] -- pingbo JOIN #gzlug
+[15:51:15] -- teleboto QUIT
+[15:51:24] -- teleboto JOIN #gzlug
+[16:07:54] teleboto: lucy ruet joined chat
+[16:11:48] -- pingbo QUIT
+[16:35:17] -- pingbo JOIN #gzlug
+[16:40:03] -- pingbo QUIT
+[16:55:34] -- SteamedFish QUIT
+[16:56:29] -- SteamedFish JOIN #gzlug
+[17:03:41] -- jactry_ JOIN #gzlug
+[17:06:13] -- jactry QUIT
+[17:08:58] -- SteamedFish QUIT
+[17:15:34] -- SteamedFish JOIN #gzlug
+[17:26:45] -- SteamedFish QUIT
+[17:28:44] -- SteamedFish JOIN #gzlug
+[17:29:42] -- pingbo JOIN #gzlug
+[17:34:13] -- rivershang PART #gzlug
+[17:35:12] -- pingbo QUIT
+[17:44:04] -- SteamedFish QUIT
+[17:56:40] -- pingbo JOIN #gzlug
+[18:01:03] -- pingbo QUIT
+[18:08:31] -- SteamedFish JOIN #gzlug
+[18:11:12] teleboto: [samuelhuang] 我就抱着kirkwood等Docker支持了
+[18:32:00] -- SteamedFish QUIT
+[18:32:30] teleboto: [BashHoratio] [varia] BashHoratio: Kirkwood Community College - Cedar Rapids [ http://www.kirkwood.edu/ ] Kirkwood Community College. EagleNet; •; Talon; •; Student Email. GO. APPLY NOW ... Learner Success at Kirkwood · Member of Iowa's Creative Corridor.  <fwd XiaoT_bot>
+[18:42:47] -- SteamedFish JOIN #gzlug
+[18:50:29] -- pingbo JOIN #gzlug
+[18:55:04] -- pingbo QUIT
+[18:55:51] -- SteamedFish QUIT
+[19:08:23] -- SteamedFish JOIN #gzlug
+[19:10:11] huawei: 'google kirkwood
+[19:10:19] huawei: ...
+[19:13:50] \la: huawei: 这里没 varia 啊…… 要不我叫瓜哥拉进来？
+[19:14:20] teleboto: [aldzunway] 「Re samuelhuang: 我就抱着kirk...」没多大可能了，毕竟v5te
+[19:14:43] teleboto: [aldzunway] 「Re samuelhuang: 我就抱着kirk...」v7还有不少镜像可以用
+[19:14:51] teleboto: [aldzunway] 「Re \la: huawei: ...」好啊
+[19:17:48] -- bokuno` JOIN #gzlug
+[19:18:40] -- huntxu QUIT
+[19:20:40] -- kitech QUIT
+[19:22:37] -- bokuno` PART #gzlug
+[19:24:11] -- SteamedFish QUIT
+[19:25:45] -- \la QUIT
+[19:36:46] teleboto: [冰雪聪明琳之风] v5te 什么的。。。表示不喜欢（
+[19:38:37] teleboto: [samuelhuang] 没办法，没有v7的nas，Docker机没有本地存储太蛋疼了
+[19:39:37] teleboto: [samuelhuang] Rspi3上跑Docker就是这样
+[19:44:53] -- pingbo JOIN #gzlug
+[19:48:56] huawei: v7的nas一抓一大把
+[19:49:08] -- pingbo QUIT
+[19:52:33] -- lastavengers JOIN #gzlug
+[20:15:58] -- kitech JOIN #gzlug
+[20:26:07] teleboto: [samuelhuang] 给几个型号瞅瞅
+[20:27:49] -- lastavengers QUIT
+[20:28:35] -- SteamedFish JOIN #gzlug
+[20:34:43] -- lastavengers JOIN #gzlug
+[20:38:06] -- SteamedFish QUIT
+[20:38:25] -- varia JOIN #gzlug
+[20:39:18] \la: 'echo 好棒！
+[20:39:18] varia: 好棒!
+[20:39:22] -- gauge JOIN #gzlug
+[20:39:27] gauge: 'ping!
+[20:39:27] varia: gauge: pong!
+[20:44:02] -- SteamedFish JOIN #gzlug
+[21:14:52] teleboto: [aldzunway] 「Re samuelhuang: 给几个型号瞅瞅」https://www.synology.com/en-us/knowledgebase/DSM/tutorial/General/What_kind_of_CPU_does_my_NAS_have
+[21:14:53] teleboto: [aldzunway] x86都有，有钱就行了
+[21:20:08] -- SteamedFish QUIT
+[23:50:21] -- \la QUIT
