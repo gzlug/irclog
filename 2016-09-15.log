@@ -1,0 +1,49 @@
+[00:07:10] -- SteamedFish QUIT
+[00:09:39] -- citypw QUIT
+[01:39:38] -- kitech2 JOIN #gzlug
+[01:39:42] -- kitech2 QUIT
+[01:40:40] -- kitech1 QUIT
+[03:02:19] -- LastAvengers QUIT
+[08:18:30] -- kitech1 JOIN #gzlug
+[09:49:24] -- \la JOIN #gzlug
+[09:53:22] -- jactry QUIT
+[10:35:18] -- kitech1 QUIT
+[10:37:40] -- kitech1 JOIN #gzlug
+[13:17:19] -- citypw JOIN #gzlug
+[15:39:17] -- jactry JOIN #gzlug
+[16:19:08] -- rivershang JOIN #gzlug
+[16:20:51] -- rivershang PART #gzlug
+[21:38:54] -- \la JOIN #gzlug
+[21:40:54] LastAvengers: gauge: 不是本来就 +c 了咩？
+[21:41:21] gauge: LastAvengers: 嘛 要 -c 啦
+[21:41:29] gauge: +c 是没颜色
+[21:41:37] gauge: 'mode
+[21:41:37] varia: gauge: user g/caller-id i/invisible Q/disable forwarding R/block unidentified w/see wallops Z/connected securely (see [ https://freenode.net/kb/answer/usermodes ])
+[21:41:37] varia: gauge: channel b/channel ban c/colour filter C/block CTCPs e/ban exemption f/forward F/enable forwarding g/free invite i/invite only I/invite exemption j/join throttle k/password l/join limit m/moderated n/prevent external send p/private q/quiet Q/block forwarded users r/block unidentified s/secret S/SSL-only
+[21:41:58] gauge: c/colour filter
+[21:42:37] gauge: :o
+[21:42:53] LastAvengers: ChanServ 干嘛替我自动 +c 了……
+[21:43:01] gauge: 大概要和 ChanServ 说吧...
+[21:46:01] LastAvengers: :-| 求指令
+[21:46:15] gauge: /msg ChanServ set #gzlug mlock -c
+[21:46:21] gauge: 大概...
+[21:46:49] LastAvengers: mlock 是啥？
+[21:47:08] LastAvengers: 'mode
+[21:47:08] varia: LastAvengers: 04user 00g/caller-id 00i/invisible 00Q/disable forwarding 00R/block unidentified 00w/see wallops 00Z/connected securely (see [02 https://freenode.net/kb/answer/usermodes ])
+[21:47:08] varia: LastAvengers: 04channel 00b/channel ban 00c/colour filter 00C/block CTCPs 00e/ban exemption 00f/forward 00F/enable forwarding 00g/free invite 00i/invite only 00I/invite exemption 00j/join throttle 00k/password 00l/join limit 00m/moderated 00n/prevent external send 00p/private 00q/quiet 00Q/block forwarded users 00r/block unidentified 00s/secret 00S/SSL-only
+[21:47:17] gauge: /msg ChanServ info #gzlug
+[21:47:37] gauge: 里面有个 mode lock 猜测可能是固定某些 mode ?
+[21:48:04] gauge: 原来是 +ntc-slk 现在是 -c
+[21:48:40] gauge: 大概设成 +nt-slk 比较好?
+[21:49:38] LastAvengers: 大概（
+[22:14:12] teleboto: 5[cicada] https://dn-fishroom.qbox.me/img/6725.jpeg (photo)
+[22:14:41] teleboto: 5[cicada] 这情况有人遇到过吗？
+[22:19:11] LastAvengers_: 好久没搭地铁了……
+[22:19:14] teleboto: 5[joey_ubuntu] https://dn-fishroom.qbox.me/sticker/526.png (sticker)
+[22:19:36] teleboto: 5[joey_ubuntu] 对地铁说，让你用win
+[22:19:41] teleboto: 5[swordfeng] 666
+[22:19:53] teleboto: 5[swordfeng] ce吧这是
+[22:20:08] teleboto: 6[imlonghao] 如果看待学校挟持8.8.8.8
+[22:20:16] teleboto: 6[imlonghao] 15「Re imlonghao: 如果看待学校挟持...」🙆
+[22:20:30] teleboto: 10[SoloCompany] 这是 windows 2003?
+[22:53:11] -- jactry QUIT
