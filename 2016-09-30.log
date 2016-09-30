@@ -1,0 +1,23 @@
+[00:06:29] -- LastAvengers QUIT
+[00:32:29] -- SteamedFish QUIT
+[08:43:48] -- LastAvengers JOIN #gzlug
+[09:25:09] -- huntxu JOIN #gzlug
+[10:59:30] teleboto: bore james joined chat
+[11:15:52] teleboto: 5[bore james] 大家好
+[11:15:56] teleboto: 5[bore james] http://fishroom.tuna.moe/log/gzlug/2016-09-30/2 (long text)
+[11:27:48] teleboto: 13[ttand] x86上灵 arm上不灵驱动问题之前碰到过，但是是usb网卡。最后发现是arm有些地方要添加内存屏障才行。x86内存强顺序 arm如果乱序内存弱顺序
+[12:08:45] -- citypw JOIN #gzlug
+[12:27:54] -- citypw QUIT
+[14:18:54] -- burncode JOIN #gzlug
+[14:46:51] -- burncode QUIT
+[14:47:16] teleboto: 5[bore james] 更正一下：通过get_info request获取信息：0x01，通过get_cur request获得信息：0x0（无错误）；
+[17:23:13] -- LastAvengers QUIT
+[17:34:26] -- LastAvengers JOIN #gzlug
+[18:09:04] -- teleboto QUIT
+[18:09:16] -- teleboto JOIN #gzlug
+[18:10:07] -- teleboto QUIT
+[18:10:15] -- teleboto JOIN #gzlug
+[18:32:34] -- huntxu QUIT
+[22:09:01] -- citypw JOIN #gzlug
+[23:44:30] -- jactry_ JOIN #gzlug
+[23:47:54] -- jactry QUIT
